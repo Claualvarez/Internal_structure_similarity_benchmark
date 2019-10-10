@@ -2,7 +2,6 @@ Structure	ReferenceUnits	Comments
 19hc_A	(1-135;169-292)	
 1a4p_A	(1-45;46-92)	
 1a4s_A	(152-265;266-462)	
-1a6d_A	(17-118;119-519)	Insertion:146-403 MultipleDomainTypes
 1a8l_A	(1-119;120-226)	
 1af2_A	(1-150;151-294)	
 1afw_B	(25-295;296-417)	
@@ -136,6 +135,7 @@ Structure	ReferenceUnits	Comments
 3ezm_A	(1-50;51-101)	
 3pep_A	(1-170;171-326)	
 4pro_C	(6-86;87-166)	
+1a6d_A	(17-118;119-519)	Insertion:146-403 MultipleDomainTypes
 1ahu_A	(274-419;420-560)	MultipleDomainTypes
 1anv_A	(266-385;386-529)	MultipleDomainTypes
 1aor_A	(1-117;118-210)	MultipleDomainTypes
