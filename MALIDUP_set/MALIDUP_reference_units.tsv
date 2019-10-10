@@ -2,93 +2,68 @@ Structure	ReferenceUnits	Comments
 19hc_A	(1-135;169-292)	
 1a4p_A	(1-45;46-92)	
 1a4s_A	(152-265;266-462)	
-1a6d_A	(17-118;119-519)	Insertion:146-403
+1a6d_A	(17-118;119-519)	Insertion:146-403 MultipleDomainTypes
 1a8l_A	(1-119;120-226)	
 1af2_A	(1-150;151-294)	
 1afw_B	(25-295;296-417)	
 1ahj_A	(10-119;120-207)	
-1ahu_A	(274-419;420-560)	
 1ai3_A	(3-220;221-416)	
 1aj8_A	(6-149;150-376)	
 1ako_A	(1-102;103-268)	
 1ala_A	(3-87;88-161;160-245;246-318)	
-1anv_A	(266-385;386-529)	
 1aoa_A	(121-251;260-375)	
-1aor_A	(1-117;118-210)	
 1at0_A	(258-323;324-402)	
-1avk_A	(9-96;97-211)	
 1b24_A	(7-103;104-178)	
-1b3q_A	(540-599;600-671)	
 1b65_A	(9-193;194-375)	
 1b77_A	(1-104;105-228)	
 1b7y_B	(1-190;400-474)	Insertion:39-399
-1ba3_A	(3-177;178-333)	
 1bj5_A	(3-196;197-388;389-584)	
 1bml_C	(12-148;149-284)	
 1boy_A	(5-106;107-213)	
 1bp1_A	(1-240;241-456)	
 1bwz_A	(1-144;145-274)	
-1bxr_A	(1-127;556-676) (128-402;677-935)	
 1c3g_A	(180-261;266-340)	
 1c8u_A	(2-115;116-286)	
 1c8v_B	(83-194;195-389)	
 1c9y_A	(34-186;187-354)	
 1cdw_A	(155-242;243-333)	
-1ce8_A	(414-468;469-524)	
-1ciy_A	(428-461,256-296;297-354;355-427)	
 1cjd_A	(15-244;245-383)	
-1ck7_A	(217-278;279-334)	
 1ckv_A	(1-82;83-141)	
 1cpo_A	(26-106;129-218)	
 1d2o_A	(535-624;625-721)	
 1d4v_A	(105-144;145-185)	
-1d5y_A	(3-56;57-121)	
 1d8h_A	(299-413;425-500)	
 1ddz_A	(84-310;338-564)	
-1df9_C	(501-538;539-572)	
 1dfc_A	(1013-1137;1141-1259)	
-1dgs_A	(427-501;502-576)	
 1dkr_B	(1-164;165-315)	
 1dlp_A	(1-120;121-235)	
 1doz_A	(2-170;171-310)	
 1e0c_A	(1-135;136-271)	
-1e3p_A	(3-151;346-482) (152-262;483-578)	
-1e9h_B	(175-309;310-432)	
 1eb7_A	(27-168;181-304)	
 1efd_N	(32-159;160-293)	
-1efu_B	(55-139;140-282)	
-1ei5_A	(336-418;419-520)	
 1emn_A	(2124-2164;2165-2205)	
 1erz_A	(1-162;163-274)	
 1exj_A	(121-200;201-277)	
 1f0i_A	(6-254;255-514)	
 1f34_B	(1-74;75-148)	
-1f52_A	(102-257;258-389)	
 1f53_A	(1-47;48-84)	
 1f9z_A	(1-65;66-126)	
-1fec_A	(1-186;187-357)	
 1fga_A	(20-58;59-101;102-143)	
 1fjr_A	(1-62;121-188)	
-1fo4_A	(176-261;461-612) (262-380;613-761)	
-1fok_A	(4-143;144-281;287-386)	
 1ftr_A	(1-124;144-296)	
 1fx8_A	(6-136;137-259)	
 1fyz_E	(3-79;80-169)	
 1g1b_A	(1-99;100-164)	
 1g4m_A	(5-175;176-357)	
 1g61_A	(2003-2046;2047-2089) (2090-2136;2137-2180)	
-1ggu_A	(516-629;630-726)	
 1guw_A	(19-80;115-171)	
-1h16_A	(164-425;426-742)	
 1h5y_B	(1-126;127-253)	
 1h6g_A	(377-507;508-631)	
 1h99_A	(54-168;169-275)	
 1h9m_A	(1-72;73-141)	
 1haz_B	(16-123;124-245)	
 1hg7_A	(1000-1037;1038-1065)	
-1hh2_P	(199-278;279-344)	
 1hr6_A	(14-234;235-470)	
-1hs6_A	(1-113;114-208)	
 1hsl_A	(1-103;104-238)	
 1hxp_A	(44-177;178-348)	
 1i50_H	(2-63;76-146)	
@@ -96,13 +71,9 @@ Structure	ReferenceUnits	Comments
 1i8d_A	(1-93;94-206)	
 1idu_A	(3-239;240-578)	
 1iic_A	(34-226;227-455)	
-1is2_A	(272-442;475-603)	
-1isv_A	(304-353;354-395;396-436)	
 1itb_B	(6-101;102-204)	
 1itk_B	(60-433;445-731)	
 1j6z_A	(4-146;147-372)	
-1j7n_A	(42-251;581-773)	
-1jaw_A	(177-281;282-440)	
 1jfl_A	(1-115;116-228)	
 1jh7_A	(1-85;86-183)	
 1jly_A	(1-53;54-106;107-153)	
@@ -110,49 +81,34 @@ Structure	ReferenceUnits	Comments
 1jr2_A	(1-136;137-260)	
 1jsg_A	(4-57;58-114)	
 1jtg_B	(1-79;80-165)	
-1k28_D	(32-111;227-359)	
-1k2y_X	(5-152;153-258;259-367)	
 1k6k_A	(1-73;74-142)	
 1k8k_D	(13-122;123-253)	
-1kap_P	(253-333;370-470)	
 1kg1_A	(1-27;28-60)	
 1kiz_B	(55-169;170-307)	
 1knc_A	(22-92;104-175)	
 1kpl_B	(12-240;241-462)	
-1kt1_A	(28-138;139-253)	
-1ky9_B	(268-349;375-446)	
 1kzq_A	(3-130;137-255)	
 1lar_A	(1307-1623;1628-1876)	
 1li1_A	(5-114;115-228)	
 1lpb_A	(6-42;43-90)	
-1m98_A	(2-90;91-175)	
-1m9n_A	(201-394;395-592)	
-1m9s_A	(391-465;466-551)	
 1moq_A	(243-430;431-608)	
 1msv_A	(4-166;167-328)	
 1n0f_A	(22-101;102-162)	
-1n52_A	(26-142;481-616)	
 1n81_A	(21-113;114-206)	
-1nol_A	(154-250;251-379)	
 1nu9_C	(1-145;146-281)	
 1o70_A	(328-467;468-623)	
-1o9s_A	(194-288;289-366)	
 1ock_A	(53-209;218-408)	
 1opm_A	(45-200;201-354)	
 1pg6_A	(5-92;93-156)	
-1pgj_A	(179-324;325-478)	
 1ppr_M	(1-156;157-312)	
 1pw4_A	(5-226;240-451)	
 1qd1_B	(2002-2177;2178-2326)	
 1qhg_A	(1-318;319-651)	Insertion:109-205;389-555
 1qjs_A	(24-218;223-435)	
 1qm4_A	(17-116;129-252)	
-1qme_A	(632-692;693-750)	
-1qmh_A	(5-85;86-179;180-338)	
 1qqg_A	(12-114;159-262)	
 1qr0_A	(1-101;102-207)	
 1qs1_A	(60-262;263-461)	
-1qtq_A	(339-442;454-547)	
 1qun_B	(1-158;159-279)	
 1r51_A	(2-137;138-295)	
 1rhz_A	(2-204;205-433)	
@@ -160,21 +116,13 @@ Structure	ReferenceUnits	Comments
 1rwt_A	(14-134;135-231)	
 1s3n_A	(1-81;82-141)	
 1skz_A	(7-60;61-110)	
-1sr9_A	(492-546;547-643)	Insertion:578-614
 1sum_B	(2-113;114-225)	
 1t0t_V	(6-133;134-248)	
-1t3t_A	(1-69;70-152)	
 1tbr_R	(1-55;56-103)	
-1tdj_A	(336-423;424-514)	
 1toc_R	(1-59;60-119)	
-1ttu_A	(381-439;484-541)	
 1v9m_A	(78-178;186-280)	
 1vjl_A	(1-67;68-150)	
-1vk6_A	(1-125;126-256)	
 1vkw_A	(1-113;114-206)	
-1vl4_A	(2-86;91-214)	
-1vlb_A	(350-608;609-907)	
-1vly_A	(115-197;26-114)	
 1wba_A	(2-66;67-126;127-172)	
 1ycq_A	(21-65;66-108)	
 1yua_A	(1-63;64-122)	
@@ -183,14 +131,64 @@ Structure	ReferenceUnits	Comments
 2bs2_C	(1-103;104-254)	
 2dri_A	(1-122;123-271)	
 2g3p_A	(2-105;106-219)	
-2gep_A	(146-345;426-570)	
 2psp_A	(2-54;55-106)	
 2up1_A	(8-103;104-190)	
 3ezm_A	(1-50;51-101)	
 3pep_A	(1-170;171-326)	
 4pro_C	(6-86;87-166)	
-7acn_A	(62-192;346-475)	
-8gep_A	(81-145;346-425)	
+1ahu_A	(274-419;420-560)	MultipleDomainTypes
+1anv_A	(266-385;386-529)	MultipleDomainTypes
+1aor_A	(1-117;118-210)	MultipleDomainTypes
+1avk_A	(9-96;97-211)	MultipleDomainTypes
+1b3q_A	(540-599;600-671)	MultipleDomainTypes
+1ba3_A	(3-177;178-333)	MultipleDomainTypes
+1bxr_A	(1-127;556-676) (128-402;677-935)	MultipleDomainTypes
+1ce8_A	(414-468;469-524)	MultipleDomainTypes
+1ck7_A	(217-278;279-334)	MultipleDomainTypes
+1d5y_A	(3-56;57-121)	MultipleDomainTypes
+1dgs_A	(427-501;502-576)	MultipleDomainTypes
+1e3p_A	(3-151;346-482) (152-262;483-578)	MultipleDomainTypes
+1e9h_B	(175-309;310-432)	MultipleDomainTypes
+1efu_B	(55-139;140-282)	MultipleDomainTypes
+1ei5_A	(336-418;419-520)	MultipleDomainTypes
+1f52_A	(102-257;258-389)	MultipleDomainTypes
+1fec_A	(1-186;187-357)	MultipleDomainTypes
+1fo4_A	(176-261;461-612) (262-380;613-761)	MultipleDomainTypes
+1fok_A	(4-143;144-281;287-386)	MultipleDomainTypes
+1ggu_A	(516-629;630-726)	MultipleDomainTypes
+1h16_A	(164-425;426-742)	MultipleDomainTypes
+1hh2_P	(199-278;279-344)	MultipleDomainTypes
+1hs6_A	(1-113;114-208)	MultipleDomainTypes
+1is2_A	(272-442;475-603)	MultipleDomainTypes
+1isv_A	(304-353;354-395;396-436)	MultipleDomainTypes
+1j7n_A	(42-251;581-773)	MultipleDomainTypes
+1jaw_A	(177-281;282-440)	MultipleDomainTypes
+1k28_D	(32-111;227-359)	MultipleDomainTypes
+1k2y_X	(5-152;153-258;259-367)	MultipleDomainTypes
+1kap_P	(253-333;370-470)	MultipleDomainTypes
+1kt1_A	(28-138;139-253)	MultipleDomainTypes
+1ky9_B	(268-349;375-446)	MultipleDomainTypes
+1m98_A	(2-90;91-175)	MultipleDomainTypes
+1m9n_A	(201-394;395-592)	MultipleDomainTypes
+1m9s_A	(391-465;466-551)	MultipleDomainTypes
+1n52_A	(26-142;481-616)	MultipleDomainTypes
+1nol_A	(154-250;251-379)	MultipleDomainTypes
+1o9s_A	(194-288;289-366)	MultipleDomainTypes
+1pgj_A	(179-324;325-478)	MultipleDomainTypes
+1qme_A	(632-692;693-750)	MultipleDomainTypes
+1qmh_A	(5-85;86-179;180-338)	MultipleDomainTypes
+1qtq_A	(339-442;454-547)	MultipleDomainTypes
+1sr9_A	(492-546;547-643)	MultipleDomainTypes
+1t3t_A	(1-69;70-152)	MultipleDomainTypes
+1tdj_A	(336-423;424-514)	MultipleDomainTypes
+1ttu_A	(381-439;484-541)	MultipleDomainTypes
+1vk6_A	(1-125;126-256)	MultipleDomainTypes
+1vl4_A	(2-86;91-214)	MultipleDomainTypes
+1vlb_A	(350-608;609-907)	MultipleDomainTypes
+1vly_A	(115-197;26-114)	MultipleDomainTypes
+2gep_A	(146-345;426-570)	MultipleDomainTypes
+7acn_A	(62-192;346-475)	MultipleDomainTypes
+8gep_A	(81-145;346-425)	MultipleDomainTypes
 Not evaluated		
 1c3m_A	(3-26,125-147;27-75;76-124)	CircularPermutation
 1cy8_A	(189-214,474-514,515-538;380-403,281-327,365-379) (215-264,458-473;404-457,265-280)	CircularPermutation
@@ -206,3 +204,5 @@ Not evaluated
 1uta_A	(243-256,293-319;282-292,257-281)	CircularPermutation
 1vmo_A	(1-28,134-163;29-81;82-133)	CircularPermutation
 4csm_A	(150-243,1-25;26-130,131-149)	CircularPermutation
+1ciy_A	(428-461,256-296;297-354;355-427)	CircularPermutation
+1df9_C	(501-538;539-572)	ObsoleteEntry
