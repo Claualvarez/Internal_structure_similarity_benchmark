@@ -1,0 +1,3668 @@
+
+Structure	PredictedUnits	TMscore	Evaluation	Ignored
+1a0r_B	48-170;219-340		TP=0;FP=2
+1a0t_P	No repeats found		TP=0;FP=0
+1a0t_Q	No repeats found		TP=0;FP=0
+1a12_A	17-182;247-409		TP=0;FP=2
+1a12_B	17-182;247-409		TP=0;FP=2
+1a12_C	17-182;247-409		TP=0;FP=2
+1a17_A	No repeats found		TP=0;FP=0
+1a18_A	No repeats found		TP=0;FP=0
+1a1f_A	1-27;59-83		TP=0;FP=2
+1a1g_A	1-27;59-83		TP=0;FP=2
+1a1h_A	1-27;59-83		TP=0;FP=2
+1a1i_A	1-27;59-83		TP=0;FP=2
+1a1j_A	1-27;59-83		TP=0;FP=2
+1a1k_A	1-27;59-83		TP=0;FP=2
+1a1l_A	1-27;59-83		TP=0;FP=2
+1a2n_A	2-183;211-390		TP=0;FP=2
+1a4y_A	3-229;227-457		TP=0;FP=2
+1a4y_D	3-229;227-457		TP=0;FP=2
+1a9n_C	63-98;87-123		TP=2;FP=0
+1ala_A	20-156;175-315		TP=2;FP=0
+1anx_B	13-155;165-314		TP=2;FP=0
+1aof_A	169-234;312-378		TP=2;FP=0
+1aof_B	169-234;312-378		TP=2;FP=0
+1aom_A	169-234;312-378		TP=2;FP=0
+1aom_B	169-234;312-378		TP=2;FP=0
+1aoq_B	169-234;312-378		TP=2;FP=0
+1ap7_A	No repeats found		TP=0;FP=0
+1avu_A	No repeats found		TP=0;FP=0
+1avw_B	No repeats found		TP=0;FP=0
+1aw1_E	No repeats found		TP=0;FP=0
+1aw1_G	No repeats found		TP=0;FP=0
+1aw1_J	No repeats found		TP=0;FP=0
+1aw1_K	No repeats found		TP=0;FP=0
+1aw2_E	No repeats found		TP=0;FP=0
+1aw2_K	No repeats found		TP=0;FP=0
+1awc_B	No repeats found		TP=0;FP=0
+1b3u_A	12-226;365-581		TP=0;FP=2
+1b3u_B	12-226;365-581		TP=0;FP=2
+1b5t_A	No repeats found		TP=0;FP=0
+1b5t_B	No repeats found		TP=0;FP=0
+1b5t_C	No repeats found		TP=0;FP=0
+1b89_A	15-133;160-283		TP=0;FP=2
+1b9t_A	54-163;276-379		TP=2;FP=0
+1b9x_A	48-170;219-340		TP=0;FP=2
+1b9y_A	48-170;219-340		TP=0;FP=2
+1ba7_A	No repeats found		TP=0;FP=0
+1bcw_A	18-160;173-319		TP=2;FP=0
+1bd8_A	46-90;112-155		TP=2;FP=0
+1bhe_A	No repeats found		TP=0;FP=0
+1bi7_B	19-63;85-130		TP=2;FP=0
+1bi8_B	52-96;118-161		TP=2;FP=0
+1bi8_D	52-96;118-161		TP=2;FP=0
+1bih_B	7-162;213-371		TP=2;FP=0
+1bk5_A	36-156;247-369		TP=2;FP=0
+1bk5_B	36-156;247-369		TP=2;FP=0
+1bk6_A	36-156;247-369		TP=2;FP=0
+1bk6_B	36-156;247-369		TP=2;FP=0
+1bks_A	No repeats found		TP=0;FP=0
+1blx_B	No repeats found		TP=0;FP=0
+1bn8_A	No repeats found		TP=0;FP=0
+1bpo_B	No repeats found		TP=0;FP=0
+1bpo_C	No repeats found		TP=0;FP=0
+1bqc_A	No repeats found		TP=0;FP=0
+1bu9_A	9-62;74-128		TP=2;FP=0
+1bwy_A	No repeats found		TP=0;FP=0
+1c1z_A	4-53;186-235		TP=2;FP=0
+1c5k_A	180-298;313-429		TP=0;FP=2
+1c9i_A	No repeats found		TP=0;FP=0
+1c9i_B	No repeats found		TP=0;FP=0
+1c9l_A	No repeats found		TP=0;FP=0
+1c9l_B	No repeats found		TP=0;FP=0
+1crz_A	152-270;285-401		TP=0;FP=2
+1cvm_A	25-165;197-321		TP=0;FP=2
+1cwv_A	22-208;219-402		TP=0;FP=2
+1czf_A	230-279;297-346		TP=2;FP=0
+1czf_B	230-279;297-346		TP=2;FP=0
+1d0b_A	25-114;113-202		TP=0;FP=2
+1d2p_A	1-186;188-373		TP=0;FP=2
+1d8d_A	52-123;155-231		TP=1;FP=1
+1d8e_A	106-177;209-285		TP=2;FP=0
+1dab_A	227-246;237-256		TP=2;FP=0
+1dbg_A	16-78;415-472		TP=1;FP=1
+1dce_A	36-124;151-242		TP=0;FP=2
+1dcq_A	No repeats found		TP=0;FP=0
+1dfj_I	3-226;227-454		TP=0;FP=2
+1dl3_A	No repeats found		TP=0;FP=0
+1dl3_B	No repeats found		TP=0;FP=0
+1dlg_A	2-205;211-413		TP=0;FP=2
+1dlg_B	2-205;211-413		TP=0;FP=2
+1dm5_B	7-153;162-312		TP=2;FP=0
+1dm5_F	7-153;162-312		TP=2;FP=0
+1dvj_A	No repeats found		TP=0;FP=0
+1dvj_B	No repeats found		TP=0;FP=0
+1dvj_C	No repeats found		TP=0;FP=0
+1dvj_D	No repeats found		TP=0;FP=0
+1dx5_K	No repeats found		TP=0;FP=0
+1dy7_A	169-234;312-378		TP=2;FP=0
+1e1a_A	17-62;116-157		TP=2;FP=0
+1e8n_A	No repeats found		TP=0;FP=0
+1ea0_A	1257-1336;1346-1424		TP=0;FP=2
+1ee4_A	38-158;249-371		TP=2;FP=0
+1ee4_B	38-158;249-371		TP=2;FP=0
+1ee5_A	38-158;249-371		TP=2;FP=0
+1ee6_A	No repeats found		TP=0;FP=0
+1eix_C	2-57;129-184		TP=2;FP=0
+1ejc_A	2-205;211-413		TP=0;FP=2
+1ejd_A	2-205;211-413		TP=0;FP=2
+1ejd_B	2-205;211-413		TP=0;FP=2
+1ejl_I	9-148;226-364		TP=2;FP=0
+1ejy_I	9-148;226-364		TP=2;FP=0
+1elk_A	62-78;92-108		TP=0;FP=2
+1elw_A	No repeats found		TP=0;FP=0
+1erj_A	49-195;241-388		TP=0;FP=2
+1erj_B	49-195;241-388		TP=0;FP=2
+1erj_C	49-195;241-388		TP=0;FP=2
+1eua_A	No repeats found		TP=0;FP=0
+1eua_B	No repeats found		TP=0;FP=0
+1eua_C	No repeats found		TP=0;FP=0
+1eun_A	No repeats found		TP=0;FP=0
+1eun_B	No repeats found		TP=0;FP=0
+1eun_C	No repeats found		TP=0;FP=0
+1eww_A	No repeats found		TP=0;FP=0
+1eyn_A	2-205;211-413		TP=0;FP=2
+1ezg_A	2-45;39-81		TP=0;FP=2
+1f6p_A	28-89;183-245		TP=2;FP=0
+1f73_D	28-89;183-245		TP=2;FP=0
+1f9c_A	122-172;225-276		TP=2;FP=0
+1fbl_A	46-153;181-286		TP=0;FP=2
+1fch_A	78-153;231-306		TP=0;FP=2
+1fch_B	78-153;231-306		TP=0;FP=2
+1fdz_B	No repeats found		TP=0;FP=0
+1fj1_E	No repeats found		TP=0;FP=0
+1fj1_F	No repeats found		TP=0;FP=0
+1fn0_A	No repeats found		TP=0;FP=0
+1fnf_A	2-175;186-355		TP=0;FP=2
+1fnh_A	2-84;183-265		TP=2;FP=0
+1fpp_A	106-177;209-285		TP=2;FP=0
+1fq0_A	No repeats found		TP=0;FP=0
+1fq0_B	No repeats found		TP=0;FP=0
+1fq0_C	No repeats found		TP=0;FP=0
+1fqv_A	98-180;179-259		TP=0;FP=2
+1fqv_C	98-180;179-259		TP=0;FP=2
+1fqv_E	98-180;179-259		TP=0;FP=2
+1fqv_G	98-180;179-259		TP=0;FP=2
+1fqv_I	98-180;179-259		TP=0;FP=2
+1fqv_K	98-180;179-259		TP=0;FP=2
+1fqv_M	98-180;179-259		TP=0;FP=2
+1fqv_O	98-180;179-259		TP=0;FP=2
+1fs2_A	52-142;132-221		TP=1;FP=1
+1fs2_C	52-142;132-221		TP=1;FP=1
+1ft1_A	106-177;209-285		TP=2;FP=0
+1ft2_A	52-123;155-231		TP=1;FP=1
+1ft4_A	No repeats found		TP=0;FP=0
+1fwr_A	No repeats found		TP=0;FP=0
+1fwr_B	No repeats found		TP=0;FP=0
+1fwr_C	No repeats found		TP=0;FP=0
+1fxj_B	No repeats found		TP=0;FP=0
+1g3j_A	3-158;335-516		TP=2;FP=0
+1g3j_C	3-158;335-516		TP=0;FP=2
+1g3n_B	9-62;74-128		TP=2;FP=0
+1g3n_F	9-62;74-128		TP=2;FP=0
+1g40_A	No repeats found		TP=0;FP=0
+1g40_B	No repeats found		TP=0;FP=0
+1g4e_B	No repeats found		TP=0;FP=0
+1g4p_A	No repeats found		TP=0;FP=0
+1g4p_B	No repeats found		TP=0;FP=0
+1g4s_A	No repeats found		TP=0;FP=0
+1g4t_B	No repeats found		TP=0;FP=0
+1g61_A	14-120;106-209		TP=0;FP=2
+1g61_B	14-120;106-209		TP=0;FP=2
+1g62_A	45-120;134-209		TP=2;FP=0
+1g6c_A	No repeats found		TP=0;FP=0
+1g6s_A	14-142;160-289		TP=2;FP=0
+1g6t_A	14-142;160-289		TP=2;FP=0
+1g9u_A	76-220;282-421		TP=0;FP=2
+1gcj_A	113-197;352-431		TP=1;FP=1
+1gcj_B	113-197;352-431		TP=1;FP=1
+1geq_A	No repeats found		TP=0;FP=0
+1geq_B	No repeats found		TP=0;FP=0
+1gfn_A	15-110;144-233		TP=0;FP=2
+1gg2_B	48-170;219-340		TP=0;FP=2
+1gh7_A	1-214;217-419		TP=2;FP=0
+1gh7_B	1-214;217-419		TP=2;FP=0
+1go8_P	No repeats found		TP=0;FP=0
+1got_B	48-170;219-340		TP=0;FP=2
+1gp2_B	48-170;219-340		TP=0;FP=2
+1gq1_A	169-234;312-378		TP=2;FP=0
+1gq8_A	No repeats found		TP=0;FP=0
+1gvm_A	14-56;76-120		TP=0;FP=2
+1gvm_B	14-56;76-120		TP=0;FP=2
+1gvm_C	14-56;76-120		TP=0;FP=2
+1gvm_D	14-56;76-120		TP=0;FP=2
+1gvm_E	14-56;76-120		TP=0;FP=2
+1gvm_F	14-56;76-120		TP=0;FP=2
+1gwb_A	37-94;130-189		TP=0;FP=2
+1gwb_B	37-94;130-189		TP=0;FP=2
+1gxr_A	67-106;182-218		TP=0;FP=2
+1gxr_B	67-106;182-218		TP=0;FP=2
+1gye_B	2-22;186-206		TP=0;FP=2
+1gyh_B	2-24;186-208		TP=0;FP=2
+1gyh_D	2-24;186-208		TP=0;FP=2
+1gyh_F	2-24;186-208		TP=0;FP=2
+1gzj_A	No repeats found		TP=0;FP=0
+1gzj_B	No repeats found		TP=0;FP=0
+1h09_A	168-236;246-319		TP=0;FP=2
+1h11_A	80-124;208-254		TP=2;FP=0
+1h1n_A	No repeats found		TP=0;FP=0
+1h1n_B	No repeats found		TP=0;FP=0
+1h1y_B	No repeats found		TP=0;FP=0
+1h1z_B	No repeats found		TP=0;FP=0
+1h2j_A	80-124;208-254		TP=2;FP=0
+1h2v_C	No repeats found		TP=0;FP=0
+1h2x_A	No repeats found		TP=0;FP=0
+1h2z_A	No repeats found		TP=0;FP=0
+1h3i_A	4-61;50-110		TP=0;FP=2
+1h3i_B	4-61;50-110		TP=0;FP=2
+1h4i_A	131-232;453-542		TP=2;FP=0
+1h4i_C	131-232;453-542		TP=2;FP=0
+1h4j_C	131-232;453-542		TP=2;FP=0
+1h4j_E	131-232;453-542		TP=2;FP=0
+1h4j_G	131-232;453-542		TP=2;FP=0
+1h5v_A	80-124;208-254		TP=2;FP=0
+1h6l_A	25-165;197-321		TP=0;FP=2
+1h6t_A	31-97;141-207		TP=0;FP=2
+1h6u_A	9-99;141-231		TP=0;FP=2
+1h80_B	No repeats found		TP=0;FP=0
+1h88_C	6-52;110-155		TP=1;FP=1
+1h8g_A	4-34;44-78		TP=0;FP=2
+1h8g_B	4-34;44-78		TP=0;FP=2
+1h9x_B	169-234;312-378		TP=2;FP=0
+1h9y_A	169-234;312-378		TP=2;FP=0
+1hak_A	14-156;166-315		TP=2;FP=0
+1hcm_B	169-234;312-378		TP=2;FP=0
+1hcx_A	5-47;67-111		TP=0;FP=2
+1hcx_B	5-47;67-111		TP=0;FP=2
+1hf2_B	No repeats found		TP=0;FP=0
+1hg8_A	13-142;191-328		TP=0;FP=2
+1hj3_A	169-234;312-378		TP=2;FP=0
+1hj5_A	169-234;312-378		TP=2;FP=0
+1hm0_B	No repeats found		TP=0;FP=0
+1hm8_A	No repeats found		TP=0;FP=0
+1hm8_B	No repeats found		TP=0;FP=0
+1hm9_A	No repeats found		TP=0;FP=0
+1hm9_B	No repeats found		TP=0;FP=0
+1hmr_A	No repeats found		TP=0;FP=0
+1ho8_A	No repeats found		TP=0;FP=0
+1hs6_A	No repeats found		TP=0;FP=0
+1hu3_A	25-51;169-197		TP=0;FP=2
+1hv9_A	264-326;362-427		TP=0;FP=2
+1hv9_B	264-326;362-427		TP=0;FP=2
+1hw6_A	No repeats found		TP=0;FP=0
+1hxn_A	7-65;105-160		TP=0;FP=2
+1hzu_A	151-185;338-372		TP=2;FP=0
+1hzv_A	133-221;277-365		TP=1;FP=1
+1i2m_B	6-171;236-398		TP=0;FP=2
+1i3q_H	No repeats found		TP=0;FP=0
+1i4n_A	No repeats found		TP=0;FP=0
+1i4n_B	No repeats found		TP=0;FP=0
+1i7w_A	2-157;334-515		TP=0;FP=2
+1i7w_C	2-157;334-515		TP=0;FP=2
+1i7x_A	2-157;334-515		TP=1;FP=1
+1i7x_C	2-157;334-515		TP=2;FP=0
+1ia5_A	No repeats found		TP=0;FP=0
+1ial_A	69-249;243-423		TP=0;FP=2
+1ib2_A	21-113;237-336		TP=0;FP=2
+1ib4_A	No repeats found		TP=0;FP=0
+1ib4_B	No repeats found		TP=0;FP=0
+1ibr_B	107-194;346-428		TP=1;FP=1
+1ibr_D	107-194;346-428		TP=1;FP=1
+1idj_A	No repeats found		TP=0;FP=0
+1idk_A	No repeats found		TP=0;FP=0
+1igr_A	17-170;318-466		TP=0;FP=2
+1ihb_A	9-62;74-128		TP=2;FP=0
+1ihb_B	9-62;74-128		TP=2;FP=0
+1ijq_A	11-141;136-271		TP=0;FP=2
+1ijq_B	11-149;144-279		TP=0;FP=2
+1ikn_D	7-84;116-190		TP=1;FP=1
+1ing_B	No repeats found		TP=0;FP=0
+1inh_A	No repeats found		TP=0;FP=0
+1inv_A	54-163;276-379		TP=2;FP=0
+1inx_A	No repeats found		TP=0;FP=0
+1io0_A	No repeats found		TP=0;FP=0
+1iq1_C	9-148;226-364		TP=2;FP=0
+1isw_B	No repeats found		TP=0;FP=0
+1iub_A	4-164;159-309		TP=0;FP=2
+1iuc_A	4-164;159-309		TP=0;FP=2
+1ivc_A	No repeats found		TP=0;FP=0
+1ivd_A	No repeats found		TP=0;FP=0
+1ivg_A	No repeats found		TP=0;FP=0
+1ivg_B	No repeats found		TP=0;FP=0
+1ivo_A	4-241;310-572		TP=0;FP=2
+1ivo_B	4-241;310-572		TP=0;FP=2
+1ixo_B	No repeats found		TP=0;FP=0
+1ixv_A	1-65;139-202		TP=2;FP=0
+1j2e_B	No repeats found		TP=0;FP=0
+1j2w_A	No repeats found		TP=0;FP=0
+1j2w_B	No repeats found		TP=0;FP=0
+1j2w_C	No repeats found		TP=0;FP=0
+1j2w_D	No repeats found		TP=0;FP=0
+1j2z_A	6-61;103-158		TP=2;FP=0
+1j4s_D	No repeats found		TP=0;FP=0
+1j4t_A	No repeats found		TP=0;FP=0
+1j4t_B	No repeats found		TP=0;FP=0
+1j4t_C	No repeats found		TP=0;FP=0
+1j4t_D	No repeats found		TP=0;FP=0
+1j4t_F	No repeats found		TP=0;FP=0
+1j4t_G	No repeats found		TP=0;FP=0
+1j4t_H	No repeats found		TP=0;FP=0
+1j4u_B	No repeats found		TP=0;FP=0
+1j4u_C	No repeats found		TP=0;FP=0
+1j4u_D	No repeats found		TP=0;FP=0
+1j6o_A	6-78;73-143		TP=1;FP=1
+1jcj_A	No repeats found		TP=0;FP=0
+1jcm_P	61-94;109-148		TP=2;FP=0
+1jcq_A	114-186;257-322		TP=2;FP=0
+1jcr_A	106-177;209-285		TP=2;FP=0
+1jcs_A	106-177;209-285		TP=2;FP=0
+1jdh_A	1-156;333-514		TP=0;FP=2
+1jjj_A	No repeats found		TP=0;FP=0
+1jju_B	117-139;303-325		TP=2;FP=0
+1jjx_A			TP=0;FP=0
+1jl5_A	76-220;282-421		TP=0;FP=2
+1jof_A	14-86;121-196		TP=2;FP=0
+1jof_B	14-86;121-196		TP=2;FP=0
+1jof_C	14-86;121-196		TP=2;FP=0
+1jof_D	14-86;121-196		TP=2;FP=0
+1jof_E	14-86;121-196		TP=2;FP=0
+1jof_F	14-86;121-196		TP=2;FP=0
+1jof_G	14-86;121-196		TP=2;FP=0
+1jof_H	14-86;121-196		TP=2;FP=0
+1jpp_B	2-157;334-515		TP=0;FP=2
+1jpw_A	5-160;337-518		TP=0;FP=2
+1jpw_B	5-160;337-518		TP=0;FP=2
+1jpw_C	5-160;337-518		TP=0;FP=2
+1jrg_A	No repeats found		TP=0;FP=0
+1jrg_B	No repeats found		TP=0;FP=0
+1jtd_B	1-120;158-272		TP=2;FP=0
+1k1a_A	6-107;113-211		TP=0;FP=2
+1k1b_A	6-107;113-211		TP=0;FP=2
+1k28_A	69-121;514-565		TP=1;FP=1
+1k3z_D	8-110;157-257		TP=2;FP=0
+1k5c_A	No repeats found		TP=0;FP=0
+1k5d_C	80-149;201-271		TP=0;FP=2
+1k5d_F	80-149;201-271		TP=0;FP=2
+1k5d_I	80-149;201-271		TP=0;FP=2
+1k5d_L	80-149;201-271		TP=0;FP=2
+1k5g_C	80-149;201-271		TP=0;FP=2
+1k5g_F	80-149;201-271		TP=0;FP=2
+1k5g_I	80-149;201-271		TP=0;FP=2
+1k5g_L	80-149;201-271		TP=0;FP=2
+1k7u_A	1-82;87-168		TP=2;FP=0
+1k8f_B	No repeats found		TP=0;FP=0
+1k8k_C	13-80;101-170		TP=2;FP=0
+1kap_P	No repeats found		TP=0;FP=0
+1kgt_A	108-152;175-214		TP=0;FP=2
+1kly_A	No repeats found		TP=0;FP=0
+1klz_A	No repeats found		TP=0;FP=0
+1km0_A	No repeats found		TP=0;FP=0
+1km0_B	No repeats found		TP=0;FP=0
+1km0_C	No repeats found		TP=0;FP=0
+1km1_B	No repeats found		TP=0;FP=0
+1km3_A	No repeats found		TP=0;FP=0
+1km4_A	No repeats found		TP=0;FP=0
+1km5_A	No repeats found		TP=0;FP=0
+1kmo_A	296-380;540-622		TP=2;FP=0
+1kmp_A	296-380;540-622		TP=2;FP=0
+1knl_A	7-47;90-130		TP=2;FP=0
+1knm_A	7-47;90-130		TP=2;FP=0
+1koh_D	No repeats found		TP=0;FP=0
+1koo_A	No repeats found		TP=0;FP=0
+1koo_B	No repeats found		TP=0;FP=0
+1koo_C	No repeats found		TP=0;FP=0
+1koo_D	No repeats found		TP=0;FP=0
+1krr_A	70-130;132-194		TP=2;FP=0
+1krr_C	70-130;132-194		TP=0;FP=2
+1krv_B	70-130;132-194		TP=0;FP=2
+1krv_C	70-130;132-194		TP=0;FP=2
+1ktw_A	No repeats found		TP=0;FP=0
+1ktw_B	No repeats found		TP=0;FP=0
+1kv8_A	No repeats found		TP=0;FP=0
+1kv8_B	No repeats found		TP=0;FP=0
+1kw1_A	No repeats found		TP=0;FP=0
+1kw1_B	No repeats found		TP=0;FP=0
+1kzo_A	106-177;209-285		TP=2;FP=0
+1kzp_A	106-177;209-285		TP=2;FP=0
+1l0s_A	No repeats found		TP=0;FP=0
+1l0s_C	No repeats found		TP=0;FP=0
+1l0s_D	No repeats found		TP=0;FP=0
+1l2u_A	2-57;129-184		TP=2;FP=0
+1l3w_A	3-138;335-467		TP=2;FP=0
+1l6w_F	No repeats found		TP=0;FP=0
+1lbm_A	38-67;160-189		TP=2;FP=0
+1ld7_A	114-186;257-322		TP=1;FP=1
+1ld8_A	114-186;257-322		TP=2;FP=0
+1ldk_A	No repeats found		TP=0;FP=0
+1lf8_A	No repeats found		TP=0;FP=0
+1lf8_B	No repeats found		TP=0;FP=0
+1lf8_C	No repeats found		TP=0;FP=0
+1lf8_D	No repeats found		TP=0;FP=0
+1lib_A	No repeats found		TP=0;FP=0
+1llw_A	No repeats found		TP=0;FP=0
+1llz_A	No repeats found		TP=0;FP=0
+1lm1_A	No repeats found		TP=0;FP=0
+1lol_A	No repeats found		TP=0;FP=0
+1loq_A	No repeats found		TP=0;FP=0
+1lor_A	No repeats found		TP=0;FP=0
+1los_D	No repeats found		TP=0;FP=0
+1lrt_C	No repeats found		TP=0;FP=0
+1lrv_A	49-146;145-241		TP=0;FP=2
+1ltx_A	36-124;151-242		TP=0;FP=2
+1luj_A	3-141;341-499		TP=0;FP=2
+1lva_A	No repeats found		TP=0;FP=0
+1lwu_I	88-125;229-265		TP=1;FP=1
+1lwu_L	88-125;229-265		TP=1;FP=1
+1m0z_A	36-93;129-188		TP=0;FP=2
+1m0z_B	36-93;129-188		TP=0;FP=2
+1m10_B	36-93;129-188		TP=0;FP=2
+1m1e_A	2-157;334-515		TP=0;FP=2
+1m1j_D	No repeats found		TP=0;FP=0
+1m1x_A	No repeats found		TP=0;FP=0
+1m6b_A	8-256;306-586		TP=0;FP=2
+1m6b_B	8-256;306-586		TP=0;FP=2
+1m8n_A	No repeats found		TP=0;FP=0
+1m8n_B	No repeats found		TP=0;FP=0
+1m8n_C	No repeats found		TP=0;FP=0
+1m8n_D	No repeats found		TP=0;FP=0
+1m8w_A	21-113;237-336		TP=0;FP=2
+1m8w_B	21-113;237-336		TP=0;FP=2
+1m8x_A	21-113;237-336		TP=0;FP=2
+1m8x_B	21-113;237-336		TP=0;FP=2
+1m8y_A	21-113;237-336		TP=0;FP=2
+1m8y_B	21-113;237-336		TP=0;FP=2
+1m8z_A	21-113;237-336		TP=0;FP=2
+1m9h_A	No repeats found		TP=0;FP=0
+1m9l_A	35-96;86-147		TP=0;FP=2
+1m9s_A	27-116;115-204		TP=0;FP=2
+1mco_H	91-205;300-415		TP=2;FP=0
+1mda_H	3-101;186-281		TP=1;FP=1
+1mg2_A	No repeats found		TP=0;FP=0
+1mg2_E	No repeats found		TP=0;FP=0
+1mg2_I	No repeats found		TP=0;FP=0
+1mg2_M	No repeats found		TP=0;FP=0
+1mg3_A	No repeats found		TP=0;FP=0
+1mg3_E	No repeats found		TP=0;FP=0
+1mg3_I	No repeats found		TP=0;FP=0
+1mg3_M	No repeats found		TP=0;FP=0
+1mi4_A	14-142;160-289		TP=2;FP=0
+1mj0_A	21-99;87-165		TP=0;FP=2
+1mox_A	4-183;310-499		TP=0;FP=2
+1mox_B	4-183;310-499		TP=0;FP=2
+1mpf_A	15-130;150-259		TP=0;FP=2
+1mr7_A	No repeats found		TP=0;FP=0
+1mx2_A	6-79;70-145		TP=0;FP=2
+1mx2_B	6-79;70-145		TP=0;FP=2
+1mx4_A	9-62;74-128		TP=2;FP=0
+1mx4_B	9-62;74-128		TP=2;FP=0
+1mx6_A	9-62;74-128		TP=2;FP=0
+1mx6_B	9-62;74-128		TP=2;FP=0
+1mxs_A	78-102;190-219		TP=2;FP=0
+1myo_A	6-34;72-98		TP=2;FP=0
+1mzc_A	114-186;257-322		TP=2;FP=0
+1mzh_A	132-156;185-208		TP=2;FP=0
+1mzh_B	132-156;185-208		TP=0;FP=2
+1mzr_B			TP=0;FP=0
+1n11_A	4-198;202-396		TP=0;FP=2
+1n4i_A	No repeats found		TP=0;FP=0
+1n4p_A	106-177;209-285		TP=2;FP=0
+1n4p_C	106-177;209-285		TP=2;FP=0
+1n4p_E	106-177;209-285		TP=2;FP=0
+1n4p_G	106-177;209-285		TP=0;FP=2
+1n4p_I	106-177;209-285		TP=0;FP=2
+1n4p_K	106-177;209-285		TP=2;FP=0
+1n4q_A	106-177;209-285		TP=0;FP=2
+1n4q_C	106-177;209-285		TP=2;FP=0
+1n4q_E	106-177;209-285		TP=2;FP=0
+1n4q_G	106-177;209-285		TP=0;FP=2
+1n4q_I	106-177;209-285		TP=2;FP=0
+1n4q_K	106-177;209-285		TP=0;FP=2
+1n4r_A	106-177;209-285		TP=0;FP=2
+1n4r_C	106-177;209-285		TP=2;FP=0
+1n4r_E	106-177;209-285		TP=2;FP=0
+1n4r_G	106-177;209-285		TP=2;FP=0
+1n4r_I	106-177;209-285		TP=0;FP=2
+1n4r_K	106-177;209-285		TP=0;FP=2
+1n4s_A	106-177;209-285		TP=2;FP=0
+1n4s_C	106-177;209-285		TP=2;FP=0
+1n4s_E	106-177;209-285		TP=0;FP=2
+1n4s_G	106-177;209-285		TP=2;FP=0
+1n4s_I	106-177;209-285		TP=0;FP=2
+1n4s_K	106-177;209-285		TP=0;FP=2
+1n6e_A	111-171;962-1028		TP=0;FP=2
+1n6e_K	111-171;962-1028		TP=0;FP=2
+1n7d_A	6-177;176-344		TP=0;FP=2
+1n7k_A	29-49;113-133		TP=2;FP=0
+1n7v_A	No repeats found		TP=0;FP=0
+1n94_A	52-123;155-231		TP=1;FP=1
+1n95_A	60-132;203-268		TP=1;FP=1
+1n9a_A	60-132;203-268		TP=1;FP=1
+1na0_A	3-57;72-125		TP=2;FP=0
+1na0_B	3-57;72-125		TP=2;FP=0
+1naw_A	2-205;211-413		TP=0;FP=2
+1naw_B	2-205;211-413		TP=0;FP=2
+1nfi_E	4-81;113-187		TP=1;FP=1
+1nfi_F	4-81;113-187		TP=1;FP=1
+1nhc_A	No repeats found		TP=0;FP=0
+1nhc_B	No repeats found		TP=0;FP=0
+1nhc_D	No repeats found		TP=0;FP=0
+1nhc_E	No repeats found		TP=0;FP=0
+1nhc_F	No repeats found		TP=0;FP=0
+1ni1_A	60-132;203-268		TP=1;FP=1
+1nl4_A	60-132;203-268		TP=1;FP=1
+1npe_A	11-103;147-231		TP=0;FP=2
+1npe_B	No repeats found		TP=0;FP=0
+1nqe_A	No repeats found		TP=0;FP=0
+1nqf_A	No repeats found		TP=0;FP=0
+1nqg_A	No repeats found		TP=0;FP=0
+1nql_A	4-241;310-572		TP=0;FP=2
+1nr0_A	37-310;303-608		TP=0;FP=2
+1nsd_A	No repeats found		TP=0;FP=0
+1nsj_A	38-67;160-189		TP=2;FP=0
+1nu6_A	No repeats found		TP=0;FP=0
+1nu6_B	No repeats found		TP=0;FP=0
+1nvm_A	No repeats found		TP=0;FP=0
+1nzn_A	No repeats found		TP=0;FP=0
+1o1r_A	117-189;260-325		TP=2;FP=0
+1o1s_A	117-189;260-325		TP=2;FP=0
+1o1t_A	117-189;260-325		TP=1;FP=1
+1o5m_A	114-186;257-322		TP=1;FP=1
+1o6o_C	107-194;346-428		TP=2;FP=0
+1o6s_A	2-173;216-392		TP=0;FP=2
+1o6t_A	2-173;216-392		TP=0;FP=2
+1o6v_A	2-173;216-392		TP=0;FP=2
+1o6v_B	2-173;216-392		TP=0;FP=2
+1o88_A	82-113;252-283		TP=2;FP=0
+1o8g_A	82-113;252-283		TP=2;FP=0
+1o8j_A	82-113;252-283		TP=2;FP=0
+1o8k_A	82-113;252-283		TP=2;FP=0
+1oba_A	169-237;247-320		TP=0;FP=2
+1ocx_A	123-155;141-171		TP=2;FP=0
+1ofe_B	No repeats found		TP=0;FP=0
+1ofl_A	3-53;402-447		TP=0;FP=2
+1ofm_A	3-53;402-447		TP=0;FP=2
+1ofz_A	4-164;159-309		TP=0;FP=2
+1ofz_B	4-164;159-309		TP=0;FP=2
+1ogm_X	No repeats found		TP=0;FP=0
+1ogo_X	No repeats found		TP=0;FP=0
+1ogq_A	102-142;245-285		TP=2;FP=0
+1ojv_A	2-101;129-225		TP=2;FP=0
+1ojv_B	2-101;129-225		TP=2;FP=0
+1ojw_A	2-101;129-225		TP=2;FP=0
+1ojw_B	2-101;129-225		TP=2;FP=0
+1ojx_E	43-149;161-253		TP=0;FP=2
+1ojy_A	2-101;129-225		TP=2;FP=0
+1ojy_B	2-101;129-225		TP=2;FP=0
+1ojy_C	2-101;129-225		TP=2;FP=0
+1ojy_D	2-101;129-225		TP=2;FP=0
+1ok1_A	2-101;129-225		TP=2;FP=0
+1ok1_B	2-101;129-225		TP=2;FP=0
+1ok2_A	2-101;129-225		TP=2;FP=0
+1ok2_B	2-101;129-225		TP=2;FP=0
+1ok3_A	2-101;129-225		TP=2;FP=0
+1ok3_B	2-101;129-225		TP=2;FP=0
+1ok6_C	45-155;163-259		TP=0;FP=2
+1ok6_E	45-155;163-259		TP=0;FP=2
+1ok6_G	45-155;163-259		TP=0;FP=2
+1ok9_A	2-101;129-225		TP=2;FP=0
+1ok9_B	2-101;129-225		TP=2;FP=0
+1omw_B	48-170;219-340		TP=0;FP=2
+1ooc_A	No repeats found		TP=0;FP=0
+1ooc_B	No repeats found		TP=0;FP=0
+1ook_G	36-93;129-188		TP=0;FP=2
+1osp_O	No repeats found		TP=0;FP=0
+1ot8_A	32-108;133-208		TP=0;FP=2
+1ot8_B	32-108;133-208		TP=0;FP=2
+1ot8_C	32-108;133-208		TP=2;FP=0
+1otm_A	48-137;136-225		TP=0;FP=2
+1otn_A	48-137;136-225		TP=0;FP=2
+1oto_A	48-137;136-225		TP=0;FP=2
+1ouv_A	20-113;164-257		TP=0;FP=2
+1oy3_D	8-110;157-257		TP=2;FP=0
+1oyz_A	139-169;203-233		TP=2;FP=0
+1ozn_A	36-113;157-233		TP=0;FP=2
+1p53_A	44-67;73-96		TP=0;FP=2
+1p53_B	44-67;73-96		TP=0;FP=2
+1p5q_A	No repeats found		TP=0;FP=0
+1p88_A	No repeats found		TP=0;FP=0
+1p89_A	No repeats found		TP=0;FP=0
+1p8t_A	35-112;156-232		TP=0;FP=2
+1p8v_A	36-93;129-188		TP=0;FP=2
+1p9a_G	36-93;129-188		TP=0;FP=2
+1p9h_A	5-66;96-157		TP=0;FP=2
+1pby_A	No repeats found		TP=0;FP=0
+1pby_B	117-139;303-325		TP=0;FP=2
+1pe9_A	No repeats found		TP=0;FP=0
+1pgu_B	253-281;584-612		TP=0;FP=2
+1pgv_A	No repeats found		TP=0;FP=0
+1pjm_B	9-148;226-364		TP=2;FP=0
+1pjn_B	9-148;226-364		TP=2;FP=0
+1pnz_A			TP=0;FP=0
+1po0_A			TP=0;FP=0
+1pxz_A	12-37;160-184		TP=1;FP=1
+1q1s_C	15-154;232-370		TP=0;FP=2
+1q1t_C	15-154;232-370		TP=2;FP=0
+1q36_A	14-142;160-289		TP=2;FP=0
+1q3g_A	2-204;210-412		TP=0;FP=2
+1q3g_B	2-205;211-413		TP=0;FP=2
+1q3g_C	2-205;211-413		TP=0;FP=2
+1q3g_D	2-205;211-413		TP=0;FP=2
+1q3g_E	2-204;210-412		TP=0;FP=2
+1q3g_F	2-205;211-413		TP=0;FP=2
+1q3g_G	2-205;211-413		TP=0;FP=2
+1q3g_H	2-204;210-412		TP=0;FP=2
+1q3g_I	2-204;210-412		TP=0;FP=2
+1q3g_J	2-205;211-413		TP=0;FP=2
+1q3g_K	2-205;211-413		TP=0;FP=2
+1q3g_L	2-205;211-413		TP=0;FP=2
+1q3g_W	2-204;210-412		TP=0;FP=2
+1q3g_X	2-205;211-413		TP=0;FP=2
+1q3g_Y	2-205;211-413		TP=0;FP=2
+1q3g_Z	2-205;211-413		TP=0;FP=2
+1q55_A	3-138;335-467		TP=2;FP=0
+1q55_B	3-138;335-467		TP=2;FP=0
+1q55_C	3-138;335-467		TP=2;FP=0
+1q55_D	3-138;335-467		TP=2;FP=0
+1q5a_A	3-138;335-467		TP=2;FP=0
+1q5b_A	3-138;335-467		TP=2;FP=0
+1q5b_C	3-138;335-467		TP=2;FP=0
+1q5c_A	3-138;335-467		TP=2;FP=0
+1q5c_C	3-138;335-467		TP=2;FP=0
+1q6l_A	No repeats found		TP=0;FP=0
+1q6l_B	No repeats found		TP=0;FP=0
+1q6o_A	No repeats found		TP=0;FP=0
+1q6o_B	No repeats found		TP=0;FP=0
+1q6q_A	No repeats found		TP=0;FP=0
+1q6q_B	No repeats found		TP=0;FP=0
+1q6r_A	No repeats found		TP=0;FP=0
+1q7f_A	32-147;166-276		TP=0;FP=2
+1q7f_B	32-147;166-276		TP=0;FP=2
+1qa1_A	No repeats found		TP=0;FP=0
+1qa2_A	No repeats found		TP=0;FP=0
+1qbk_B	230-305;374-444		TP=2;FP=0
+1qbq_A	70-142;213-278		TP=1;FP=1
+1qcx_A	No repeats found		TP=0;FP=0
+1qfg_A	89-151;339-402		TP=1;FP=1
+1qgk_A	107-194;346-428		TP=2;FP=0
+1qgr_A	107-194;346-428		TP=2;FP=0
+1qhu_A	51-185;254-397		TP=0;FP=2
+1qhz_A	80-124;208-254		TP=2;FP=0
+1qi0_A	80-124;208-254		TP=2;FP=0
+1qi2_A	80-124;208-254		TP=2;FP=0
+1qiu_A	1-29;39-68		TP=0;FP=2
+1qiu_B	1-29;39-68		TP=0;FP=2
+1qiu_C	1-29;39-68		TP=0;FP=2
+1qiu_D	1-29;39-68		TP=0;FP=2
+1qiu_E	1-29;39-68		TP=0;FP=2
+1qiu_F	1-29;39-68		TP=0;FP=2
+1qj8_A	No repeats found		TP=0;FP=0
+1qjv_A	No repeats found		TP=0;FP=0
+1qks_A	169-234;312-378		TP=2;FP=0
+1qks_B	169-234;312-378		TP=2;FP=0
+1qni_A	70-100;369-397		TP=0;FP=2
+1qni_E	70-100;369-397		TP=0;FP=2
+1qni_F	70-100;369-397		TP=0;FP=2
+1qo2_A	29-120;143-235		TP=0;FP=2
+1qq1_A	No repeats found		TP=0;FP=0
+1qqe_A	28-95;129-194		TP=2;FP=0
+1qrb_A	No repeats found		TP=0;FP=0
+1qre_A	No repeats found		TP=0;FP=0
+1qrl_A	No repeats found		TP=0;FP=0
+1qrm_A	No repeats found		TP=0;FP=0
+1qub_A	4-53;186-235		TP=2;FP=0
+1qwg_A	No repeats found		TP=0;FP=0
+1qym_A	13-114;112-213		TP=0;FP=2
+1qyy_A	36-93;129-188		TP=0;FP=2
+1qyy_G	36-93;129-188		TP=0;FP=2
+1qz7_A	3-158;335-516		TP=0;FP=2
+1r5m_A	111-206;250-342		TP=2;FP=0
+1r9n_D	No repeats found		TP=0;FP=0
+1rd5_A	No repeats found		TP=0;FP=0
+1rf4_A	No repeats found		TP=0;FP=0
+1rf4_B	No repeats found		TP=0;FP=0
+1rf4_C	No repeats found		TP=0;FP=0
+1rf4_D	No repeats found		TP=0;FP=0
+1rf5_A	No repeats found		TP=0;FP=0
+1rf5_B	No repeats found		TP=0;FP=0
+1rf5_C	No repeats found		TP=0;FP=0
+1rf5_D	No repeats found		TP=0;FP=0
+1rf6_A	No repeats found		TP=0;FP=0
+1rf6_B	No repeats found		TP=0;FP=0
+1rf6_C	No repeats found		TP=0;FP=0
+1rf6_D	No repeats found		TP=0;FP=0
+1ri6_A	4-117;189-312		TP=0;FP=2
+1rmg_A	No repeats found		TP=0;FP=0
+1rpx_A	No repeats found		TP=0;FP=0
+1rpx_B	No repeats found		TP=0;FP=0
+1rpx_C	No repeats found		TP=0;FP=0
+1ru4_A	No repeats found		TP=0;FP=0
+1rwi_A	12-136;141-262		TP=0;FP=2
+1rwi_B	12-136;141-262		TP=0;FP=2
+1rwl_A	12-136;141-262		TP=0;FP=2
+1rwr_A	No repeats found		TP=0;FP=0
+1ryw_A	2-205;211-413		TP=0;FP=2
+1ryw_B	2-205;211-413		TP=0;FP=2
+1ryw_C	2-205;211-413		TP=0;FP=2
+1ryw_D	2-205;211-413		TP=0;FP=2
+1ryw_E	2-205;211-413		TP=0;FP=2
+1ryw_F	2-205;211-413		TP=0;FP=2
+1ryw_G	2-205;211-413		TP=0;FP=2
+1ryw_H	2-205;211-413		TP=0;FP=2
+1rz4_A			TP=0;FP=0
+1s18_A	No repeats found		TP=0;FP=0
+1s1d_B	No repeats found		TP=0;FP=0
+1s4u_X	3-54;281-331		TP=2;FP=0
+1s5w_A	No repeats found		TP=0;FP=0
+1s63_A	114-186;257-322		TP=2;FP=0
+1s64_A	106-177;209-285		TP=2;FP=0
+1s64_C	106-177;209-285		TP=2;FP=0
+1s64_E	106-177;209-285		TP=2;FP=0
+1s64_G	106-177;209-285		TP=2;FP=0
+1s64_I	106-177;209-285		TP=2;FP=0
+1s64_K	106-177;209-285		TP=2;FP=0
+1s70_B	65-174;192-298		TP=0;FP=2
+1s78_A	1-289;317-620		TP=0;FP=2
+1sa4_A	114-186;257-322		TP=2;FP=0
+1sa5_A	106-177;209-285		TP=2;FP=0
+1sa8_A	49-68;73-92		TP=2;FP=0
+1sfj_B	No repeats found		TP=0;FP=0
+1sly_A	19-178;333-500		TP=0;FP=2
+1so3_A	No repeats found		TP=0;FP=0
+1so3_B	No repeats found		TP=0;FP=0
+1so4_A	No repeats found		TP=0;FP=0
+1so4_B	No repeats found		TP=0;FP=0
+1so5_A	No repeats found		TP=0;FP=0
+1so5_B	No repeats found		TP=0;FP=0
+1so6_A	No repeats found		TP=0;FP=0
+1so6_B	No repeats found		TP=0;FP=0
+1so7_A	105-139;176-209		TP=2;FP=0
+1spq_A	No repeats found		TP=0;FP=0
+1sq9_A	14-44;289-321		TP=2;FP=0
+1sqj_A	3-214;543-732		TP=0;FP=2
+1sqj_B	3-214;543-732		TP=0;FP=2
+1sr4_A	No repeats found		TP=0;FP=0
+1ssm_B	No repeats found		TP=0;FP=0
+1ssm_C	No repeats found		TP=0;FP=0
+1ssm_E	No repeats found		TP=0;FP=0
+1ssm_F	No repeats found		TP=0;FP=0
+1sst_A	No repeats found		TP=0;FP=0
+1sst_B	No repeats found		TP=0;FP=0
+1sst_C	No repeats found		TP=0;FP=0
+1st8_A	18-82;124-200		TP=2;FP=0
+1svx_A	21-101;87-167		TP=0;FP=2
+1sw6_A	66-164;224-316		TP=1;FP=1
+1sza_A	No repeats found		TP=0;FP=0
+1sza_C	No repeats found		TP=0;FP=0
+1t08_A	7-145;345-503		TP=0;FP=2
+1t3d_B			TP=0;FP=0
+1tbg_A	48-170;219-340		TP=0;FP=2
+1tbg_B	48-170;219-340		TP=0;FP=2
+1tbg_C	48-170;219-340		TP=0;FP=2
+1tbg_D	48-170;219-340		TP=0;FP=2
+1tdq_A	15-98;197-278		TP=2;FP=0
+1tdt_A	108-152;175-214		TP=0;FP=2
+1tdt_B	108-152;175-214		TP=0;FP=2
+1tdt_C	108-152;175-214		TP=0;FP=2
+1tf6_D	13-98;105-188		TP=0;FP=2
+1th1_A	3-158;335-516		TP=0;FP=2
+1th1_B	3-158;335-516		TP=0;FP=2
+1thf_D	43-98;164-219		TP=2;FP=0
+1tie_A	91-109;154-172		TP=0;FP=2
+1tjc_A			TP=0;FP=0
+1tkk_F	No repeats found		TP=0;FP=0
+1tl2_A	4-95;145-236		TP=2;FP=0
+1tn6_A	114-186;257-322		TP=2;FP=0
+1tn7_A	106-177;209-285		TP=0;FP=2
+1tn8_A	106-177;209-285		TP=2;FP=0
+1tnb_A	106-177;209-285		TP=0;FP=2
+1tnb_C	106-177;209-285		TP=0;FP=2
+1tnb_E	106-177;209-285		TP=2;FP=0
+1tnb_G	106-177;209-285		TP=2;FP=0
+1tnb_I	106-177;209-285		TP=2;FP=0
+1tnb_K	106-177;209-285		TP=0;FP=2
+1tno_A	106-177;209-285		TP=0;FP=2
+1tno_C	106-177;209-285		TP=0;FP=2
+1tno_E	106-177;209-285		TP=0;FP=2
+1tno_G	106-177;209-285		TP=0;FP=2
+1tno_I	106-177;209-285		TP=0;FP=2
+1tno_K	106-177;209-285		TP=0;FP=2
+1tnr_R	1-59;84-139		TP=2;FP=0
+1tnu_A	106-177;209-285		TP=0;FP=2
+1tnu_C	106-177;209-285		TP=0;FP=2
+1tnu_E	106-177;209-285		TP=2;FP=0
+1tnu_G	106-177;209-285		TP=2;FP=0
+1tnu_I	106-177;209-285		TP=2;FP=0
+1tnu_K	106-177;209-285		TP=0;FP=2
+1tny_A	106-177;209-285		TP=2;FP=0
+1tny_C	106-177;209-285		TP=0;FP=2
+1tny_E	106-177;209-285		TP=2;FP=0
+1tny_G	106-177;209-285		TP=0;FP=2
+1tny_I	106-177;209-285		TP=0;FP=2
+1tny_K	106-177;209-285		TP=0;FP=2
+1tnz_A	106-177;209-285		TP=2;FP=0
+1tnz_C	106-177;209-285		TP=2;FP=0
+1tnz_E	106-177;209-285		TP=2;FP=0
+1tnz_G	106-177;209-285		TP=0;FP=2
+1tnz_I	106-177;209-285		TP=2;FP=0
+1tnz_K	106-177;209-285		TP=2;FP=0
+1tp8_E	1-66;70-132		TP=2;FP=0
+1tqj_A	24-48;165-187		TP=2;FP=0
+1tqj_B	24-48;165-187		TP=2;FP=0
+1tqj_C	24-48;165-187		TP=2;FP=0
+1tqj_D	24-48;165-187		TP=2;FP=0
+1tqj_E	24-48;165-187		TP=2;FP=0
+1tqj_F	24-48;165-187		TP=2;FP=0
+1tqx_A	No repeats found		TP=0;FP=0
+1tqx_B	No repeats found		TP=0;FP=0
+1tr4_A	12-113;111-212		TP=0;FP=2
+1tsp_A	No repeats found		TP=0;FP=0
+1tye_A	5-39;403-439		TP=2;FP=0
+1tye_C	5-39;403-439		TP=2;FP=0
+1tye_E	5-39;403-439		TP=2;FP=0
+1tyq_C	13-80;101-170		TP=2;FP=0
+1tyw_A	No repeats found		TP=0;FP=0
+1tyx_A	No repeats found		TP=0;FP=0
+1u2v_C	13-80;101-170		TP=2;FP=0
+1u4c_A	7-56;189-239		TP=2;FP=0
+1u4c_B	7-56;189-239		TP=2;FP=0
+1u6d_X	17-166;161-307		TP=0;FP=2
+1u6g_C	428-549;604-722		TP=0;FP=2
+1u83_A			TP=0;FP=0
+1uae_A	2-183;211-390		TP=0;FP=2
+1ubs_A	No repeats found		TP=0;FP=0
+1ugw_G	1-65;70-131		TP=2;FP=0
+1ukl_A	128-245;408-536		TP=0;FP=2
+1un0_A	37-157;248-370		TP=2;FP=0
+1un0_B	37-157;248-370		TP=2;FP=0
+1uoh_A	12-113;111-212		TP=0;FP=2
+1uoo_A	No repeats found		TP=0;FP=0
+1uop_A	No repeats found		TP=0;FP=0
+1uoq_A	No repeats found		TP=0;FP=0
+1upk_A	No repeats found		TP=0;FP=0
+1upl_A	No repeats found		TP=0;FP=0
+1upl_B	No repeats found		TP=0;FP=0
+1uw4_B	No repeats found		TP=0;FP=0
+1uyp_A	50-90;167-206		TP=0;FP=2
+1v0e_E	191-311;418-534		TP=1;FP=1
+1v0z_C	No repeats found		TP=0;FP=0
+1v0z_D	No repeats found		TP=0;FP=0
+1v18_A	2-157;334-515		TP=0;FP=2
+1v1h_A	1-29;39-68		TP=0;FP=2
+1v1h_B	1-29;39-68		TP=0;FP=2
+1v1h_C	1-29;39-68		TP=0;FP=2
+1v1h_D	1-29;39-68		TP=0;FP=2
+1v1h_E	1-29;39-68		TP=0;FP=2
+1v1h_F	1-29;39-68		TP=0;FP=2
+1v1i_A	1-29;39-68		TP=0;FP=2
+1v1i_B	1-29;39-68		TP=0;FP=2
+1v1i_C	1-29;39-68		TP=0;FP=2
+1v3b_A	No repeats found		TP=0;FP=0
+1v3b_B	No repeats found		TP=0;FP=0
+1v3d_A	No repeats found		TP=0;FP=0
+1v3w_A	72-104;107-141		TP=2;FP=0
+1v67_A	72-104;107-141		TP=2;FP=0
+1vbl_A	291-322;320-347		TP=2;FP=0
+1vbo_E	No repeats found		TP=0;FP=0
+1vbo_H	No repeats found		TP=0;FP=0
+1vbp_B	No repeats found		TP=0;FP=0
+1vcv_B	No repeats found		TP=0;FP=0
+1ve6_A	48-263;252-454		TP=0;FP=2
+1ve7_A	48-263;252-454		TP=0;FP=2
+1vkd_D	58-94;165-205		TP=2;FP=0
+1vlw_A	120-144;143-167		TP=2;FP=0
+1vlw_B	120-144;143-167		TP=2;FP=0
+1vmo_A	3-57;109-161		TP=2;FP=0
+1vmo_B	3-57;109-161		TP=2;FP=0
+1vpx_F			TP=0;FP=0
+1vpx_Q			TP=0;FP=0
+1vpx_R			TP=0;FP=0
+1vqt_A			TP=0;FP=0
+1vyf_A	11-51;75-116		TP=2;FP=0
+1vyh_C	123-220;311-408		TP=0;FP=2
+1vyh_D	123-220;311-408		TP=0;FP=2
+1vyh_G	123-220;311-408		TP=0;FP=2
+1vyh_H	123-220;311-408		TP=0;FP=2
+1vyh_K	123-220;311-408		TP=0;FP=2
+1vyh_L	123-220;311-408		TP=0;FP=2
+1vyh_O	123-220;311-408		TP=0;FP=2
+1vyh_P	123-220;311-408		TP=0;FP=2
+1vyh_S	123-220;311-408		TP=0;FP=2
+1vyh_T	123-220;311-408		TP=0;FP=2
+1vz2_A	No repeats found		TP=0;FP=0
+1vz3_A	No repeats found		TP=0;FP=0
+1w2t_C	50-90;167-206		TP=0;FP=2
+1w3b_A	30-176;234-380		TP=0;FP=2
+1w3b_B	30-176;234-380		TP=0;FP=2
+1w6j_A	61-146;542-634		TP=0;FP=2
+1w6s_A	131-232;453-542		TP=2;FP=0
+1w6s_C	131-232;453-542		TP=0;FP=2
+1w8a_A	No repeats found		TP=0;FP=0
+1w8s_E	45-155;163-259		TP=0;FP=2
+1w9c_A	109-147;276-317		TP=0;FP=2
+1w9c_B	109-147;276-317		TP=0;FP=2
+1wa3_D	108-132;131-155		TP=2;FP=0
+1wa5_B	124-244;335-457		TP=0;FP=2
+1wbc_A	44-65;92-109		TP=0;FP=2
+1wbh_C	No repeats found		TP=0;FP=0
+1wd3_A	No repeats found		TP=0;FP=0
+1wd4_A	No repeats found		TP=0;FP=0
+1wdy_A	9-132;152-280		TP=0;FP=2
+1wg0_A	1-65;139-202		TP=2;FP=0
+1wlh_A	14-101;204-294		TP=0;FP=2
+1wlh_B	36-96;227-289		TP=0;FP=2
+1wm5_A	14-52;129-172		TP=2;FP=0
+1wmr_A	No repeats found		TP=0;FP=0
+1wmr_B	No repeats found		TP=0;FP=0
+1wy6_A	No repeats found		TP=0;FP=0
+1x0c_B	No repeats found		TP=0;FP=0
+1x1v_A	8-42;102-137		TP=2;FP=0
+1x2j_A	16-159;160-300		TP=0;FP=2
+1x2r_A	16-159;160-300		TP=0;FP=2
+1x81_A	52-123;155-231		TP=0;FP=2
+1x8r_A	14-142;160-289		TP=2;FP=0
+1x8t_A	14-142;160-289		TP=2;FP=0
+1xbv_A	No repeats found		TP=0;FP=0
+1xbv_B	No repeats found		TP=0;FP=0
+1xbx_A	No repeats found		TP=0;FP=0
+1xbz_A	No repeats found		TP=0;FP=0
+1xbz_B	No repeats found		TP=0;FP=0
+1xeu_A	49-103;114-168		TP=0;FP=2
+1xfd_B	71-138;299-376		TP=1;FP=1
+1xfd_C	71-138;299-376		TP=1;FP=1
+1xg2_A	No repeats found		TP=0;FP=0
+1xhd_A	No repeats found		TP=0;FP=0
+1xhm_A	48-170;219-340		TP=0;FP=2
+1xi3_A			TP=0;FP=0
+1xi3_B			TP=0;FP=0
+1xkh_B	291-367;541-618		TP=2;FP=0
+1xku_A	27-179;167-323		TP=0;FP=2
+1xky_C			TP=0;FP=0
+1xm3_B			TP=0;FP=0
+1xm9_A	40-160;279-399		TP=0;FP=2
+1xnf_A	63-134;201-269		TP=1;FP=1
+1xnf_B	63-134;201-269		TP=1;FP=1
+1xqr_B			TP=0;FP=0
+1xqs_A	No repeats found		TP=0;FP=0
+1xqs_B	No repeats found		TP=0;FP=0
+1xuz_A	No repeats found		TP=0;FP=0
+1xwd_C	42-130;166-250		TP=0;FP=2
+1xwd_F	42-130;166-250		TP=0;FP=2
+1xwy_A	No repeats found		TP=0;FP=0
+1y2a_C	43-223;217-397		TP=0;FP=2
+1y8e_B	No repeats found		TP=0;FP=0
+1yad_A			TP=0;FP=0
+1yad_B			TP=0;FP=0
+1yad_C			TP=0;FP=0
+1yad_D			TP=0;FP=0
+1ybg_A	2-205;211-413		TP=0;FP=2
+1ybg_B	2-205;211-413		TP=0;FP=2
+1ybg_C	2-205;211-413		TP=0;FP=2
+1ybg_D	2-205;211-413		TP=0;FP=2
+1ybi_A	2-128;141-274		TP=0;FP=2
+1ydn_D	No repeats found		TP=0;FP=0
+1yif_D	5-57;230-287		TP=2;FP=0
+1ymp_A	1-49;68-115		TP=0;FP=2
+1ymp_B	1-49;68-115		TP=0;FP=2
+1yp2_C	No repeats found		TP=0;FP=0
+1yp2_D	No repeats found		TP=0;FP=0
+1yp3_C	No repeats found		TP=0;FP=0
+1yp3_D	No repeats found		TP=0;FP=0
+1yrg_A	79-148;200-270		TP=0;FP=2
+1yrg_B	79-148;200-270		TP=0;FP=2
+1yrz_A	76-143;189-254		TP=0;FP=2
+1yvp_B	No repeats found		TP=0;FP=0
+1yvr_A	No repeats found		TP=0;FP=0
+1yx1_B	No repeats found		TP=0;FP=0
+1yxy_B	1-76;137-213		TP=0;FP=2
+1yy9_A	4-287;310-612		TP=0;FP=2
+1yyh_A	42-93;176-226		TP=2;FP=0
+1yyh_B	42-93;176-226		TP=2;FP=0
+1z1w_A	No repeats found		TP=0;FP=0
+1z2f_A	No repeats found		TP=0;FP=0
+1z3h_A	No repeats found		TP=0;FP=0
+1z3h_B	No repeats found		TP=0;FP=0
+1z4w_A	161-263;326-441		TP=2;FP=0
+1z50_A	161-263;326-441		TP=2;FP=0
+1z68_A	616-656;649-686		TP=0;FP=2
+1z7x_W	4-230;228-458		TP=0;FP=2
+1z7x_Y	4-230;228-458		TP=0;FP=2
+1z7z_I	No repeats found		TP=0;FP=0
+1zco_B	No repeats found		TP=0;FP=0
+1zdy_A	No repeats found		TP=0;FP=0
+1zgk_A	17-166;161-307		TP=0;FP=2
+1zhz_A	134-198;185-250		TP=1;FP=1
+1ziw_A	25-292;381-650		TP=0;FP=2
+1znn_B	36-98;184-255		TP=0;FP=2
+1znn_D	36-98;184-255		TP=2;FP=0
+1znn_E	No repeats found		TP=0;FP=0
+1zp3_B			TP=0;FP=0
+2a0z_A	30-297;386-655		TP=0;FP=2
+2a4a_A			TP=0;FP=0
+2a4z_A	2-59;403-456		TP=0;FP=2
+2a5e_A	19-63;85-130		TP=2;FP=0
+2a73_A	31-170;229-379		TP=2;FP=0
+2aa9_A	14-142;160-289		TP=2;FP=0
+2aay_A	14-142;160-289		TP=2;FP=0
+2ac1_A	No repeats found		TP=0;FP=0
+2ad7_C	174-286;344-458		TP=2;FP=0
+2aep_A	No repeats found		TP=0;FP=0
+2aez_A	18-82;124-200		TP=2;FP=0
+2afg_A	17-71;59-115		TP=2;FP=0
+2agl_A	137-167;222-252		TP=2;FP=0
+2agl_B	137-167;222-252		TP=2;FP=0
+2agw_A	137-167;222-252		TP=2;FP=0
+2agw_B	137-167;222-252		TP=2;FP=0
+2agx_A	137-167;222-252		TP=2;FP=0
+2agx_B	137-167;222-252		TP=2;FP=0
+2agy_A	137-167;222-252		TP=2;FP=0
+2agy_B	137-167;222-252		TP=2;FP=0
+2agz_A	137-167;222-252		TP=2;FP=0
+2agz_B	137-167;222-252		TP=2;FP=0
+2ah0_A	137-167;222-252		TP=2;FP=0
+2ah0_B	137-167;222-252		TP=2;FP=0
+2ah1_A	137-167;222-252		TP=2;FP=0
+2ah1_B	137-167;222-252		TP=2;FP=0
+2aj8_D	75-136;135-195		TP=2;FP=0
+2aja_A	98-164;169-239		TP=2;FP=0
+2ajb_A	75-136;135-195		TP=2;FP=0
+2ajb_B	75-136;135-195		TP=2;FP=0
+2aq5_A	38-123;135-217		TP=2;FP=0
+2aq9_A	23-69;120-166		TP=0;FP=2
+2awi_F	6-53;237-286		TP=2;FP=0
+2awi_I	6-53;237-286		TP=2;FP=0
+2awi_J	6-53;237-286		TP=2;FP=0
+2awi_L	6-53;237-286		TP=2;FP=0
+2axv_A	6-53;237-286		TP=2;FP=0
+2axz_A	6-53;237-286		TP=2;FP=0
+2axz_C	6-53;237-286		TP=2;FP=0
+2axz_D	6-53;237-286		TP=2;FP=0
+2b0r_A	6-45;48-84		TP=1;FP=1
+2b39_A	181-266;312-403		TP=0;FP=2
+2b5l_A	No repeats found		TP=0;FP=0
+2b5l_B	No repeats found		TP=0;FP=0
+2b5m_A	No repeats found		TP=0;FP=0
+2b5n_A	51-74;195-218		TP=0;FP=2
+2b5n_D	51-74;195-218		TP=0;FP=2
+2b6c_A	No repeats found		TP=0;FP=0
+2b7m_C	No repeats found		TP=0;FP=0
+2bbc_A	191-225;321-355		TP=1;FP=1
+2bbk_J	276-300;319-344		TP=1;FP=1
+2bcj_B	48-170;219-340		TP=0;FP=2
+2bct_A	3-141;341-499		TP=0;FP=2
+2bdq_A			TP=0;FP=0
+2beb_A	No repeats found		TP=0;FP=0
+2bed_A	61-133;204-269		TP=1;FP=1
+2bex_A	3-229;227-457		TP=0;FP=2
+2bex_B	3-229;227-457		TP=0;FP=2
+2bib_A	309-414;413-514		TP=0;FP=2
+2bjb_A	115-216;302-404		TP=2;FP=0
+2bkg_A	21-99;87-165		TP=0;FP=2
+2bkg_B	21-99;87-165		TP=0;FP=2
+2bkk_B	21-101;87-167		TP=0;FP=2
+2bkk_D	21-101;87-167		TP=0;FP=2
+2bku_B	320-471;589-740		TP=0;FP=2
+2ble_A			TP=0;FP=0
+2bml_A	4-46;66-110		TP=0;FP=2
+2bml_B	4-46;66-110		TP=0;FP=2
+2bmy_B	No repeats found		TP=0;FP=0
+2bmz_B	No repeats found		TP=0;FP=0
+2bn0_A	No repeats found		TP=0;FP=0
+2bn0_B	No repeats found		TP=0;FP=0
+2bnh_A	3-226;227-454		TP=0;FP=2
+2bpt_A	No repeats found		TP=0;FP=0
+2bwm_A	19-178;240-399		TP=0;FP=2
+2bwr_A	19-178;240-399		TP=0;FP=2
+2c0l_A	15-90;168-243		TP=0;FP=2
+2c0m_A	29-104;182-257		TP=0;FP=2
+2c0m_B	29-104;182-257		TP=0;FP=2
+2c0m_C	29-104;182-257		TP=0;FP=2
+2c0m_F	29-104;182-257		TP=0;FP=2
+2c1m_A	38-218;212-392		TP=0;FP=2
+2c1t_A	37-157;248-370		TP=2;FP=0
+2c1t_B	37-157;248-370		TP=2;FP=0
+2c91_A	No repeats found		TP=0;FP=0
+2c91_E	No repeats found		TP=0;FP=0
+2c91_F	No repeats found		TP=0;FP=0
+2c91_G	No repeats found		TP=0;FP=0
+2c91_I	No repeats found		TP=0;FP=0
+2c91_J	No repeats found		TP=0;FP=0
+2ca6_A	80-149;201-271		TP=0;FP=2
+2ca6_B	80-149;201-271		TP=0;FP=2
+2ce9_D	67-106;182-218		TP=0;FP=2
+2clp_B			TP=0;FP=0
+2clp_C			TP=0;FP=0
+2clp_E			TP=0;FP=0
+2clp_F			TP=0;FP=0
+2clp_G			TP=0;FP=0
+2clp_H			TP=0;FP=0
+2clp_I			TP=0;FP=0
+2clp_J			TP=0;FP=0
+2clp_K			TP=0;FP=0
+2cn2_C	103-243;586-699		TP=0;FP=2
+2cn3_A	98-238;581-694		TP=0;FP=2
+2cn3_B	103-243;586-699		TP=0;FP=2
+2cnx_A	29-137;198-311		TP=0;FP=2
+2co0_A	29-137;198-311		TP=0;FP=2
+2co0_C	29-137;198-311		TP=0;FP=2
+2cz5_A	12-84;122-184		TP=0;FP=2
+2cz5_B	12-84;122-184		TP=0;FP=2
+2czd_A	12-84;122-184		TP=0;FP=2
+2czd_B	12-84;122-184		TP=0;FP=2
+2cze_A	12-84;122-184		TP=0;FP=2
+2cze_B	12-84;122-184		TP=0;FP=2
+2czf_A	12-84;122-184		TP=0;FP=2
+2czf_B	12-84;122-184		TP=0;FP=2
+2czv_B	No repeats found		TP=0;FP=0
+2d43_A	No repeats found		TP=0;FP=0
+2d9q_B	No repeats found		TP=0;FP=0
+2db0_A	28-77;177-226		TP=2;FP=0
+2dg1_A			TP=0;FP=0
+2dg1_C			TP=0;FP=0
+2dg1_E			TP=0;FP=0
+2dg1_F			TP=0;FP=0
+2dkt_A	No repeats found		TP=0;FP=0
+2dso_A			TP=0;FP=0
+2dso_B			TP=0;FP=0
+2dso_C			TP=0;FP=0
+2dso_D			TP=0;FP=0
+2dso_E			TP=0;FP=0
+2dso_F			TP=0;FP=0
+2dvw_A	37-113;136-212		TP=0;FP=2
+2dw7_C	No repeats found		TP=0;FP=0
+2dw7_D	No repeats found		TP=0;FP=0
+2dw7_E	No repeats found		TP=0;FP=0
+2dw7_N	No repeats found		TP=0;FP=0
+2dwz_A	37-113;136-212		TP=0;FP=2
+2dwz_C	37-113;136-212		TP=0;FP=2
+2dyh_A	17-160;161-301		TP=0;FP=2
+2dzn_A	1-65;139-202		TP=2;FP=0
+2dzn_C	1-65;139-202		TP=2;FP=0
+2dzn_E	1-65;139-202		TP=2;FP=0
+2dzo_A	1-65;139-202		TP=2;FP=0
+2dzo_C	1-65;139-202		TP=2;FP=0
+2e7s_K	No repeats found		TP=0;FP=0
+2e7s_L	No repeats found		TP=0;FP=0
+2e7s_M	No repeats found		TP=0;FP=0
+2e7s_N	No repeats found		TP=0;FP=0
+2e7s_O	No repeats found		TP=0;FP=0
+2e7s_S	No repeats found		TP=0;FP=0
+2e9w_A	3-57;178-237		TP=0;FP=2
+2e9w_B	3-57;178-237		TP=0;FP=2
+2ec8_A	28-82;203-262		TP=2;FP=0
+2ecf_A	26-147;255-381		TP=0;FP=2
+2egz_C	No repeats found		TP=0;FP=0
+2ekc_B	3-50;193-240		TP=2;FP=0
+2exh_D	6-35;231-261		TP=0;FP=2
+2exj_A	6-35;231-261		TP=0;FP=2
+2exj_D	6-35;231-261		TP=0;FP=2
+2f0y_A	114-186;257-322		TP=1;FP=1
+2f10_A	105-139;176-209		TP=1;FP=1
+2f11_A	105-139;176-209		TP=1;FP=1
+2f27_A	105-139;176-209		TP=2;FP=0
+2f6e_A	69-101;89-123		TP=2;FP=0
+2f8x_K	43-94;177-227		TP=0;FP=2
+2f8y_A	10-61;144-194		TP=0;FP=2
+2f8y_B	10-61;144-194		TP=0;FP=2
+2f9c_A	No repeats found		TP=0;FP=0
+2f9c_B	225-249;256-280		TP=2;FP=0
+2faw_B	No repeats found		TP=0;FP=0
+2fbn_A	No repeats found		TP=0;FP=0
+2fi7_B	43-121;147-225		TP=0;FP=2
+2fkg_A	No repeats found		TP=0;FP=0
+2fkj_A	58-124;176-239		TP=0;FP=2
+2fkj_B	58-124;176-239		TP=0;FP=2
+2fkj_C	58-124;176-239		TP=0;FP=2
+2fko_A	72-104;107-141		TP=1;FP=1
+2flu_X	17-166;161-307		TP=0;FP=2
+2fo7_A	1-68;69-136		TP=2;FP=0
+2fp8_A	No repeats found		TP=0;FP=0
+2fpb_A			TP=0;FP=0
+2ft3_A	34-169;173-316		TP=0;FP=2
+2ft3_B	34-169;173-316		TP=0;FP=2
+2ft3_C	34-169;173-316		TP=0;FP=2
+2ft3_D	34-169;173-316		TP=0;FP=2
+2ft3_E	34-169;173-316		TP=0;FP=2
+2ft3_F	34-169;173-316		TP=0;FP=2
+2fv2_B	No repeats found		TP=0;FP=0
+2fv2_C	No repeats found		TP=0;FP=0
+2fv2_D	No repeats found		TP=0;FP=0
+2g5p_A	No repeats found		TP=0;FP=0
+2g63_C	No repeats found		TP=0;FP=0
+2g63_D	No repeats found		TP=0;FP=0
+2g7c_A	12-70;196-254		TP=0;FP=2
+2g7c_B	12-70;196-254		TP=0;FP=2
+2g8c_O	No repeats found		TP=0;FP=0
+2g99_A	11-130;180-304		TP=0;FP=2
+2g99_B	11-130;180-304		TP=0;FP=2
+2g9a_A	14-133;183-307		TP=0;FP=2
+2gbf_A	104-137;163-196		TP=2;FP=0
+2gc4_A	No repeats found		TP=0;FP=0
+2gc4_E	No repeats found		TP=0;FP=0
+2gc4_I	No repeats found		TP=0;FP=0
+2gc4_M	No repeats found		TP=0;FP=0
+2gc7_A	No repeats found		TP=0;FP=0
+2gc7_E	No repeats found		TP=0;FP=0
+2gc7_I	No repeats found		TP=0;FP=0
+2gc7_M	No repeats found		TP=0;FP=0
+2gg4_A	No repeats found		TP=0;FP=0
+2gg6_A	No repeats found		TP=0;FP=0
+2gga_A	No repeats found		TP=0;FP=0
+2ggd_A	No repeats found		TP=0;FP=0
+2gge_H	82-122;171-209		TP=2;FP=0
+2ggo_A	217-290;320-394		TP=1;FP=1
+2ggq_A	217-290;320-394		TP=1;FP=1
+2gl7_A	2-154;334-512		TP=0;FP=2
+2gl7_D	2-154;334-512		TP=0;FP=2
+2gnq_A	39-158;208-332		TP=0;FP=2
+2go2_A	No repeats found		TP=0;FP=0
+2gop_A	No repeats found		TP=0;FP=0
+2gop_B	No repeats found		TP=0;FP=0
+2gsk_A	No repeats found		TP=0;FP=0
+2gvw_A	17-62;116-157		TP=2;FP=0
+2gvx_A	17-62;116-157		TP=2;FP=0
+2gw1_A	152-306;299-451		TP=0;FP=2
+2gys_B	1-208;212-406		TP=2;FP=0
+2gzb_B	No repeats found		TP=0;FP=0
+2gzx_A			TP=0;FP=0
+2h0l_A	15-159;170-318		TP=2;FP=0
+2h13_A	20-139;189-313		TP=0;FP=2
+2h14_A	20-139;189-313		TP=0;FP=2
+2h2n_A	No repeats found		TP=0;FP=0
+2h3x_A	166-196;251-281		TP=2;FP=0
+2h3x_D	166-196;251-281		TP=2;FP=0
+2h47_A	166-196;251-281		TP=2;FP=0
+2h47_D	166-196;251-281		TP=2;FP=0
+2h47_F	166-196;251-281		TP=2;FP=0
+2h47_H	166-196;251-281		TP=1;FP=1
+2h4m_A	372-494;642-765		TP=0;FP=2
+2h4m_B	372-494;642-765		TP=0;FP=2
+2h68_A	15-134;184-308		TP=0;FP=2
+2h68_B	15-134;184-308		TP=0;FP=2
+2h6f_A	114-186;257-322		TP=2;FP=0
+2h6g_A	114-186;257-322		TP=2;FP=0
+2h6h_A	114-186;257-322		TP=2;FP=0
+2h6i_A	114-186;257-322		TP=2;FP=0
+2h6k_A	15-134;184-308		TP=0;FP=2
+2h6k_B	15-134;184-308		TP=0;FP=2
+2h6n_A	15-134;184-308		TP=0;FP=2
+2h6n_B	15-134;184-308		TP=0;FP=2
+2h6q_A	15-134;184-308		TP=0;FP=2
+2h6q_B	15-134;184-308		TP=0;FP=2
+2h6r_A	No repeats found		TP=0;FP=0
+2h6r_B	No repeats found		TP=0;FP=0
+2h6r_C	No repeats found		TP=0;FP=0
+2h6r_D	No repeats found		TP=0;FP=0
+2h6r_E	No repeats found		TP=0;FP=0
+2h6r_F	No repeats found		TP=0;FP=0
+2h6r_G	No repeats found		TP=0;FP=0
+2h6r_H	No repeats found		TP=0;FP=0
+2h9l_A	32-151;201-325		TP=0;FP=2
+2h9m_A	16-135;185-309		TP=0;FP=2
+2h9m_C	16-135;185-309		TP=0;FP=2
+2h9n_A	16-135;185-309		TP=0;FP=2
+2h9n_C	16-135;185-309		TP=0;FP=2
+2h9p_A	32-151;201-325		TP=0;FP=2
+2he0_A	42-93;176-226		TP=2;FP=0
+2he0_B	42-93;176-226		TP=2;FP=0
+2hes_X	7-139;190-329		TP=0;FP=2
+2hj4_A	137-167;222-252		TP=2;FP=0
+2hj4_B	137-167;222-252		TP=2;FP=0
+2hjb_A	137-167;222-252		TP=2;FP=0
+2hjb_B	137-167;222-252		TP=2;FP=0
+2hkd_A	No repeats found		TP=0;FP=0
+2hkm_A	138-168;223-253		TP=2;FP=0
+2hkm_B	138-168;223-253		TP=2;FP=0
+2hkr_A	138-168;223-253		TP=2;FP=0
+2hkr_B	138-168;223-253		TP=2;FP=0
+2ho1_A	30-108;134-212		TP=0;FP=2
+2ho1_B	30-108;134-212		TP=0;FP=2
+2hqs_A	158-276;291-407		TP=0;FP=2
+2hqs_D	158-276;291-407		TP=0;FP=2
+2hr7_A	6-179;310-478		TP=0;FP=2
+2hr7_B	6-179;310-478		TP=0;FP=2
+2hu7_A	48-263;252-454		TP=0;FP=2
+2hu8_B	48-263;252-454		TP=0;FP=2
+2hxc_A	137-167;222-252		TP=2;FP=0
+2hxc_B	136-166;221-251		TP=2;FP=0
+2hye_A	No repeats found		TP=0;FP=0
+2hye_C	No repeats found		TP=0;FP=0
+2hyz_A	1-68;69-136		TP=2;FP=0
+2i0r_A	137-167;222-252		TP=2;FP=0
+2i0r_B	137-167;222-252		TP=2;FP=0
+2i0s_A	136-166;221-251		TP=2;FP=0
+2i0s_B	136-166;221-251		TP=2;FP=0
+2i0t_A	137-167;222-252		TP=2;FP=0
+2i0t_B	137-167;222-252		TP=2;FP=0
+2i13_A	1-67;82-151		TP=2;FP=0
+2i3s_A	7-56;189-239		TP=2;FP=0
+2i3s_E	7-56;189-239		TP=2;FP=0
+2i3t_A	7-56;189-239		TP=2;FP=0
+2i3t_C	7-56;189-239		TP=2;FP=0
+2i3t_E	7-56;189-239		TP=2;FP=0
+2i3t_G	7-56;189-239		TP=2;FP=0
+2i5v_O	No repeats found		TP=0;FP=0
+2i5z_O	No repeats found		TP=0;FP=0
+2iaa_A	166-196;251-281		TP=2;FP=0
+2iaa_D	166-196;251-281		TP=2;FP=0
+2iae_A	13-227;366-582		TP=0;FP=2
+2iae_D	13-227;366-582		TP=0;FP=2
+2iae_E	30-139;224-330		TP=0;FP=2
+2iax_A	15-60;114-155		TP=2;FP=0
+2id5_A	57-140;249-332		TP=0;FP=2
+2id5_B	57-140;249-332		TP=0;FP=2
+2id5_C	57-140;249-332		TP=0;FP=2
+2id5_D	57-140;249-332		TP=0;FP=2
+2ie3_A	13-227;366-582		TP=0;FP=2
+2ie4_A	13-227;366-582		TP=0;FP=2
+2iej_A	114-186;257-322		TP=2;FP=0
+2ifg_A	169-243;269-339		TP=0;FP=2
+2ifg_B	169-243;269-339		TP=0;FP=2
+2ifu_B	31-93;130-192		TP=2;FP=0
+2ifu_C	31-93;130-192		TP=2;FP=0
+2ifu_D	31-93;130-192		TP=2;FP=0
+2iho_A	7-47;110-150		TP=2;FP=0
+2iic_A	2-49;152-202		TP=2;FP=0
+2iic_D	2-49;152-202		TP=2;FP=0
+2iou_G	No repeats found		TP=0;FP=0
+2iq7_E	No repeats found		TP=0;FP=0
+2iq7_F	No repeats found		TP=0;FP=0
+2iu8_A	139-207;265-332		TP=0;FP=2
+2iu8_B	139-207;265-332		TP=0;FP=2
+2iu8_C	139-207;265-332		TP=0;FP=2
+2iu9_A	139-207;265-332		TP=0;FP=2
+2iu9_C	139-207;265-332		TP=0;FP=2
+2iua_A	139-207;265-332		TP=0;FP=2
+2iua_C	139-207;265-332		TP=0;FP=2
+2iup_A	137-167;222-252		TP=2;FP=0
+2iup_B	137-167;222-252		TP=2;FP=0
+2iuq_A	137-167;222-252		TP=2;FP=0
+2iuq_B	137-167;222-252		TP=2;FP=0
+2iur_A	137-167;222-252		TP=2;FP=0
+2iur_B	137-167;222-252		TP=2;FP=0
+2iuv_A	137-167;222-252		TP=2;FP=0
+2iuv_B	137-167;222-252		TP=2;FP=0
+2ivz_C	180-298;313-429		TP=0;FP=2
+2iwv_A	221-245;257-281		TP=2;FP=0
+2iwv_B	221-245;257-281		TP=2;FP=0
+2iwv_C	221-245;257-281		TP=2;FP=0
+2iwv_D	221-245;257-281		TP=2;FP=0
+2ixu_A	169-237;247-320		TP=0;FP=2
+2ixv_A	169-237;247-320		TP=0;FP=2
+2j04_A	No repeats found		TP=0;FP=0
+2j55_H	No repeats found		TP=0;FP=0
+2j55_J	No repeats found		TP=0;FP=0
+2j56_H	No repeats found		TP=0;FP=0
+2j56_J	No repeats found		TP=0;FP=0
+2j57_G	No repeats found		TP=0;FP=0
+2j57_H	No repeats found		TP=0;FP=0
+2j57_I	No repeats found		TP=0;FP=0
+2j57_J	No repeats found		TP=0;FP=0
+2j8k_A	42-126;112-196		TP=0;FP=2
+2j8s_D	21-101;87-167		TP=0;FP=2
+2j8s_E	21-101;87-167		TP=0;FP=2
+2j9q_A	38-113;168-243		TP=0;FP=2
+2jdq_A	48-209;219-378		TP=0;FP=2
+2jdq_B	48-209;219-378		TP=0;FP=2
+2je0_A	36-70;79-113		TP=2;FP=0
+2je0_B	36-70;79-113		TP=2;FP=0
+2je0_C	36-70;79-113		TP=2;FP=0
+2je0_D	36-70;79-113		TP=2;FP=0
+2je0_E	36-70;79-113		TP=2;FP=0
+2je0_F	36-70;79-113		TP=2;FP=0
+2je1_A	36-70;79-113		TP=2;FP=0
+2je1_B	36-70;79-113		TP=2;FP=0
+2je1_C	36-70;79-113		TP=2;FP=0
+2je1_D	36-70;79-113		TP=2;FP=0
+2jf3_A	23-69;120-166		TP=0;FP=2
+2jk4_A	No repeats found		TP=0;FP=0
+2jkr_B	305-366;402-463		TP=2;FP=0
+2jkr_E	305-366;402-463		TP=2;FP=0
+2jkt_A	98-168;314-389		TP=2;FP=0
+2jkt_B	305-366;402-463		TP=2;FP=0
+2jkt_E	305-366;402-463		TP=2;FP=0
+2jll_A	No repeats found		TP=0;FP=0
+2jqd_A	22-75;69-118		TP=1;FP=1
+2jqy_A	220-244;256-280		TP=2;FP=0
+2k2c_A	No repeats found		TP=0;FP=0
+2mhk_A			TP=0;FP=0
+2n3d_A	1-1030;1031-2060		TP=0;FP=2
+2n3v_A	10-57;87-125		TP=0;FP=2
+2npo_A	No repeats found		TP=0;FP=0
+2npp_A	13-227;366-582		TP=0;FP=2
+2npp_B	22-131;216-322		TP=2;FP=0
+2npp_D	13-227;366-582		TP=0;FP=2
+2nuw_A	No repeats found		TP=0;FP=0
+2nuw_B	No repeats found		TP=0;FP=0
+2nux_A	No repeats found		TP=0;FP=0
+2nuy_A	No repeats found		TP=0;FP=0
+2nv2_K	47-70;204-227		TP=2;FP=0
+2nv9_B	No repeats found		TP=0;FP=0
+2nw0_B	5-21;170-188		TP=0;FP=2
+2nyl_A	6-220;359-575		TP=0;FP=2
+2nyl_B	22-131;216-322		TP=0;FP=2
+2nyl_D	6-220;359-575		TP=0;FP=2
+2nyl_E	22-131;216-322		TP=2;FP=0
+2nym_A	6-220;359-575		TP=0;FP=2
+2nym_B	22-131;216-322		TP=2;FP=0
+2nym_D	6-220;359-575		TP=0;FP=2
+2nym_E	22-131;216-322		TP=2;FP=0
+2nzi_A	28-98;128-198		TP=2;FP=0
+2nzi_B	28-98;128-198		TP=2;FP=0
+2o0b_A	115-216;302-404		TP=2;FP=0
+2o15_A	115-216;302-404		TP=2;FP=0
+2o26_W	2-75;178-257		TP=0;FP=2
+2o26_X	2-75;178-257		TP=1;FP=1
+2o4v_B	No repeats found		TP=0;FP=0
+2o56_D			TP=0;FP=0
+2o6q_A	26-119;119-215		TP=0;FP=2
+2o6r_A	19-62;88-134		TP=2;FP=0
+2o6s_A	21-95;90-167		TP=0;FP=2
+2o6s_B	21-95;90-167		TP=0;FP=2
+2o7q_A	26-58;88-115		TP=1;FP=1
+2o9k_A	16-135;185-309		TP=0;FP=2
+2o9k_C	16-135;185-309		TP=0;FP=2
+2oag_A	No repeats found		TP=0;FP=0
+2oag_D	No repeats found		TP=0;FP=0
+2ocz_A	No repeats found		TP=0;FP=0
+2odl_A	No repeats found		TP=0;FP=0
+2oej_A	No repeats found		TP=0;FP=0
+2ofj_B	No repeats found		TP=0;FP=0
+2og9_A			TP=0;FP=0
+2og9_B			TP=0;FP=0
+2ogz_B	No repeats found		TP=0;FP=0
+2oi5_A	264-326;362-427		TP=0;FP=2
+2oi5_B	264-326;362-427		TP=0;FP=2
+2oi6_A	264-326;362-427		TP=0;FP=2
+2oi6_B	264-326;362-427		TP=0;FP=2
+2oi7_A	264-326;362-427		TP=0;FP=2
+2oi7_B	264-326;362-427		TP=0;FP=2
+2oiz_A	137-167;222-252		TP=2;FP=0
+2oiz_B	137-167;222-252		TP=2;FP=0
+2ojh_A	45-145;176-288		TP=1;FP=1
+2ojy_A	138-168;223-253		TP=2;FP=0
+2ojy_B	138-168;223-253		TP=2;FP=0
+2ok4_A	137-167;222-252		TP=2;FP=0
+2ok4_B	137-167;222-252		TP=2;FP=0
+2ok5_A	20-77;148-206		TP=2;FP=0
+2ok6_A	137-167;222-252		TP=2;FP=0
+2ok6_B	137-167;222-252		TP=2;FP=0
+2ol6_O	No repeats found		TP=0;FP=0
+2ol8_O	No repeats found		TP=0;FP=0
+2onc_C	No repeats found		TP=0;FP=0
+2ond_A	103-180;207-287		TP=1;FP=1
+2ond_B	103-180;207-287		TP=1;FP=1
+2oog_D	11-97;98-186		TP=0;FP=2
+2oph_B	No repeats found		TP=0;FP=0
+2oqh_A			TP=0;FP=0
+2oqy_H	117-166;227-273		TP=2;FP=0
+2otd_C	No repeats found		TP=0;FP=0
+2ovr_B	112-236;273-399		TP=0;FP=2
+2ox1_A	No repeats found		TP=0;FP=0
+2oy1_O	No repeats found		TP=0;FP=0
+2oy5_O	No repeats found		TP=0;FP=0
+2oy7_A	58-119;130-188		TP=0;FP=2
+2oy8_A	No repeats found		TP=0;FP=0
+2oyb_O	No repeats found		TP=0;FP=0
+2oz3_A	No repeats found		TP=0;FP=0
+2oz3_B	No repeats found		TP=0;FP=0
+2oz3_E	No repeats found		TP=0;FP=0
+2oz4_A	43-66;72-95		TP=0;FP=2
+2p2c_P	21-101;87-167		TP=0;FP=2
+2p2c_Q	21-101;87-167		TP=0;FP=2
+2p2c_R	21-101;87-167		TP=0;FP=2
+2p2c_S	21-101;87-167		TP=0;FP=2
+2p2c_T	21-101;87-167		TP=0;FP=2
+2p2c_U	21-101;87-167		TP=0;FP=2
+2p2o_B	64-106;120-160		TP=1;FP=1
+2p2o_C	64-106;120-160		TP=1;FP=1
+2p2o_E	64-106;120-160		TP=1;FP=1
+2p4o_A	8-87;194-271		TP=2;FP=0
+2p76_E	11-97;98-186		TP=0;FP=2
+2p76_F	11-97;98-186		TP=0;FP=2
+2p88_A	No repeats found		TP=0;FP=0
+2p88_D	No repeats found		TP=0;FP=0
+2p88_E	No repeats found		TP=0;FP=0
+2p88_F	No repeats found		TP=0;FP=0
+2p88_G	No repeats found		TP=0;FP=0
+2p8q_A	107-194;346-428		TP=2;FP=0
+2p9i_C	13-80;101-170		TP=2;FP=0
+2p9k_C	13-80;101-170		TP=2;FP=0
+2p9n_C	13-80;101-170		TP=2;FP=0
+2p9p_C	13-80;101-170		TP=2;FP=0
+2p9s_C	12-79;100-169		TP=2;FP=0
+2p9u_C	13-80;101-170		TP=2;FP=0
+2pbi_B	70-133;290-353		TP=2;FP=0
+2pbi_D	70-133;290-353		TP=2;FP=0
+2pce_A	No repeats found		TP=0;FP=0
+2pce_C	No repeats found		TP=0;FP=0
+2pec_A	82-113;252-283		TP=2;FP=0
+2pf4_A	13-227;366-582		TP=0;FP=2
+2pf4_B	13-227;366-582		TP=0;FP=2
+2pf4_C	13-227;366-582		TP=0;FP=2
+2pf4_D	13-227;366-582		TP=0;FP=2
+2pft_A	No repeats found		TP=0;FP=0
+2pge_A			TP=0;FP=0
+2pgw_A			TP=0;FP=0
+2pgw_C			TP=0;FP=0
+2pgw_D			TP=0;FP=0
+2pgw_F	No repeats found		TP=0;FP=0
+2pgw_H			TP=0;FP=0
+2pi3_O	No repeats found		TP=0;FP=0
+2pig_A	No repeats found		TP=0;FP=0
+2pkg_A	4-218;357-573		TP=0;FP=2
+2pkg_B	4-218;357-573		TP=0;FP=2
+2pl2_A	13-38;158-184		TP=1;FP=1
+2pl2_B	13-38;158-184		TP=1;FP=1
+2pm6_B	21-138;170-291		TP=0;FP=2
+2pm6_D	21-138;170-291		TP=0;FP=2
+2pm7_B	24-89;222-289		TP=2;FP=0
+2pm7_D	24-89;222-289		TP=2;FP=0
+2pm9_B	24-89;222-289		TP=2;FP=0
+2pn5_A	881-943;1030-1085		TP=0;FP=2
+2pnn_A	88-169;173-254		TP=2;FP=0
+2pp0_B	No repeats found		TP=0;FP=0
+2pp1_A	No repeats found		TP=0;FP=0
+2pp1_C	No repeats found		TP=0;FP=0
+2pp1_D	No repeats found		TP=0;FP=0
+2pp1_E	No repeats found		TP=0;FP=0
+2pp1_F	No repeats found		TP=0;FP=0
+2pp3_C	No repeats found		TP=0;FP=0
+2ppg_A			TP=0;FP=0
+2pq9_A	14-142;160-289		TP=2;FP=0
+2pqb_A	No repeats found		TP=0;FP=0
+2pqc_A	No repeats found		TP=0;FP=0
+2pqd_A	No repeats found		TP=0;FP=0
+2prn_A	No repeats found		TP=0;FP=0
+2prt_A	5-61;65-119		TP=0;FP=2
+2pyg_B	No repeats found		TP=0;FP=0
+2pyh_A	No repeats found		TP=0;FP=0
+2pyh_B	No repeats found		TP=0;FP=0
+2pz0_B			TP=0;FP=0
+2q4g_W	4-230;228-458		TP=0;FP=2
+2q4g_Y	4-230;228-458		TP=0;FP=2
+2q5d_A	107-194;346-428		TP=2;FP=0
+2q7f_A	42-118;144-220		TP=0;FP=2
+2q7f_B	42-118;144-220		TP=0;FP=2
+2q7q_A	137-167;222-252		TP=2;FP=0
+2q7q_B	137-167;222-252		TP=2;FP=0
+2qc5_A	10-130;178-296		TP=0;FP=2
+2qc9_A	2-109;103-204		TP=0;FP=2
+2qc9_B	2-109;103-204		TP=0;FP=2
+2qde_A			TP=0;FP=0
+2qde_D			TP=0;FP=0
+2qez_A	232-267;271-303		TP=2;FP=0
+2qfq_A	14-142;160-289		TP=2;FP=0
+2qft_A	14-142;160-289		TP=2;FP=0
+2qfu_A	14-142;160-289		TP=2;FP=0
+2qgy_A	76-194;233-351		TP=0;FP=2
+2qia_A	23-69;120-166		TP=0;FP=2
+2qiv_X	23-69;120-166		TP=0;FP=2
+2qj6_A	13-122;218-327		TP=0;FP=2
+2qj6_B	13-122;218-327		TP=0;FP=2
+2qk1_A	70-120;116-162		TP=0;FP=2
+2qk2_A	No repeats found		TP=0;FP=0
+2qkx_A	No repeats found		TP=0;FP=0
+2qm9_B	No repeats found		TP=0;FP=0
+2qmr_A	230-305;374-444		TP=2;FP=0
+2qmr_B	230-305;374-444		TP=2;FP=0
+2qmr_C	230-305;374-444		TP=2;FP=0
+2qmr_D	230-305;374-444		TP=2;FP=0
+2qna_A	94-214;285-398		TP=2;FP=0
+2qtk_A	No repeats found		TP=0;FP=0
+2qtk_B	No repeats found		TP=0;FP=0
+2qxv_A	126-146;171-191		TP=1;FP=1
+2qy1_B	197-226;219-249		TP=2;FP=0
+2qyg_D			TP=0;FP=0
+2qyi_B	No repeats found		TP=0;FP=0
+2qyi_D	No repeats found		TP=0;FP=0
+2qyj_A	21-99;87-165		TP=0;FP=2
+2qza_A	173-232;359-419		TP=1;FP=1
+2r17_C	No repeats found		TP=0;FP=0
+2r17_D	No repeats found		TP=0;FP=0
+2r19_A	5-74;74-145		TP=2;FP=0
+2r1a_A	5-74;74-145		TP=2;FP=0
+2r1a_B	5-74;74-145		TP=2;FP=0
+2r1a_C	5-74;74-145		TP=2;FP=0
+2r1a_D	5-74;74-145		TP=2;FP=0
+2r1a_E	5-74;74-145		TP=2;FP=0
+2r1a_F	5-74;74-145		TP=2;FP=0
+2r1a_G	5-74;74-145		TP=2;FP=0
+2r1a_H	5-74;74-145		TP=2;FP=0
+2r2l_A	61-133;204-269		TP=1;FP=1
+2r8w_B			TP=0;FP=0
+2r94_C	59-151;160-260		TP=0;FP=2
+2r9u_A	16-67;56-115		TP=0;FP=2
+2r9u_B	16-67;56-115		TP=0;FP=2
+2r9u_C	16-67;56-115		TP=0;FP=2
+2r9u_D	16-67;56-115		TP=0;FP=2
+2rfa_A	4-49;122-166		TP=1;FP=1
+2rfm_A	29-71;128-170		TP=2;FP=0
+2rfm_B	29-71;128-170		TP=2;FP=0
+2rij_A	No repeats found		TP=0;FP=0
+2rl1_A	126-207;335-415		TP=2;FP=0
+2rl2_A	126-207;335-415		TP=2;FP=0
+2sqc_A	359-485;480-591		TP=0;FP=2
+2trc_B	48-170;219-340		TP=0;FP=2
+2uve_B	No repeats found		TP=0;FP=0
+2uvf_A	No repeats found		TP=0;FP=0
+2uvf_B	No repeats found		TP=0;FP=0
+2uvk_B	27-126;213-324		TP=2;FP=0
+2uwj_G	No repeats found		TP=0;FP=0
+2uy1_A	50-92;181-223		TP=2;FP=0
+2uzx_A	29-95;139-205		TP=0;FP=2
+2uzx_C	29-95;139-205		TP=0;FP=2
+2uzy_A	29-95;139-205		TP=0;FP=2
+2uzy_C	29-95;139-205		TP=0;FP=2
+2v04_A	8-144;171-290		TP=0;FP=2
+2v0h_A	No repeats found		TP=0;FP=0
+2v0i_A	No repeats found		TP=0;FP=0
+2v0j_A	No repeats found		TP=0;FP=0
+2v0k_A	No repeats found		TP=0;FP=0
+2v0l_A	No repeats found		TP=0;FP=0
+2v4h_C	2-68;68-134		TP=2;FP=0
+2v5i_A	No repeats found		TP=0;FP=0
+2v5q_C	21-97;87-163		TP=1;FP=1
+2v5q_D	21-97;87-163		TP=1;FP=1
+2v5r_A	7-57;315-362		TP=2;FP=0
+2v5r_B	7-57;315-362		TP=2;FP=0
+2v5s_B	13-63;318-365		TP=2;FP=0
+2v70_A	37-91;110-163		TP=0;FP=2
+2v70_B	37-91;110-163		TP=0;FP=2
+2v70_C	37-91;110-163		TP=0;FP=2
+2v70_D	37-91;110-163		TP=0;FP=2
+2v81_A	16-81;104-170		TP=0;FP=2
+2v82_A	16-81;104-170		TP=0;FP=2
+2v9d_A			TP=0;FP=0
+2v9d_D			TP=0;FP=0
+2v9s_A	20-90;89-162		TP=0;FP=2
+2v9s_B	20-90;89-162		TP=0;FP=2
+2v9s_C	20-90;89-162		TP=0;FP=2
+2v9s_D	20-90;89-162		TP=0;FP=2
+2v9t_B	20-90;89-162		TP=0;FP=2
+2vbm_A	No repeats found		TP=0;FP=0
+2vc6_B	No repeats found		TP=0;FP=0
+2vd4_A	No repeats found		TP=0;FP=0
+2vdc_A	1257-1336;1346-1424		TP=0;FP=2
+2vdc_C	1257-1336;1346-1424		TP=0;FP=2
+2vdc_E	1257-1336;1346-1424		TP=0;FP=2
+2vdh_F	No repeats found		TP=0;FP=0
+2vdn_A	5-39;403-439		TP=2;FP=0
+2vdo_A	5-39;403-439		TP=2;FP=0
+2vdu_B	221-297;286-360		TP=2;FP=0
+2vdu_D	48-117;244-314		TP=1;FP=1
+2vfn_A	353-389;486-524		TP=2;FP=0
+2vfq_A	353-390;487-526		TP=2;FP=0
+2vgy_A	No repeats found		TP=0;FP=0
+2vhe_A	No repeats found		TP=0;FP=0
+2vhe_B	No repeats found		TP=0;FP=0
+2vj3_A	2-44;80-120		TP=0;FP=2
+2vk7_A	56-155;252-343		TP=0;FP=2
+2vpj_A	5-111;192-299		TP=1;FP=1
+2vq2_A	No repeats found		TP=0;FP=0
+2vqi_A	No repeats found		TP=0;FP=0
+2vqi_B	No repeats found		TP=0;FP=0
+2vse_A	273-406;703-830		TP=0;FP=2
+2vvz_A	57-112;215-268		TP=0;FP=2
+2vvz_B	57-112;215-268		TP=0;FP=2
+2vyi_A	31-59;99-127		TP=1;FP=1
+2vyu_A	35-171;198-317		TP=0;FP=2
+2w0v_A	No repeats found		TP=0;FP=0
+2w0w_A	No repeats found		TP=0;FP=0
+2w16_A	376-452;626-703		TP=2;FP=0
+2w7z_A	21-112;102-192		TP=0;FP=2
+2w8b_A	158-276;291-407		TP=0;FP=2
+2w8b_B	158-276;291-407		TP=0;FP=2
+2w8b_D	158-276;291-407		TP=0;FP=2
+2w8b_F	158-276;291-407		TP=0;FP=2
+2wbc_A	44-65;92-109		TP=0;FP=2
+2wg4_B	392-421;423-453		TP=2;FP=0
+2whj_A	22-142;128-263		TP=0;FP=2
+2wii_A	31-170;229-379		TP=2;FP=0
+2wii_C	15-69;198-251		TP=2;FP=0
+2wim_A	19-96;209-283		TP=2;FP=0
+2wim_B	19-96;209-283		TP=2;FP=0
+2win_A	31-170;229-379		TP=2;FP=0
+2win_C	31-170;229-379		TP=2;FP=0
+2win_E	31-170;229-379		TP=2;FP=0
+2win_G	31-170;229-379		TP=2;FP=0
+2wld_B	No repeats found		TP=0;FP=0
+2wld_C	No repeats found		TP=0;FP=0
+2wle_A	No repeats found		TP=0;FP=0
+2wle_B	No repeats found		TP=0;FP=0
+2wle_C	No repeats found		TP=0;FP=0
+2wlf_A	No repeats found		TP=0;FP=0
+2wlf_B	No repeats found		TP=0;FP=0
+2wlf_C	No repeats found		TP=0;FP=0
+2wlg_A	No repeats found		TP=0;FP=0
+2wlg_B	No repeats found		TP=0;FP=0
+2wlg_C	No repeats found		TP=0;FP=0
+2wng_A	93-155;202-258		TP=0;FP=2
+2woz_A	44-117;194-261		TP=0;FP=2
+2wpb_D			TP=0;FP=0
+2wqp_A	No repeats found		TP=0;FP=0
+2wqr_A	26-107;236-319		TP=1;FP=1
+2wqr_B	29-110;239-322		TP=1;FP=1
+2wqu_B	29-95;139-205		TP=0;FP=2
+2wqu_C	29-95;139-205		TP=0;FP=2
+2wqu_D	29-95;139-205		TP=0;FP=2
+2wqu_E	29-95;139-205		TP=0;FP=2
+2wqv_A	29-95;139-205		TP=0;FP=2
+2wqv_B	29-95;139-205		TP=0;FP=2
+2wqw_A	26-92;136-202		TP=0;FP=2
+2wqw_B	26-92;136-202		TP=0;FP=2
+2wqx_A	29-95;139-205		TP=0;FP=2
+2wqx_B	29-95;139-205		TP=0;FP=2
+2wvi_A	No repeats found		TP=0;FP=0
+2wvp_A	No repeats found		TP=0;FP=0
+2ww5_A	38-142;139-240		TP=0;FP=2
+2wwc_A	38-142;139-240		TP=0;FP=2
+2wzm_A	No repeats found		TP=0;FP=0
+2x19_B	No repeats found		TP=0;FP=0
+2x8o_A	8-144;171-290		TP=0;FP=2
+2xa7_B	305-366;402-463		TP=2;FP=0
+2xbg_A	27-106;238-321		TP=2;FP=0
+2xcb_A	No repeats found		TP=0;FP=0
+2xee_A	9-57;108-156		TP=2;FP=0
+2xee_B	9-57;108-156		TP=2;FP=0
+2xee_C	9-57;108-156		TP=2;FP=0
+2xee_D	9-57;108-156		TP=2;FP=0
+2xeh_A	9-57;108-156		TP=2;FP=0
+2xeh_B	9-57;108-156		TP=2;FP=0
+2xeh_C	9-57;108-156		TP=2;FP=0
+2xev_A	No repeats found		TP=0;FP=0
+2xl2_A	37-156;206-330		TP=0;FP=2
+2xl2_B	37-156;206-330		TP=0;FP=2
+2xl3_A	37-156;206-330		TP=0;FP=2
+2xl3_B	37-156;206-330		TP=0;FP=2
+2xn4_A	17-154;157-298		TP=0;FP=2
+2xn4_B	17-154;157-298		TP=0;FP=2
+2xrd_A	38-156;161-288		TP=2;FP=0
+2xt2_B	23-73;114-164		TP=2;FP=0
+2xt4_A	23-73;108-158		TP=0;FP=2
+2xu7_A	123-270;272-419		TP=0;FP=2
+2xu7_B	123-270;272-419		TP=0;FP=2
+2xwt_C	42-101;142-200		TP=0;FP=2
+2y0b_G	9-68;68-134		TP=2;FP=0
+2y0b_H	9-68;68-134		TP=2;FP=0
+2y0h_A	17-74;287-339		TP=2;FP=0
+2y1l_F	21-101;87-167		TP=0;FP=2
+2y5q_A	31-97;141-207		TP=0;FP=2
+2y7q_D	26-82;218-276		TP=1;FP=1
+2yce_E	45-155;163-259		TP=0;FP=2
+2yd9_A	7-98;206-289		TP=2;FP=0
+2yda_B	No repeats found		TP=0;FP=0
+2ydt_A	No repeats found		TP=0;FP=0
+2yh3_A	34-188;220-359		TP=0;FP=2
+2yjy_A	22-114;238-337		TP=0;FP=2
+2yjy_B	22-114;238-337		TP=0;FP=2
+2ymu_B	12-290;299-577		TP=0;FP=2
+2yn3_B	No repeats found		TP=0;FP=0
+2yn3_C	No repeats found		TP=0;FP=0
+2yn5_A	No repeats found		TP=0;FP=0
+2yn5_B	No repeats found		TP=0;FP=0
+2ynn_A	8-118;178-293		TP=0;FP=2
+2yno_A	8-118;178-293		TP=0;FP=2
+2yno_B	8-118;178-293		TP=0;FP=2
+2ynr_A	77-257;251-431		TP=0;FP=2
+2yns_A	23-169;236-381		TP=0;FP=2
+2yns_B	23-169;236-381		TP=0;FP=2
+2ypf_A	33-366;406-740		TP=0;FP=2
+2yr1_B	30-65;98-134		TP=2;FP=0
+2ysu_A	No repeats found		TP=0;FP=0
+2ysw_C	No repeats found		TP=0;FP=0
+2yuh_A	32-77;70-112		TP=1;FP=1
+2yvw_A	133-214;339-420		TP=2;FP=0
+2yw3_B	No repeats found		TP=0;FP=0
+2yw3_E	No repeats found		TP=0;FP=0
+2yw4_A	No repeats found		TP=0;FP=0
+2yxg_C			TP=0;FP=0
+2yxg_D			TP=0;FP=0
+2yyt_C	No repeats found		TP=0;FP=0
+2z2c_A	2-183;211-390		TP=0;FP=2
+2z2c_B	2-182;210-389		TP=0;FP=2
+2z2c_C	2-183;211-390		TP=0;FP=2
+2z2c_D	2-183;211-390		TP=0;FP=2
+2z2n_A	5-126;173-292		TP=0;FP=2
+2z2o_A	5-126;173-292		TP=0;FP=2
+2z2o_B	5-126;173-292		TP=0;FP=2
+2z2o_C	5-126;173-292		TP=0;FP=2
+2z2o_D	5-126;173-292		TP=0;FP=2
+2z2p_A	5-126;173-292		TP=0;FP=2
+2z2p_B	5-126;173-292		TP=0;FP=2
+2z32_A	17-160;161-301		TP=0;FP=2
+2z49_A	11-144;156-279		TP=0;FP=2
+2z5j_A	230-305;374-444		TP=2;FP=0
+2z5k_A	230-305;374-444		TP=2;FP=0
+2z5m_A	230-305;374-444		TP=2;FP=0
+2z5n_A	230-305;374-444		TP=2;FP=0
+2z5o_A	230-305;374-444		TP=2;FP=0
+2z62_A	20-105;139-229		TP=0;FP=2
+2z63_A	25-210;345-528		TP=0;FP=2
+2z64_A	28-223;346-538		TP=0;FP=2
+2z65_A	20-105;139-229		TP=0;FP=2
+2z65_B	20-105;139-229		TP=0;FP=2
+2z66_A	28-142;150-269		TP=0;FP=2
+2z66_B	28-142;150-269		TP=0;FP=2
+2z66_C	28-142;150-269		TP=0;FP=2
+2z66_D	28-142;150-269		TP=0;FP=2
+2z6b_A	64-116;509-560		TP=1;FP=1
+2z6h_A	1-153;333-511		TP=0;FP=2
+2z7x_A	20-180;325-505		TP=0;FP=2
+2z7x_B	26-175;329-478		TP=0;FP=2
+2z80_A	96-136;273-313		TP=2;FP=0
+2z80_B	96-136;273-313		TP=2;FP=0
+2z81_A	20-168;325-471		TP=0;FP=2
+2z82_A	20-168;325-471		TP=0;FP=2
+2z8g_A	No repeats found		TP=0;FP=0
+2z8g_B	No repeats found		TP=0;FP=0
+2z8s_A	115-178;326-395		TP=1;FP=1
+2z8s_B	115-178;326-395		TP=1;FP=1
+2zad_A	No repeats found		TP=0;FP=0
+2zc8_B	42-66;343-366		TP=0;FP=2
+2zir_A	114-186;257-322		TP=1;FP=1
+2zis_A	114-186;257-322		TP=2;FP=0
+2zu0_A	No repeats found		TP=0;FP=0
+2zu6_B	4-118;167-283		TP=0;FP=2
+2zu6_E	4-118;167-283		TP=0;FP=2
+2zw9_A	106-195;363-442		TP=1;FP=1
+2zw9_B	106-195;363-442		TP=1;FP=1
+2zwa_B	106-195;363-442		TP=1;FP=1
+2zz1_B	No repeats found		TP=0;FP=0
+2zz2_A	No repeats found		TP=0;FP=0
+2zz2_B	No repeats found		TP=0;FP=0
+2zz3_A	No repeats found		TP=0;FP=0
+2zz3_B	No repeats found		TP=0;FP=0
+2zz4_A	No repeats found		TP=0;FP=0
+2zz4_B	No repeats found		TP=0;FP=0
+2zz6_B	No repeats found		TP=0;FP=0
+2zz7_A	No repeats found		TP=0;FP=0
+3a0f_A	109-227;524-633		TP=0;FP=2
+3a13_I			TP=0;FP=0
+3a1m_D	1-45;34-77		TP=2;FP=0
+3a1m_E	1-45;34-77		TP=2;FP=0
+3a1m_F	1-45;34-77		TP=2;FP=0
+3a21_B	No repeats found		TP=0;FP=0
+3a3h_A	77-121;205-251		TP=2;FP=0
+3a5z_H	19-34;120-135		TP=0;FP=2
+3a72_A	23-85;87-154		TP=2;FP=0
+3a79_A	46-194;351-497		TP=0;FP=2
+3a79_B	39-117;437-513		TP=0;FP=2
+3a7b_A	46-194;351-497		TP=0;FP=2
+3a7c_A	46-194;351-497		TP=0;FP=2
+3aaa_C	11-39;77-103		TP=2;FP=0
+3ade_A	1-143;145-284		TP=0;FP=2
+3ah8_B	48-170;219-340		TP=0;FP=2
+3aji_A	37-113;136-212		TP=0;FP=2
+3aji_C	37-113;136-212		TP=0;FP=2
+3ajx_A	No repeats found		TP=0;FP=0
+3ajx_B	No repeats found		TP=0;FP=0
+3ajx_C	No repeats found		TP=0;FP=0
+3ajx_D	No repeats found		TP=0;FP=0
+3amr_A	25-165;197-321		TP=0;FP=2
+3ams_A	25-165;197-321		TP=0;FP=2
+3aqj_P	No repeats found		TP=0;FP=0
+3aqj_Q	No repeats found		TP=0;FP=0
+3aqj_R	No repeats found		TP=0;FP=0
+3as4_A	No repeats found		TP=0;FP=0
+3as5_A	No repeats found		TP=0;FP=0
+3as5_B	No repeats found		TP=0;FP=0
+3asd_A			TP=0;FP=0
+3asf_A	No repeats found		TP=0;FP=0
+3asf_B	No repeats found		TP=0;FP=0
+3asg_A	No repeats found		TP=0;FP=0
+3asg_B	No repeats found		TP=0;FP=0
+3ash_A	No repeats found		TP=0;FP=0
+3ash_B	No repeats found		TP=0;FP=0
+3b2d_A	33-188;376-534		TP=0;FP=2
+3b2u_A			TP=0;FP=0
+3b2u_B			TP=0;FP=0
+3b2u_M	No repeats found		TP=0;FP=0
+3b43_A	1-289;286-570		TP=0;FP=2
+3b7b_A	1-115;101-214		TP=0;FP=2
+3b7b_B	1-115;101-214		TP=0;FP=2
+3b7f_A	81-159;313-384		TP=2;FP=0
+3b90_A	No repeats found		TP=0;FP=0
+3b95_A	1-115;101-214		TP=0;FP=2
+3b95_B	1-115;101-214		TP=0;FP=2
+3bg0_A	18-140;172-297		TP=0;FP=2
+3bg0_D	18-140;172-297		TP=0;FP=2
+3bg0_E	18-140;172-297		TP=0;FP=2
+3bg0_H	18-140;172-297		TP=0;FP=2
+3bg1_A	18-140;172-297		TP=0;FP=2
+3bg1_D	18-140;172-297		TP=0;FP=2
+3bg1_E	18-140;172-297		TP=0;FP=2
+3bg1_H	18-140;172-297		TP=0;FP=2
+3bjs_B			TP=0;FP=0
+3boi_B	No repeats found		TP=0;FP=0
+3bpn_C	No repeats found		TP=0;FP=0
+3bsb_A	21-113;237-336		TP=0;FP=2
+3bsb_B	21-113;237-336		TP=0;FP=2
+3bsx_A	21-113;237-336		TP=0;FP=2
+3bsx_B	21-113;237-336		TP=0;FP=2
+3btr_C	43-223;217-397		TP=0;FP=2
+3bws_A	175-273;309-420		TP=1;FP=1
+3bwt_A	7-158;152-308		TP=0;FP=2
+3bx2_A	7-158;152-308		TP=0;FP=2
+3bx3_A	7-158;152-308		TP=0;FP=2
+3bx3_B	7-158;152-308		TP=0;FP=2
+3byc_A	17-62;116-157		TP=2;FP=0
+3c5m_B	95-137;161-202		TP=2;FP=0
+3c5w_A	24-106;141-227		TP=1;FP=1
+3c6o_B	9-213;346-533		TP=0;FP=2
+3c6p_B	9-213;346-533		TP=0;FP=2
+3c75_H	16-45;58-84		TP=0;FP=2
+3c75_J	16-45;58-84		TP=0;FP=2
+3cfs_B	125-262;274-409		TP=0;FP=2
+3cig_A	25-295;381-660		TP=0;FP=2
+3cik_B	48-170;219-340		TP=0;FP=2
+3ciy_A	25-295;381-660		TP=0;FP=2
+3ciy_B	25-295;381-660		TP=0;FP=2
+3cjp_A			TP=0;FP=0
+3cka_A	No repeats found		TP=0;FP=0
+3cka_B	No repeats found		TP=0;FP=0
+3ckf_A	No repeats found		TP=0;FP=0
+3ckg_A	No repeats found		TP=0;FP=0
+3ctl_A	No repeats found		TP=0;FP=0
+3ctl_B	No repeats found		TP=0;FP=0
+3ctl_C	No repeats found		TP=0;FP=0
+3cu7_A	No repeats found		TP=0;FP=0
+3d0c_B			TP=0;FP=0
+3d60_A	77-123;194-241		TP=2;FP=0
+3d9h_A	61-155;159-252		TP=0;FP=2
+3dmk_A	59-406;449-790		TP=0;FP=2
+3dmk_B	59-406;449-790		TP=0;FP=2
+3dmk_C	59-406;449-790		TP=0;FP=2
+3dpy_A	106-177;209-285		TP=2;FP=0
+3du1_X	43-142;153-250		TP=0;FP=2
+3dw8_A	6-220;359-575		TP=0;FP=2
+3dw8_D	6-220;359-575		TP=0;FP=2
+3dwl_C	No repeats found		TP=0;FP=0
+3dxk_C	13-80;101-170		TP=2;FP=0
+3dxm_C	13-80;101-170		TP=2;FP=0
+3e0g_A	1-188;283-472		TP=2;FP=0
+3e30_A	106-177;209-285		TP=2;FP=0
+3e32_A	106-177;209-285		TP=2;FP=0
+3e33_A	106-177;209-285		TP=2;FP=0
+3e34_A	106-177;209-285		TP=2;FP=0
+3e37_A	114-186;257-322		TP=2;FP=0
+3e3m_A	No repeats found		TP=0;FP=0
+3e5z_A	25-88;125-191		TP=2;FP=0
+3e5z_B	25-88;125-191		TP=2;FP=0
+3e6j_A	45-91;117-162		TP=2;FP=0
+3ea5_B	320-471;589-740		TP=0;FP=2
+3ea5_D	320-471;589-740		TP=0;FP=2
+3ebb_D			TP=0;FP=0
+3ec5_A	No repeats found		TP=0;FP=0
+3edt_B	13-95;139-250		TP=1;FP=1
+3edt_H	11-93;137-246		TP=1;FP=1
+3eeg_B			TP=0;FP=0
+3eex_A	74-119;144-188		TP=2;FP=0
+3eex_B	74-119;144-188		TP=2;FP=0
+3ef2_A	8-48;111-151		TP=2;FP=0
+3eg6_A	15-134;184-308		TP=0;FP=2
+3ei1_B	64-140;201-272		TP=1;FP=1
+3ei2_B	64-140;201-272		TP=1;FP=1
+3ei3_B	64-140;201-272		TP=1;FP=1
+3ei4_B	121-175;252-307		TP=2;FP=0
+3ei4_D	121-175;252-307		TP=2;FP=0
+3ei4_F	121-175;252-307		TP=2;FP=0
+3eij_A	12-126;155-271		TP=0;FP=2
+3emh_A	21-140;190-314		TP=0;FP=2
+3emn_X			TP=0;FP=0
+3esk_A	9-30;84-105		TP=0;FP=2
+3eu7_A	No repeats found		TP=0;FP=0
+3eu9_A	26-69;160-204		TP=1;FP=1
+3eu9_B	26-69;160-204		TP=2;FP=0
+3eu9_C	26-69;160-204		TP=1;FP=1
+3euv_A	106-177;209-285		TP=2;FP=0
+3ewe_A	16-130;142-253		TP=0;FP=2
+3ewe_C	16-130;142-253		TP=0;FP=2
+3exr_A	No repeats found		TP=0;FP=0
+3exr_B	No repeats found		TP=0;FP=0
+3exr_C	No repeats found		TP=0;FP=0
+3exr_D	No repeats found		TP=0;FP=0
+3exs_A	No repeats found		TP=0;FP=0
+3exs_B	No repeats found		TP=0;FP=0
+3exs_C	No repeats found		TP=0;FP=0
+3exs_D	No repeats found		TP=0;FP=0
+3ext_A	No repeats found		TP=0;FP=0
+3f3g_E	2-157;205-351		TP=1;FP=1
+3f3p_A	2-157;205-351		TP=0;FP=2
+3f3p_I	2-157;205-351		TP=1;FP=1
+3f3p_J	2-157;205-351		TP=1;FP=1
+3f4n_B	No repeats found		TP=0;FP=0
+3f4w_A	No repeats found		TP=0;FP=0
+3f4w_B	No repeats found		TP=0;FP=0
+3f6k_A	65-113;118-161		TP=2;FP=0
+3f6q_A	29-101;95-167		TP=0;FP=2
+3fcu_A	5-39;403-439		TP=2;FP=0
+3fex_C	10-149;227-365		TP=2;FP=0
+3fey_C	10-149;227-365		TP=2;FP=0
+3fga_A	12-226;365-581		TP=0;FP=2
+3fgb_A	50-126;259-334		TP=2;FP=0
+3fgb_B	50-126;259-334		TP=2;FP=0
+3fjx_A	14-142;160-289		TP=2;FP=0
+3fk0_A	14-142;160-289		TP=2;FP=0
+3fk1_A	14-142;160-289		TP=2;FP=0
+3fm0_A	2-133;181-332		TP=0;FP=2
+3fmo_A	No repeats found		TP=0;FP=0
+3frx_A	15-136;194-315		TP=0;FP=2
+3frx_B	15-136;194-315		TP=0;FP=2
+3frx_C	15-136;194-315		TP=0;FP=2
+3frx_D	15-136;194-315		TP=0;FP=2
+3fvz_A	84-166;238-314		TP=0;FP=2
+3fxi_A	9-228;303-524		TP=0;FP=2
+3fxi_B	9-228;303-524		TP=0;FP=2
+3g04_C	42-101;142-200		TP=0;FP=2
+3g18_B	No repeats found		TP=0;FP=0
+3g1a_A	No repeats found		TP=0;FP=0
+3g1a_B	No repeats found		TP=0;FP=0
+3g1d_A	No repeats found		TP=0;FP=0
+3g1d_B	No repeats found		TP=0;FP=0
+3g1f_A	No repeats found		TP=0;FP=0
+3g1f_B	No repeats found		TP=0;FP=0
+3g1f_D	No repeats found		TP=0;FP=0
+3g1f_E	No repeats found		TP=0;FP=0
+3g1f_G	No repeats found		TP=0;FP=0
+3g1f_H	No repeats found		TP=0;FP=0
+3g1f_J	No repeats found		TP=0;FP=0
+3g1f_K	No repeats found		TP=0;FP=0
+3g1f_L	No repeats found		TP=0;FP=0
+3g1f_M	No repeats found		TP=0;FP=0
+3g1h_A	No repeats found		TP=0;FP=0
+3g1h_C	No repeats found		TP=0;FP=0
+3g1h_D	No repeats found		TP=0;FP=0
+3g1h_E	No repeats found		TP=0;FP=0
+3g1h_G	No repeats found		TP=0;FP=0
+3g1h_I	No repeats found		TP=0;FP=0
+3g1h_J	No repeats found		TP=0;FP=0
+3g1h_K	No repeats found		TP=0;FP=0
+3g1h_L	No repeats found		TP=0;FP=0
+3g1h_M	No repeats found		TP=0;FP=0
+3g1v_A	No repeats found		TP=0;FP=0
+3g1v_B	No repeats found		TP=0;FP=0
+3g1x_A	No repeats found		TP=0;FP=0
+3g1x_B	No repeats found		TP=0;FP=0
+3g1y_A	No repeats found		TP=0;FP=0
+3g22_A	No repeats found		TP=0;FP=0
+3g22_B	No repeats found		TP=0;FP=0
+3g24_A	No repeats found		TP=0;FP=0
+3g24_B	No repeats found		TP=0;FP=0
+3g3a_E	20-72;65-120		TP=0;FP=2
+3g3b_C	12-64;57-112		TP=0;FP=2
+3g4e_A	No repeats found		TP=0;FP=0
+3g4e_B	No repeats found		TP=0;FP=0
+3g4h_A	No repeats found		TP=0;FP=0
+3g4h_B	No repeats found		TP=0;FP=0
+3gf5_A	52-169;275-383		TP=2;FP=0
+3gf5_B	52-169;275-383		TP=2;FP=0
+3gfc_A	123-270;272-419		TP=0;FP=2
+3gg7_A			TP=0;FP=0
+3gkf_A	No repeats found		TP=0;FP=0
+3gng_A	52-169;275-383		TP=2;FP=0
+3gni_A	No repeats found		TP=0;FP=0
+3goz_A	5-100;150-245		TP=0;FP=2
+3grl_A	No repeats found		TP=0;FP=0
+3gs3_A	8-80;101-171		TP=2;FP=0
+3gvo_A	21-115;237-338		TP=0;FP=2
+3gvt_A	21-115;237-338		TP=0;FP=2
+3gvt_B	21-115;237-338		TP=0;FP=2
+3gw4_B	No repeats found		TP=0;FP=0
+3gyz_A	44-75;65-100		TP=2;FP=0
+3h3d_X	24-175;168-323		TP=0;FP=2
+3h3d_Y	24-175;168-323		TP=0;FP=2
+3h6j_A	No repeats found		TP=0;FP=0
+3hfq_A	36-192;183-340		TP=0;FP=2
+3hfq_B	36-192;183-340		TP=0;FP=2
+3hg0_D	21-68;87-134		TP=2;FP=0
+3hlh_A	17-62;116-157		TP=2;FP=0
+3hlh_C	15-60;114-155		TP=2;FP=0
+3hli_B	15-60;114-155		TP=2;FP=0
+3hli_C	17-62;116-157		TP=2;FP=0
+3hpf_A	117-166;227-273		TP=2;FP=0
+3hra_A	4-87;105-193		TP=0;FP=2
+3hrp_A	26-65;79-113		TP=0;FP=2
+3hw9_A	37-152;172-281		TP=2;FP=0
+3hxj_A	8-162;165-320		TP=0;FP=2
+3hxj_D	8-162;165-320		TP=0;FP=2
+3hxr_A	No repeats found		TP=0;FP=0
+3hym_B	178-220;255-297		TP=1;FP=1
+3hym_D	178-220;255-297		TP=1;FP=1
+3hym_F	178-220;255-297		TP=1;FP=1
+3hym_H	178-220;255-297		TP=1;FP=1
+3hym_J	178-220;255-297		TP=1;FP=1
+3hym_L	178-220;255-297		TP=1;FP=1
+3i1c_A	17-62;116-157		TP=2;FP=0
+3i2x_B	No repeats found		TP=0;FP=0
+3ieb_A	37-54;193-210		TP=2;FP=0
+3ieb_B	37-54;193-210		TP=2;FP=0
+3ieb_D	37-54;193-210		TP=2;FP=0
+3ieb_E	37-54;193-210		TP=2;FP=0
+3ifq_A	20-158;230-370		TP=2;FP=0
+3igj_C	135-164;153-179		TP=2;FP=0
+3ii7_A	19-130;164-275		TP=0;FP=2
+3iip_F	4-105;132-226		TP=0;FP=2
+3iiw_A	130-150;175-195		TP=2;FP=0
+3ij0_A	130-150;175-195		TP=2;FP=0
+3ij1_A	130-150;175-195		TP=2;FP=0
+3ijc_A	130-150;175-195		TP=2;FP=0
+3ik4_B	No repeats found		TP=0;FP=0
+3iko_A	21-138;170-291		TP=0;FP=2
+3iko_D	21-138;170-291		TP=0;FP=2
+3iko_G	21-138;170-291		TP=0;FP=2
+3inb_B	21-129;243-350		TP=1;FP=1
+3inp_A			TP=0;FP=0
+3iss_A	2-183;211-390		TP=0;FP=2
+3iss_C	2-183;211-390		TP=0;FP=2
+3iss_D	2-183;211-390		TP=0;FP=2
+3iss_E	2-183;211-390		TP=0;FP=2
+3iss_F	2-183;211-390		TP=0;FP=2
+3iss_G	2-183;211-390		TP=0;FP=2
+3iss_H	2-183;211-390		TP=0;FP=2
+3iss_I	2-183;211-390		TP=0;FP=2
+3iss_J	2-183;211-390		TP=0;FP=2
+3iss_K	2-183;211-390		TP=0;FP=2
+3iss_L	2-183;211-390		TP=0;FP=2
+3iwp_F	No repeats found		TP=0;FP=0
+3iwp_G	No repeats found		TP=0;FP=0
+3iwp_J	No repeats found		TP=0;FP=0
+3ixe_A	29-101;95-167		TP=0;FP=2
+3iyp_F	36-94;225-283		TP=0;FP=2
+3j0a_A	11-270;277-556		TP=0;FP=2
+3j0a_B	11-270;277-556		TP=0;FP=2
+3j24_B	2-101;129-225		TP=2;FP=0
+3j80_g	11-93;142-224		TP=2;FP=0
+3j81_g	11-93;142-224		TP=2;FP=0
+3j96_J	40-93;140-193		TP=2;FP=0
+3jam_g	11-93;142-224		TP=2;FP=0
+3jb9_K	156-274;324-448		TP=0;FP=2
+3jb9_L	48-160;217-334		TP=0;FP=2
+3jb9_j	No repeats found		TP=0;FP=0
+3jbw_B	No repeats found		TP=0;FP=0
+3jbw_D	67-92;160-185		TP=2;FP=0
+3jbx_B	No repeats found		TP=0;FP=0
+3jbx_D	No repeats found		TP=0;FP=0
+3jby_B	No repeats found		TP=0;FP=0
+3jby_D	No repeats found		TP=0;FP=0
+3jpx_A	167-187;212-232		TP=2;FP=0
+3jr2_A	37-54;193-210		TP=2;FP=0
+3jr2_B	37-54;193-210		TP=2;FP=0
+3jr2_C	37-54;193-210		TP=2;FP=0
+3jx7_A	No repeats found		TP=0;FP=0
+3jxi_A			TP=0;FP=0
+3jxi_B			TP=0;FP=0
+3jxi_C			TP=0;FP=0
+3jxy_A	No repeats found		TP=0;FP=0
+3jzg_A	167-187;212-232		TP=2;FP=0
+3jzh_A	167-187;212-232		TP=2;FP=0
+3jzn_A	131-151;176-196		TP=2;FP=0
+3k1b_A	15-130;150-259		TP=0;FP=2
+3k1b_B	15-130;150-259		TP=0;FP=2
+3k26_A	131-151;176-196		TP=2;FP=0
+3k27_A	131-151;176-196		TP=0;FP=2
+3k38_F	No repeats found		TP=0;FP=0
+3k38_I	No repeats found		TP=0;FP=0
+3k38_K	No repeats found		TP=0;FP=0
+3k38_N	No repeats found		TP=0;FP=0
+3k3a_C	No repeats found		TP=0;FP=0
+3k7v_A	13-227;366-582		TP=0;FP=2
+3k7w_A	13-227;366-582		TP=0;FP=2
+3k9i_A	36-79;70-113		TP=2;FP=0
+3kd7_C	3-57;72-125		TP=2;FP=0
+3khj_G	No repeats found		TP=0;FP=0
+3kj4_A	19-112;137-232		TP=0;FP=2
+3kj4_D	19-112;137-232		TP=0;FP=2
+3knd_A	9-148;226-364		TP=2;FP=0
+3kqa_A	2-205;211-413		TP=0;FP=2
+3kqa_B	2-205;211-413		TP=0;FP=2
+3kqa_C	2-205;211-413		TP=0;FP=2
+3kqa_D	2-205;211-413		TP=0;FP=2
+3kr6_A	2-183;211-390		TP=0;FP=2
+3krw_B	48-170;219-340		TP=0;FP=2
+3krx_B	48-170;219-340		TP=0;FP=2
+3ksl_A	114-186;257-322		TP=2;FP=0
+3ksq_A	114-186;257-322		TP=2;FP=0
+3kst_A	55-142;160-255		TP=2;FP=0
+3kts_C	No repeats found		TP=0;FP=0
+3kts_D	No repeats found		TP=0;FP=0
+3kts_E	No repeats found		TP=0;FP=0
+3kwc_A			TP=0;FP=0
+3kwc_B			TP=0;FP=0
+3kwc_C			TP=0;FP=0
+3kwc_D			TP=0;FP=0
+3kwc_E			TP=0;FP=0
+3kwc_F			TP=0;FP=0
+3kwd_A			TP=0;FP=0
+3kwe_A			TP=0;FP=0
+3kxq_A			TP=0;FP=0
+3l2i_A			TP=0;FP=0
+3l2i_B			TP=0;FP=0
+3l3q_A	42-222;216-396		TP=0;FP=2
+3l4m_D	No repeats found		TP=0;FP=0
+3l4m_F	No repeats found		TP=0;FP=0
+3l4o_D	No repeats found		TP=0;FP=0
+3l4o_F	No repeats found		TP=0;FP=0
+3l5h_A	214-345;413-533		TP=2;FP=0
+3l6x_A	21-142;276-404		TP=1;FP=1
+3l6y_A	21-142;276-404		TP=1;FP=1
+3l6y_C	7-102;245-343		TP=0;FP=2
+3l6y_E	21-142;276-404		TP=1;FP=1
+3l9c_A			TP=0;FP=0
+3l9c_B			TP=0;FP=0
+3ldv_B			TP=0;FP=0
+3lht_A	No repeats found		TP=0;FP=0
+3lht_B	No repeats found		TP=0;FP=0
+3lhu_A	No repeats found		TP=0;FP=0
+3lhv_B	No repeats found		TP=0;FP=0
+3lhv_D	No repeats found		TP=0;FP=0
+3lhw_A	No repeats found		TP=0;FP=0
+3lhy_B	No repeats found		TP=0;FP=0
+3lhz_A	No repeats found		TP=0;FP=0
+3lhz_B	No repeats found		TP=0;FP=0
+3li0_B	No repeats found		TP=0;FP=0
+3li1_A	No repeats found		TP=0;FP=0
+3li1_B	No repeats found		TP=0;FP=0
+3li3_A	17-62;116-157		TP=2;FP=0
+3li4_A	17-62;116-157		TP=2;FP=0
+3ljy_A	No repeats found		TP=0;FP=0
+3lld_A	No repeats found		TP=0;FP=0
+3lld_B	No repeats found		TP=0;FP=0
+3llf_A	No repeats found		TP=0;FP=0
+3lmz_A	No repeats found		TP=0;FP=0
+3lrv_A	49-121;228-302		TP=1;FP=1
+3lth_A	2-205;211-413		TP=0;FP=2
+3ltj_A	12-96;105-189		TP=0;FP=2
+3ltm_A	16-101;109-194		TP=0;FP=2
+3ltm_B	16-101;109-194		TP=0;FP=2
+3ltp_B	No repeats found		TP=0;FP=0
+3lty_A	No repeats found		TP=0;FP=0
+3lv5_A	No repeats found		TP=0;FP=0
+3lv5_B	No repeats found		TP=0;FP=0
+3lv6_B	No repeats found		TP=0;FP=0
+3lvg_A	37-155;182-305		TP=0;FP=2
+3lvg_B	37-155;182-305		TP=0;FP=2
+3lvg_C	37-155;182-305		TP=0;FP=2
+3lvh_A	12-130;157-280		TP=0;FP=2
+3lvh_B	12-130;157-280		TP=0;FP=2
+3lvh_C	12-130;157-280		TP=0;FP=2
+3lww_A	107-194;346-428		TP=2;FP=0
+3lww_C	107-194;346-428		TP=2;FP=0
+3lyc_A	77-161;158-237		TP=0;FP=2
+3lyc_B	77-161;158-237		TP=0;FP=2
+3lyc_C	77-161;158-237		TP=0;FP=2
+3lyc_E	77-161;158-237		TP=0;FP=2
+3lyc_F	77-161;158-237		TP=0;FP=2
+3lyc_J	77-161;158-237		TP=0;FP=2
+3lyc_K	77-161;158-237		TP=0;FP=2
+3lyc_L	77-161;158-237		TP=0;FP=2
+3m18_A	23-95;116-191		TP=0;FP=2
+3m19_A	23-95;116-191		TP=0;FP=2
+3m19_B	23-95;116-191		TP=0;FP=2
+3m1z_A	No repeats found		TP=0;FP=0
+3m1z_B	No repeats found		TP=0;FP=0
+3m41_B	No repeats found		TP=0;FP=0
+3m43_B	No repeats found		TP=0;FP=0
+3m5x_B	No repeats found		TP=0;FP=0
+3m5y_B	No repeats found		TP=0;FP=0
+3m8b_A	No repeats found		TP=0;FP=0
+3m8d_A	No repeats found		TP=0;FP=0
+3m9g_A	6-66;143-201		TP=0;FP=2
+3m9y_A	No repeats found		TP=0;FP=0
+3me4_B	33-85;113-168		TP=2;FP=0
+3mjg_X	No repeats found		TP=0;FP=0
+3mkq_C	7-117;177-292		TP=0;FP=2
+3mmy_A	103-162;290-351		TP=2;FP=0
+3mmy_C	103-162;290-351		TP=2;FP=0
+3mmy_E	103-162;290-351		TP=2;FP=0
+3mmy_G	103-162;290-351		TP=2;FP=0
+3mqh_F	10-52;103-139		TP=0;FP=2
+3msw_A	25-78;85-138		TP=2;FP=0
+3mux_A	No repeats found		TP=0;FP=0
+3mvd_K	68-210;286-423		TP=0;FP=2
+3mxx_A	18-137;187-311		TP=0;FP=2
+3mzk_A	21-138;170-291		TP=0;FP=2
+3mzk_D	21-138;170-291		TP=0;FP=2
+3mzl_A	21-138;170-291		TP=0;FP=2
+3mzl_C	21-138;170-291		TP=0;FP=2
+3mzl_E	21-138;170-291		TP=0;FP=2
+3mzl_G	21-138;170-291		TP=0;FP=2
+3n0d_A	18-137;187-311		TP=0;FP=2
+3n0e_A	18-137;187-311		TP=0;FP=2
+3nav_A	No repeats found		TP=0;FP=0
+3nbn_B	43-94;177-227		TP=0;FP=2
+3nbn_E	43-94;177-227		TP=0;FP=2
+3nd2_A	320-471;589-740		TP=0;FP=2
+3ndo_A	No repeats found		TP=0;FP=0
+3ndo_B	No repeats found		TP=0;FP=0
+3nf1_A	20-143;188-310		TP=0;FP=2
+3ng3_A	No repeats found		TP=0;FP=0
+3ng3_C	No repeats found		TP=0;FP=0
+3ngj_A	37-103;125-197		TP=0;FP=2
+3ngj_C	37-103;125-197		TP=0;FP=2
+3nid_C	5-39;403-439		TP=2;FP=0
+3nif_C	5-39;403-439		TP=2;FP=0
+3njt_A	No repeats found		TP=0;FP=0
+3nnt_A	184-213;214-242		TP=2;FP=0
+3no5_E	No repeats found		TP=0;FP=0
+3noc_D	21-101;87-167		TP=0;FP=2
+3noc_E	21-101;87-167		TP=0;FP=2
+3nog_D	21-101;87-167		TP=0;FP=2
+3nog_E	21-101;87-167		TP=0;FP=2
+3npx_A	No repeats found		TP=0;FP=0
+3npx_B	No repeats found		TP=0;FP=0
+3nq6_B	No repeats found		TP=0;FP=0
+3nq7_A	No repeats found		TP=0;FP=0
+3nq7_B	No repeats found		TP=0;FP=0
+3nqa_A	No repeats found		TP=0;FP=0
+3nqa_B	No repeats found		TP=0;FP=0
+3nqc_A	No repeats found		TP=0;FP=0
+3nqc_B	No repeats found		TP=0;FP=0
+3nqd_A	No repeats found		TP=0;FP=0
+3nqd_B	No repeats found		TP=0;FP=0
+3nqe_A	No repeats found		TP=0;FP=0
+3nqg_A	No repeats found		TP=0;FP=0
+3nqg_B	No repeats found		TP=0;FP=0
+3nqm_B	No repeats found		TP=0;FP=0
+3ntn_C	No repeats found		TP=0;FP=0
+3nvs_A	14-166;161-314		TP=0;FP=2
+3nvt_A	No repeats found		TP=0;FP=0
+3o53_A	36-103;146-212		TP=2;FP=0
+3o6n_A	119-237;228-350		TP=0;FP=2
+3o8e_B	1-126;128-252		TP=2;FP=0
+3o8e_D	1-126;128-252		TP=2;FP=0
+3odt_A	2-83;210-289		TP=2;FP=0
+3odt_B	2-83;210-289		TP=2;FP=0
+3ogk_B	324-349;360-385		TP=2;FP=0
+3ogk_D	324-349;360-385		TP=2;FP=0
+3ogk_F	324-349;360-385		TP=2;FP=0
+3ogk_H	324-349;360-385		TP=2;FP=0
+3ogk_J	324-349;360-385		TP=2;FP=0
+3ogk_L	324-349;360-385		TP=2;FP=0
+3ogk_N	324-349;360-385		TP=2;FP=0
+3ogk_P	324-349;360-385		TP=2;FP=0
+3ogl_B	324-349;360-385		TP=2;FP=0
+3ogl_D	324-349;360-385		TP=2;FP=0
+3ogl_F	324-349;360-385		TP=2;FP=0
+3ogl_H	324-349;360-385		TP=2;FP=0
+3ogl_J	324-349;360-385		TP=2;FP=0
+3ogl_L	324-349;360-385		TP=2;FP=0
+3ogl_N	324-349;360-385		TP=2;FP=0
+3ogl_P	324-349;360-385		TP=2;FP=0
+3ogm_B	324-349;360-385		TP=2;FP=0
+3ogm_D	324-349;360-385		TP=2;FP=0
+3ogm_F	324-349;360-385		TP=2;FP=0
+3ogm_H	324-349;360-385		TP=2;FP=0
+3ogm_J	324-349;360-385		TP=2;FP=0
+3ogm_L	324-349;360-385		TP=2;FP=0
+3ogm_N	324-349;360-385		TP=2;FP=0
+3ogm_P	324-349;360-385		TP=2;FP=0
+3ohn_A	No repeats found		TP=0;FP=0
+3ohn_B	No repeats found		TP=0;FP=0
+3olc_X	105-172;199-267		TP=2;FP=0
+3oqs_A	59-198;276-414		TP=0;FP=2
+3orv_D	No repeats found		TP=0;FP=0
+3ow8_A	22-149;196-317		TP=0;FP=2
+3ow8_B	22-149;196-317		TP=0;FP=2
+3ow8_C	22-149;196-317		TP=0;FP=2
+3ow8_D	22-149;196-317		TP=0;FP=2
+3p1l_A	66-220;252-391		TP=0;FP=2
+3p4f_A	20-139;189-313		TP=0;FP=2
+3p5z_A	No repeats found		TP=0;FP=0
+3p60_B	No repeats found		TP=0;FP=0
+3pb2_E	12-97;104-186		TP=0;FP=2
+3pbu_A	No repeats found		TP=0;FP=0
+3pbv_B	No repeats found		TP=0;FP=0
+3pbw_A	No repeats found		TP=0;FP=0
+3pby_A	No repeats found		TP=0;FP=0
+3pc0_A	No repeats found		TP=0;FP=0
+3pc0_B	No repeats found		TP=0;FP=0
+3pg0_A	20-71;114-165		TP=2;FP=0
+3pg8_A	51-89;76-113		TP=1;FP=1
+3phz_A	46-103;94-150		TP=2;FP=0
+3pmh_G	36-93;129-188		TP=0;FP=2
+3pmo_A	134-202;225-297		TP=2;FP=0
+3pox_F	15-130;150-259		TP=0;FP=2
+3prn_A	No repeats found		TP=0;FP=0
+3prw_A	50-204;236-375		TP=0;FP=2
+3psc_B	48-170;219-340		TP=0;FP=2
+3psl_A	21-140;190-314		TP=0;FP=2
+3psl_B	21-140;190-314		TP=0;FP=2
+3pss_A	7-92;128-202		TP=1;FP=1
+3psv_B	No repeats found		TP=0;FP=0
+3pvu_B	48-170;219-340		TP=0;FP=2
+3pvw_B	48-170;219-340		TP=0;FP=2
+3pxs_F	No repeats found		TP=0;FP=0
+3pxt_D	No repeats found		TP=0;FP=0
+3pxt_F	No repeats found		TP=0;FP=0
+3pxw_F	No repeats found		TP=0;FP=0
+3pz4_A	108-179;211-287		TP=2;FP=0
+3q0l_A	21-113;237-336		TP=0;FP=2
+3q0l_B	21-113;237-336		TP=0;FP=2
+3q0m_A	21-113;237-336		TP=0;FP=2
+3q0m_B	21-113;237-336		TP=0;FP=2
+3q0n_A	21-113;237-336		TP=0;FP=2
+3q0n_B	21-113;237-336		TP=0;FP=2
+3q0o_A	21-113;237-336		TP=0;FP=2
+3q0o_B	21-113;237-336		TP=0;FP=2
+3q0p_A	21-113;237-336		TP=0;FP=2
+3q0p_B	21-113;237-336		TP=0;FP=2
+3q15_A	No repeats found		TP=0;FP=0
+3q4a_B	52-72;86-106		TP=0;FP=2
+3q54_A	36-183;208-347		TP=0;FP=2
+3q5u_A	9-148;226-364		TP=2;FP=0
+3q75_A	74-164;187-286		TP=0;FP=2
+3q78_A	74-164;187-286		TP=1;FP=1
+3q7a_A	74-164;187-286		TP=0;FP=2
+3q7f_A	74-164;187-286		TP=0;FP=2
+3q7m_A	49-203;235-374		TP=0;FP=2
+3q7n_A	49-203;235-374		TP=0;FP=2
+3q9n_C	13-91;79-157		TP=0;FP=2
+3q9n_D	13-91;79-157		TP=0;FP=2
+3q9u_C	13-91;79-157		TP=0;FP=2
+3q9u_D	13-91;79-157		TP=0;FP=2
+3qez_A	No repeats found		TP=0;FP=0
+3qez_B	No repeats found		TP=0;FP=0
+3qf0_B	No repeats found		TP=0;FP=0
+3qh2_B			TP=0;FP=0
+3qh2_D			TP=0;FP=0
+3qhy_B	3-120;160-272		TP=0;FP=2
+3qi0_A	3-120;160-272		TP=2;FP=0
+3qi0_B	3-120;160-272		TP=2;FP=0
+3qi0_C	3-120;160-272		TP=0;FP=2
+3qi0_D	3-120;160-272		TP=0;FP=2
+3qi0_E	3-120;160-272		TP=0;FP=2
+3qi0_F	3-120;160-272		TP=0;FP=2
+3qky_A	9-96;142-241		TP=2;FP=0
+3qll_A			TP=0;FP=0
+3qmr_A	No repeats found		TP=0;FP=0
+3qmr_B	No repeats found		TP=0;FP=0
+3qms_A	No repeats found		TP=0;FP=0
+3qms_B	No repeats found		TP=0;FP=0
+3qmt_A	No repeats found		TP=0;FP=0
+3qmt_B	No repeats found		TP=0;FP=0
+3qs7_H	59-139;337-414		TP=1;FP=1
+3qs9_F	59-222;337-505		TP=2;FP=0
+3qyd_B	No repeats found		TP=0;FP=0
+3qz4_A	1-129;125-243		TP=2;FP=0
+3r12_A			TP=0;FP=0
+3r38_A	150-244;357-444		TP=2;FP=0
+3r50_A	20-48;119-146		TP=2;FP=0
+3r52_B	20-48;119-146		TP=2;FP=0
+3r52_C	20-48;119-146		TP=2;FP=0
+3r8q_A	14-105;195-286		TP=2;FP=0
+3rcm_A	No repeats found		TP=0;FP=0
+3rfg_B	15-136;194-315		TP=0;FP=2
+3rfh_A	15-136;194-315		TP=0;FP=2
+3rfh_B	15-136;194-315		TP=0;FP=2
+3rfh_C	15-136;194-315		TP=0;FP=2
+3rfh_D	15-136;194-315		TP=0;FP=2
+3rfz_B	No repeats found		TP=0;FP=0
+3rfz_E	No repeats found		TP=0;FP=0
+3rg1_M	17-195;365-539		TP=0;FP=2
+3rg1_N	17-195;365-539		TP=0;FP=2
+3rgm_A	No repeats found		TP=0;FP=0
+3rgn_A	No repeats found		TP=0;FP=0
+3rjv_A	18-49;147-176		TP=2;FP=0
+3rk6_A	No repeats found		TP=0;FP=0
+3rlm_D	No repeats found		TP=0;FP=0
+3rlm_F	No repeats found		TP=0;FP=0
+3rmr_A	No repeats found		TP=0;FP=0
+3rmt_A	19-203;231-430		TP=0;FP=2
+3rmt_B	19-203;231-430		TP=0;FP=2
+3rmt_C	19-203;231-430		TP=0;FP=2
+3rmt_D	19-203;231-430		TP=0;FP=2
+3rn1_D	No repeats found		TP=0;FP=0
+3rn1_F	No repeats found		TP=0;FP=0
+3ro3_A	4-84;84-164		TP=0;FP=2
+3roi_A	130-275;264-426		TP=2;FP=0
+3roi_B	131-281;269-433		TP=0;FP=2
+3rse_C	13-80;101-170		TP=2;FP=0
+3ru6_A			TP=0;FP=0
+3ru6_B			TP=0;FP=0
+3ru6_C			TP=0;FP=0
+3ru6_D			TP=0;FP=0
+3rz9_A	59-198;276-414		TP=0;FP=2
+3rzx_A	59-198;276-414		TP=0;FP=2
+3s1w_A	89-132;139-189		TP=2;FP=0
+3s25_A	24-123;194-281		TP=0;FP=2
+3s98_A	2-94;201-298		TP=2;FP=0
+3s9j_A	No repeats found		TP=0;FP=0
+3scy_A	47-182;208-333		TP=0;FP=2
+3se3_A	6-201;205-407		TP=2;FP=0
+3se4_A	1-78;190-280		TP=2;FP=0
+3sf4_A	23-201;201-361		TP=0;FP=2
+3sf4_B	23-201;201-361		TP=0;FP=2
+3sf4_C	23-201;201-361		TP=0;FP=2
+3sfx_A	2-17;3-18		TP=0;FP=2
+3sfy_A	2-17;3-18		TP=0;FP=2
+3sg1_A	32-231;237-438		TP=0;FP=2
+3sg1_B	32-231;237-438		TP=0;FP=2
+3sg1_C	32-231;237-438		TP=0;FP=2
+3sgu_A	No repeats found		TP=0;FP=0
+3siz_A	No repeats found		TP=0;FP=0
+3siz_B	No repeats found		TP=0;FP=0
+3sjl_D	No repeats found		TP=0;FP=0
+3sjl_F	No repeats found		TP=0;FP=0
+3sl9_A	8-68;92-152		TP=0;FP=2
+3sl9_B	8-68;92-152		TP=0;FP=2
+3sl9_E	8-68;92-152		TP=0;FP=2
+3sl9_G	8-68;92-152		TP=0;FP=2
+3sla_A	8-68;92-152		TP=0;FP=2
+3sla_B	8-68;92-152		TP=0;FP=2
+3sla_C	8-68;92-152		TP=0;FP=2
+3sla_E	8-68;92-152		TP=0;FP=2
+3sle_D	No repeats found		TP=0;FP=0
+3sle_F	No repeats found		TP=0;FP=0
+3slh_A	131-281;269-433		TP=0;FP=2
+3slh_B	131-281;269-433		TP=0;FP=2
+3slh_C	131-281;269-433		TP=2;FP=0
+3slh_D	131-281;269-433		TP=2;FP=0
+3smr_A	15-134;184-308		TP=0;FP=2
+3smr_B	15-134;184-308		TP=0;FP=2
+3smr_C	15-134;184-308		TP=0;FP=2
+3smr_D	15-134;184-308		TP=0;FP=2
+3sn6_B	59-181;230-351		TP=0;FP=2
+3so8_A	27-86;93-152		TP=2;FP=0
+3spb_A	2-205;211-413		TP=0;FP=2
+3spb_B	2-205;211-413		TP=0;FP=2
+3spb_C	2-205;211-413		TP=0;FP=2
+3spb_D	2-205;211-413		TP=0;FP=2
+3ssj_A	No repeats found		TP=0;FP=0
+3su9_A	2-205;211-413		TP=0;FP=2
+3svw_D	No repeats found		TP=0;FP=0
+3swa_A	2-205;211-413		TP=0;FP=2
+3swa_B	2-205;211-413		TP=0;FP=2
+3swd_A	2-183;211-390		TP=0;FP=2
+3swd_B	2-183;211-390		TP=0;FP=2
+3swd_C	2-183;211-390		TP=0;FP=2
+3swd_D	2-183;211-390		TP=0;FP=2
+3swd_E	2-183;211-390		TP=0;FP=2
+3swd_F	2-183;211-390		TP=0;FP=2
+3swd_G	2-183;211-390		TP=0;FP=2
+3swd_H	2-183;211-390		TP=0;FP=2
+3swd_I	2-183;211-390		TP=0;FP=2
+3swd_J	2-183;211-390		TP=0;FP=2
+3swd_K	2-183;211-390		TP=0;FP=2
+3swd_L	2-183;211-390		TP=0;FP=2
+3swg_A	133-214;339-420		TP=2;FP=0
+3swi_A	2-205;211-413		TP=0;FP=2
+3swq_A	2-205;211-413		TP=0;FP=2
+3sxt_D	No repeats found		TP=0;FP=0
+3sxt_F	No repeats found		TP=0;FP=0
+3sy5_A	No repeats found		TP=0;FP=0
+3sy5_B	No repeats found		TP=0;FP=0
+3sys_B	No repeats found		TP=0;FP=0
+3sz7_A	No repeats found		TP=0;FP=0
+3t0s_A	17-74;287-339		TP=2;FP=0
+3t1w_A	3-187;187-367		TP=0;FP=2
+3t24_B	No repeats found		TP=0;FP=0
+3t3p_C	5-39;403-439		TP=2;FP=0
+3t6q_A	15-196;363-540		TP=0;FP=2
+3t6q_B	15-196;363-540		TP=0;FP=2
+3t7u_A	126-201;262-335		TP=0;FP=2
+3t8k_A	No repeats found		TP=0;FP=0
+3t8k_B	No repeats found		TP=0;FP=0
+3t9g_A	No repeats found		TP=0;FP=0
+3t9g_B	No repeats found		TP=0;FP=0
+3tax_A	6-54;108-156		TP=0;FP=2
+3tc6_A			TP=0;FP=0
+3tfx_A			TP=0;FP=0
+3tha_B	No repeats found		TP=0;FP=0
+3ti2_A	No repeats found		TP=0;FP=0
+3tio_B	14-38;99-123		TP=2;FP=0
+3tj3_A	45-206;216-375		TP=0;FP=2
+3tk8_A	No repeats found		TP=0;FP=0
+3tpm_A	38-218;212-392		TP=0;FP=2
+3tpo_A	78-217;295-433		TP=0;FP=2
+3tsr_E	1-202;225-430		TP=0;FP=2
+3tsr_F	1-202;225-430		TP=0;FP=2
+3tsr_G	1-202;225-430		TP=0;FP=2
+3tsr_H	1-202;225-430		TP=0;FP=2
+3tto_A	2-69;153-218		TP=0;FP=2
+3tv0_A	No repeats found		TP=0;FP=0
+3twq_A	48-108;114-173		TP=0;FP=2
+3twq_B	48-108;114-173		TP=0;FP=2
+3twr_A	44-94;110-159		TP=0;FP=2
+3twr_B	44-94;110-159		TP=0;FP=2
+3twr_C	44-94;110-159		TP=0;FP=2
+3twr_D	44-94;110-159		TP=0;FP=2
+3tws_A	44-94;110-159		TP=0;FP=2
+3tws_B	44-94;110-159		TP=0;FP=2
+3tws_C	44-94;110-159		TP=0;FP=2
+3tws_D	44-94;110-159		TP=0;FP=2
+3twt_A	44-94;110-159		TP=0;FP=2
+3twt_B	44-94;110-159		TP=0;FP=2
+3twt_C	44-94;110-159		TP=0;FP=2
+3twt_D	44-94;110-159		TP=0;FP=2
+3twu_A	46-96;112-161		TP=0;FP=2
+3twv_A	44-94;110-159		TP=0;FP=2
+3twv_B	44-94;110-159		TP=0;FP=2
+3twv_C	44-94;110-159		TP=0;FP=2
+3twv_D	44-94;110-159		TP=0;FP=2
+3tww_A	44-94;110-159		TP=0;FP=2
+3tww_B	44-94;110-159		TP=0;FP=2
+3twx_A	44-94;110-159		TP=0;FP=2
+3twx_B	44-94;110-159		TP=0;FP=2
+3u3w_B	No repeats found		TP=0;FP=0
+3u4t_A	151-173;228-252		TP=1;FP=1
+3u4y_A	No repeats found		TP=0;FP=0
+3u4y_B	No repeats found		TP=0;FP=0
+3uku_C	13-80;101-170		TP=2;FP=0
+3ukw_B	59-198;276-414		TP=0;FP=2
+3ukx_B	59-198;276-414		TP=0;FP=2
+3uky_B	59-198;276-414		TP=0;FP=2
+3ukz_B	59-198;276-414		TP=0;FP=2
+3ul0_B	59-198;276-414		TP=0;FP=2
+3ul1_B	59-198;276-414		TP=0;FP=2
+3ul7_A	21-106;140-230		TP=0;FP=2
+3ul8_A	22-113;141-236		TP=0;FP=2
+3ula_A	22-107;141-231		TP=0;FP=2
+3ula_C	22-107;141-231		TP=0;FP=2
+3ule_C	13-80;101-170		TP=2;FP=0
+3ulq_A	92-180;217-294		TP=1;FP=1
+3ulu_A	35-326;391-688		TP=0;FP=2
+3ulv_A	35-326;391-688		TP=0;FP=2
+3upk_A	2-205;211-413		TP=0;FP=2
+3upv_A	No repeats found		TP=0;FP=0
+3uq3_A	5-85;139-218		TP=0;FP=2
+3ur4_A	15-134;184-308		TP=0;FP=2
+3ur4_B	15-134;184-308		TP=0;FP=2
+3urz_A	No repeats found		TP=0;FP=0
+3uvk_A	21-140;190-314		TP=0;FP=2
+3uvl_A	21-140;190-314		TP=0;FP=2
+3uvm_A	21-140;190-314		TP=0;FP=2
+3uvn_A	21-140;190-314		TP=0;FP=2
+3uvn_C	21-140;190-314		TP=0;FP=2
+3uvo_A	21-140;190-314		TP=0;FP=2
+3uvu_A	59-198;276-414		TP=0;FP=2
+3uxg_A	5-84;71-150		TP=1;FP=1
+3v1p_B	No repeats found		TP=0;FP=0
+3v1s_B	No repeats found		TP=0;FP=0
+3v2o_A	45-104;111-170		TP=1;FP=1
+3v2x_A	29-88;95-154		TP=0;FP=2
+3v30_A	5-84;71-150		TP=1;FP=1
+3v31_A	29-88;95-154		TP=0;FP=2
+3v47_A	32-170;277-411		TP=0;FP=2
+3v79_K	43-94;177-227		TP=0;FP=2
+3vbn_E	No repeats found		TP=0;FP=0
+3vbp_A	No repeats found		TP=0;FP=0
+3vbp_C	No repeats found		TP=0;FP=0
+3vbp_E	No repeats found		TP=0;FP=0
+3vcr_A	No repeats found		TP=0;FP=0
+3vcy_A	2-214;212-422		TP=0;FP=2
+3vcy_B	2-214;212-422		TP=0;FP=2
+3vcy_C	2-214;212-422		TP=0;FP=2
+3vcy_D	2-214;212-422		TP=0;FP=2
+3ve6_A	42-222;216-396		TP=0;FP=2
+3ve7_A	12-29;37-54		TP=2;FP=0
+3ve7_B	12-29;37-54		TP=2;FP=0
+3ve9_A	12-29;37-54		TP=2;FP=0
+3ve9_B	12-29;37-54		TP=2;FP=0
+3vgz_A	107-202;239-331		TP=2;FP=0
+3vgz_B	107-202;239-331		TP=2;FP=0
+3vgz_C	107-202;239-331		TP=0;FP=2
+3vgz_D	107-202;239-331		TP=2;FP=0
+3vh0_A	107-202;239-331		TP=2;FP=0
+3vh0_B	107-202;239-331		TP=2;FP=0
+3vh0_C	75-170;207-299		TP=1;FP=1
+3vh0_D	107-202;239-331		TP=2;FP=0
+3vh8_G	2-116;197-314		TP=2;FP=0
+3vh8_H	2-116;197-314		TP=2;FP=0
+3vi4_A	237-306;358-437		TP=2;FP=0
+3vkb_A	No repeats found		TP=0;FP=0
+3vl1_A	137-177;179-219		TP=2;FP=0
+3vn3_B	No repeats found		TP=0;FP=0
+3vnd_B	No repeats found		TP=0;FP=0
+3vng_A	24-167;168-308		TP=0;FP=2
+3vnh_A	24-167;168-308		TP=0;FP=2
+3vnp_A	No repeats found		TP=0;FP=0
+3vq1_A	33-228;351-543		TP=0;FP=2
+3vq1_B	33-228;351-543		TP=0;FP=2
+3vq2_A	33-228;351-543		TP=0;FP=2
+3vsf_A	363-405;457-499		TP=0;FP=2
+3vsf_B	363-405;457-499		TP=0;FP=2
+3vsf_C	363-405;457-499		TP=0;FP=2
+3vsf_D	363-405;457-499		TP=0;FP=2
+3vsf_E	363-405;457-499		TP=0;FP=2
+3vsf_F	363-405;457-499		TP=0;FP=2
+3vst_B	No repeats found		TP=0;FP=0
+3vst_C	No repeats found		TP=0;FP=0
+3vsu_A	No repeats found		TP=0;FP=0
+3vsu_B	No repeats found		TP=0;FP=0
+3vsu_C	No repeats found		TP=0;FP=0
+3vsu_D	No repeats found		TP=0;FP=0
+3vsv_A	No repeats found		TP=0;FP=0
+3vsv_B	No repeats found		TP=0;FP=0
+3vsv_C	No repeats found		TP=0;FP=0
+3vsv_D	No repeats found		TP=0;FP=0
+3vsz_A	363-405;457-499		TP=0;FP=2
+3vsz_B	363-405;457-499		TP=0;FP=2
+3vsz_C	363-405;457-499		TP=0;FP=2
+3vsz_D	363-405;457-499		TP=0;FP=2
+3vsz_E	363-405;457-499		TP=0;FP=2
+3vsz_F	363-405;457-499		TP=0;FP=2
+3vt0_A	363-405;457-499		TP=0;FP=2
+3vt0_B	363-405;457-499		TP=0;FP=2
+3vt0_C	363-405;457-499		TP=0;FP=2
+3vt0_D	363-405;457-499		TP=0;FP=2
+3vt0_E	363-405;457-499		TP=0;FP=2
+3vt0_F	363-405;457-499		TP=0;FP=2
+3vt1_A	363-405;457-499		TP=0;FP=2
+3vt1_B	363-405;457-499		TP=0;FP=2
+3vt1_C	363-405;457-499		TP=0;FP=2
+3vt1_D	363-405;457-499		TP=0;FP=2
+3vt1_E	363-405;457-499		TP=0;FP=2
+3vt1_F	363-405;457-499		TP=0;FP=2
+3vt2_A	363-405;457-499		TP=0;FP=2
+3vt2_B	363-405;457-499		TP=0;FP=2
+3vt2_C	363-405;457-499		TP=0;FP=2
+3vt2_D	363-405;457-499		TP=0;FP=2
+3vt2_E	363-405;457-499		TP=0;FP=2
+3vt2_F	363-405;457-499		TP=0;FP=2
+3vto_A	No repeats found		TP=0;FP=0
+3vto_C	No repeats found		TP=0;FP=0
+3vto_P	No repeats found		TP=0;FP=0
+3vto_Q	No repeats found		TP=0;FP=0
+3vtx_A	8-64;110-166		TP=2;FP=0
+3vtx_B	8-64;110-166		TP=2;FP=0
+3vty_B	8-64;110-166		TP=2;FP=0
+3vty_C	8-64;110-166		TP=2;FP=0
+3vty_D	8-64;110-166		TP=2;FP=0
+3vu4_A	No repeats found		TP=0;FP=0
+3vu4_B	No repeats found		TP=0;FP=0
+3vwa_A	346-397;465-516		TP=2;FP=0
+3vy6_A	No repeats found		TP=0;FP=0
+3vy7_A	No repeats found		TP=0;FP=0
+3vze_A	No repeats found		TP=0;FP=0
+3vzf_A	No repeats found		TP=0;FP=0
+3vzg_A	No repeats found		TP=0;FP=0
+3w12_E	No repeats found		TP=0;FP=0
+3w15_A	68-137;282-367		TP=2;FP=0
+3w3g_A	36-299;455-750		TP=0;FP=2
+3w3g_B	36-299;455-750		TP=0;FP=2
+3w3j_A	36-299;455-750		TP=0;FP=2
+3w3j_B	36-299;455-750		TP=0;FP=2
+3w3k_A	36-299;455-750		TP=0;FP=2
+3w3k_B	36-299;455-750		TP=0;FP=2
+3w3l_A	28-279;410-705		TP=0;FP=2
+3w3l_B	36-299;455-750		TP=0;FP=2
+3w3l_C	36-299;455-750		TP=0;FP=2
+3w3l_D	36-299;455-750		TP=0;FP=2
+3w3m_A	36-299;455-750		TP=0;FP=2
+3w3n_A	36-299;455-750		TP=0;FP=2
+3w3n_B	36-299;455-750		TP=0;FP=2
+3w3w_A	70-259;340-530		TP=0;FP=2
+3w3x_A	67-256;337-527		TP=0;FP=2
+3w3y_A	73-317;343-586		TP=0;FP=2
+3w3z_A	122-328;391-597		TP=0;FP=2
+3w5k_A	107-194;346-428		TP=2;FP=0
+3wbg_D	No repeats found		TP=0;FP=0
+3wcy_A	6-197;206-396		TP=2;FP=0
+3wdz_A	22-169;166-310		TP=0;FP=2
+3wi5_A	No repeats found		TP=0;FP=0
+3wj9_A	36-128;311-406		TP=2;FP=0
+3wj9_B	36-128;311-406		TP=2;FP=0
+3wjw_A	No repeats found		TP=0;FP=0
+3wjz_A	No repeats found		TP=0;FP=0
+3wlw_A	1-232;317-564		TP=0;FP=2
+3wlw_B	1-232;317-564		TP=0;FP=2
+3wmz_A	No repeats found		TP=0;FP=0
+3wn1_A	No repeats found		TP=0;FP=0
+3wn4_A	36-299;455-750		TP=0;FP=2
+3wn7_A	22-169;166-310		TP=0;FP=2
+3wn7_L	22-169;166-310		TP=0;FP=2
+3wo9_A	53-124;122-196		TP=0;FP=2
+3woc_B	25-56;100-129		TP=2;FP=0
+3woc_C	25-56;100-129		TP=2;FP=0
+3woc_D	No repeats found		TP=0;FP=0
+3woc_E	25-56;100-129		TP=2;FP=0
+3woc_F	25-56;100-129		TP=2;FP=0
+3woy_A	No repeats found		TP=0;FP=0
+3woz_B	No repeats found		TP=0;FP=0
+3woz_D	No repeats found		TP=0;FP=0
+3wp9_A	No repeats found		TP=0;FP=0
+3wpb_A	36-300;494-742		TP=0;FP=2
+3wpc_A	36-300;494-742		TP=0;FP=2
+3wpc_B	36-300;494-742		TP=0;FP=2
+3wpd_A	36-300;494-742		TP=0;FP=2
+3wpe_A	20-300;474-741		TP=0;FP=2
+3wpf_A	42-300;476-743		TP=0;FP=2
+3wpg_A	42-300;476-743		TP=0;FP=2
+3wph_A	42-300;476-743		TP=0;FP=2
+3wpi_A	42-300;476-743		TP=0;FP=2
+3wpt_A	38-221;212-389		TP=0;FP=2
+3wpt_B	38-221;212-389		TP=0;FP=2
+3wsx_A	340-370;488-518		TP=2;FP=0
+3wsy_A	284-314;432-462		TP=2;FP=0
+3ww8_B	5-46;89-130		TP=2;FP=0
+3ww9_A	5-130;131-256		TP=0;FP=2
+3wwa_A	5-130;173-298		TP=1;FP=1
+3wwg_C	No repeats found		TP=0;FP=0
+3wwg_D	No repeats found		TP=0;FP=0
+3zdy_C	5-39;403-439		TP=2;FP=0
+3zdz_C	5-39;403-439		TP=2;FP=0
+3ze0_A	5-39;403-439		TP=1;FP=1
+3ze0_C	5-39;403-439		TP=2;FP=0
+3ze1_A	5-39;403-439		TP=2;FP=0
+3ze2_A	5-39;403-439		TP=2;FP=0
+3ze2_C	5-39;403-439		TP=2;FP=0
+3zfw_B	5-124;131-249		TP=0;FP=2
+3zgc_A	25-168;169-309		TP=0;FP=2
+3zgc_B	25-168;169-309		TP=0;FP=2
+3zgd_A	25-168;169-309		TP=0;FP=2
+3zgd_B	25-168;169-309		TP=0;FP=2
+3zgq_A	104-176;400-471		TP=2;FP=0
+3zh3_A	176-280;316-419		TP=2;FP=0
+3zh4_A	176-280;316-419		TP=2;FP=0
+3zhp_A	No repeats found		TP=0;FP=0
+3zhp_B	No repeats found		TP=0;FP=0
+3zin_A	76-256;250-430		TP=0;FP=2
+3zio_A	76-256;250-430		TP=0;FP=2
+3zip_A	76-256;250-430		TP=0;FP=2
+3ziq_A	76-256;250-430		TP=0;FP=2
+3zir_A	76-256;250-430		TP=0;FP=2
+3zjy_B	No repeats found		TP=0;FP=0
+3zjy_E	126-342;548-750		TP=0;FP=2
+3zkj_A	5-99;103-196		TP=2;FP=0
+3zkj_D	5-99;103-196		TP=2;FP=0
+3zn3_A	No repeats found		TP=0;FP=0
+3zng_A	5-99;103-196		TP=2;FP=0
+3zng_D	5-99;103-196		TP=2;FP=0
+3zu7_B	21-68;120-167		TP=2;FP=0
+3zwl_B	70-131;175-234		TP=2;FP=0
+3zwl_D	70-131;175-234		TP=2;FP=0
+3zxj_A	No repeats found		TP=0;FP=0
+3zxj_B	No repeats found		TP=0;FP=0
+3zxl_B	No repeats found		TP=0;FP=0
+3zyi_A	76-178;197-297		TP=0;FP=2
+3zyj_A	54-147;196-290		TP=0;FP=2
+3zyj_C	54-147;196-290		TP=0;FP=2
+3zyn_A	35-138;156-257		TP=0;FP=2
+3zyo_A	35-138;156-257		TP=0;FP=2
+4a08_A	No repeats found		TP=0;FP=0
+4a08_B	63-139;200-271		TP=1;FP=1
+4a09_A	No repeats found		TP=0;FP=0
+4a09_B	63-139;200-271		TP=1;FP=1
+4a0a_B	63-139;200-271		TP=1;FP=1
+4a0b_B	63-139;200-271		TP=1;FP=1
+4a0b_D	63-139;200-271		TP=1;FP=1
+4a0c_A	201-414;882-1087		TP=0;FP=2
+4a0c_B	201-414;882-1087		TP=0;FP=2
+4a0k_D	63-139;200-271		TP=1;FP=1
+4a0l_B	63-139;200-271		TP=1;FP=1
+4a0l_D	63-139;200-271		TP=1;FP=1
+4a11_B	98-128;185-215		TP=2;FP=0
+4a1g_A	No repeats found		TP=0;FP=0
+4a1g_B	No repeats found		TP=0;FP=0
+4a1g_C	No repeats found		TP=0;FP=0
+4a1g_D	No repeats found		TP=0;FP=0
+4a2l_B	34-333;348-650		TP=0;FP=2
+4a2l_E	34-333;348-650		TP=0;FP=2
+4a2m_C	34-333;348-650		TP=0;FP=2
+4a2m_D	34-333;348-650		TP=0;FP=2
+4a7j_A	21-140;190-314		TP=0;FP=2
+4a7k_A	698-737;766-803		TP=0;FP=2
+4a7y_A	698-737;766-803		TP=0;FP=2
+4aa7_A	39-101;137-202		TP=0;FP=2
+4aa7_B	39-101;137-202		TP=0;FP=2
+4aaj_A			TP=0;FP=0
+4ac3_A	No repeats found		TP=0;FP=0
+4acq_A	2-146;202-350		TP=0;FP=2
+4acq_B	2-146;202-350		TP=0;FP=2
+4acq_C	2-149;202-353		TP=0;FP=2
+4acq_D	2-146;202-350		TP=0;FP=2
+4ady_B	337-427;556-644		TP=0;FP=2
+4aez_A	115-244;241-376		TP=0;FP=2
+4aez_D	115-244;241-376		TP=0;FP=2
+4aez_G	115-244;241-376		TP=0;FP=2
+4agi_A	71-157;228-313		TP=2;FP=0
+4agi_B	71-157;228-313		TP=2;FP=0
+4agi_C	71-157;228-313		TP=2;FP=0
+4agi_D	71-157;228-313		TP=2;FP=0
+4agt_A	71-157;228-313		TP=2;FP=0
+4agt_B	71-157;228-313		TP=2;FP=0
+4ah4_A	71-157;228-313		TP=2;FP=0
+4ah4_B	71-157;228-313		TP=2;FP=0
+4aha_A	71-157;228-313		TP=2;FP=0
+4aha_B	71-157;228-313		TP=2;FP=0
+4am9_A	93-126;113-146		TP=2;FP=0
+4amy_A	No repeats found		TP=0;FP=0
+4aow_A	30-159;207-338		TP=0;FP=2
+4aow_B	30-159;207-338		TP=0;FP=2
+4aow_C	30-159;207-338		TP=0;FP=2
+4arn_C	119-180;166-228		TP=0;FP=2
+4asc_A	40-156;143-251		TP=0;FP=2
+4atz_D	9-87;75-153		TP=0;FP=2
+4atz_E	9-87;75-153		TP=0;FP=2
+4atz_F	9-87;75-153		TP=0;FP=2
+4av8_A	No repeats found		TP=0;FP=0
+4av9_A	No repeats found		TP=0;FP=0
+4avz_A	80-185;306-411		TP=0;FP=2
+4aw4_A	12-117;122-227		TP=0;FP=2
+4aw4_B	12-117;122-227		TP=0;FP=2
+4aw4_C	12-117;122-227		TP=0;FP=2
+4axk_B	8-117;125-239		TP=0;FP=2
+4ay5_B	6-54;108-156		TP=0;FP=2
+4ay5_C	6-54;108-156		TP=0;FP=2
+4ay6_A	6-54;108-156		TP=0;FP=2
+4ay9_X	42-133;166-253		TP=0;FP=2
+4ay9_Y	42-133;166-253		TP=0;FP=2
+4ay9_Z	42-133;166-253		TP=0;FP=2
+4b18_A	45-206;216-375		TP=0;FP=2
+4b8j_A	113-207;324-419		TP=0;FP=2
+4b8o_A	23-169;236-381		TP=0;FP=2
+4b8p_A	23-169;236-381		TP=0;FP=2
+4b8p_B	23-169;236-381		TP=0;FP=2
+4b93_B	80-139;146-205		TP=0;FP=2
+4ba3_A	45-184;262-400		TP=0;FP=2
+4bh6_A	29-126;193-299		TP=1;FP=1
+4bh6_B	25-122;189-295		TP=1;FP=1
+4bh6_C	29-126;193-299		TP=1;FP=1
+4bh6_D	29-126;193-299		TP=1;FP=1
+4bh6_E	29-126;193-299		TP=1;FP=1
+4bh6_F	29-126;193-299		TP=1;FP=1
+4bh6_G	29-126;193-299		TP=1;FP=1
+4bh6_H	29-126;193-299		TP=1;FP=1
+4bk9_B	No repeats found		TP=0;FP=0
+4bl0_A	7-56;189-239		TP=2;FP=0
+4bl0_D	7-56;189-239		TP=2;FP=0
+4bp8_A	No repeats found		TP=0;FP=0
+4bp8_B	No repeats found		TP=0;FP=0
+4bpl_A	39-133;250-345		TP=2;FP=0
+4bqk_A	41-135;252-347		TP=2;FP=0
+4bqk_B	41-135;252-347		TP=2;FP=0
+4br1_A	No repeats found		TP=0;FP=0
+4bsm_A	No repeats found		TP=0;FP=0
+4bsr_A	54-238;274-447		TP=0;FP=2
+4bsr_B	54-238;274-447		TP=0;FP=2
+4bss_A	54-238;274-447		TP=0;FP=2
+4bss_B	34-218;254-427		TP=0;FP=2
+4bss_E	54-238;274-447		TP=0;FP=2
+4bss_F	54-238;274-447		TP=0;FP=2
+4bst_A	54-238;274-447		TP=0;FP=2
+4bst_B	54-238;274-447		TP=0;FP=2
+4bsu_A	54-238;274-447		TP=0;FP=2
+4bsu_B	54-238;274-447		TP=0;FP=2
+4bsu_E	54-238;274-447		TP=0;FP=2
+4bsu_F	54-238;274-447		TP=0;FP=2
+4buj_C	14-44;289-321		TP=2;FP=0
+4buj_D	14-44;289-321		TP=2;FP=0
+4bum_X			TP=0;FP=0
+4bv4_R	44-204;234-397		TP=0;FP=2
+4bxp_A	5-96;97-185		TP=0;FP=2
+4bxq_A	5-96;97-185		TP=0;FP=2
+4bxr_A	5-96;97-185		TP=0;FP=2
+4bxr_B	5-96;97-185		TP=0;FP=2
+4by2_A	136-164;210-238		TP=1;FP=1
+4by2_B	136-164;210-238		TP=1;FP=1
+4by2_C	136-164;210-238		TP=1;FP=1
+4bzj_B	20-137;169-290		TP=0;FP=2
+4bzj_F	23-88;221-288		TP=2;FP=0
+4bzk_B	21-138;170-291		TP=0;FP=2
+4bzk_F	24-89;222-289		TP=2;FP=0
+4c0o_A	587-678;725-808		TP=2;FP=0
+4c0o_B	587-678;725-808		TP=2;FP=0
+4cj9_A	9-378;404-771		TP=0;FP=2
+4cnl_A	11-59;131-175		TP=0;FP=2
+4db6_A	14-83;140-209		TP=2;FP=0
+4db8_A	14-125;140-251		TP=0;FP=2
+4db9_A	14-83;140-209		TP=2;FP=0
+4db9_B	14-83;140-209		TP=2;FP=0
+4db9_C	14-83;140-209		TP=2;FP=0
+4db9_D	14-83;140-209		TP=2;FP=0
+4db9_E	14-83;140-209		TP=2;FP=0
+4db9_F	14-83;140-209		TP=2;FP=0
+4dbd_A	No repeats found		TP=0;FP=0
+4dbe_A	No repeats found		TP=0;FP=0
+4df0_A	No repeats found		TP=0;FP=0
+4df1_A	No repeats found		TP=0;FP=0
+4djs_A	5-143;343-501		TP=0;FP=2
+4drx_E	21-68;120-167		TP=2;FP=0
+4drx_F	21-68;120-167		TP=2;FP=0
+4dui_A	21-68;120-167		TP=2;FP=0
+4dx1_A	90-157;173-242		TP=1;FP=1
+4dx5_D	21-101;87-167		TP=0;FP=2
+4dx5_E	21-101;87-167		TP=0;FP=2
+4dx6_D	21-101;87-167		TP=0;FP=2
+4dx6_E	21-101;87-167		TP=0;FP=2
+4dx7_D	21-101;87-167		TP=0;FP=2
+4dx7_E	21-101;87-167		TP=0;FP=2
+4dzs_A	76-125;300-353		TP=0;FP=2
+4dzs_B	76-125;300-353		TP=0;FP=2
+4e38_A	22-81;163-225		TP=1;FP=1
+4e38_C	22-81;163-225		TP=1;FP=1
+4e5z_B	120-174;251-306		TP=2;FP=0
+4e7b_A	2-205;211-413		TP=0;FP=2
+4e7b_B	2-205;211-413		TP=0;FP=2
+4e7b_C	2-205;211-413		TP=0;FP=2
+4e7c_A	2-205;211-413		TP=0;FP=2
+4e7c_B	2-205;211-413		TP=0;FP=2
+4e7c_C	2-205;211-413		TP=0;FP=2
+4e7c_D	2-205;211-413		TP=0;FP=2
+4e7d_A	2-205;211-413		TP=0;FP=2
+4e7d_B	2-205;211-413		TP=0;FP=2
+4e7d_C	2-205;211-413		TP=0;FP=2
+4e7e_A	2-205;211-413		TP=0;FP=2
+4e7e_B	2-205;211-413		TP=0;FP=2
+4e7e_D	2-205;211-413		TP=0;FP=2
+4e7f_A	2-205;211-413		TP=0;FP=2
+4e7f_B	2-205;211-413		TP=0;FP=2
+4e7f_C	2-205;211-413		TP=0;FP=2
+4e7f_D	2-205;211-413		TP=0;FP=2
+4efr_C	85-129;187-234		TP=0;FP=2
+4egg_C	72-89;92-109		TP=2;FP=0
+4egr_A	131-281;269-433		TP=0;FP=2
+4egr_B	131-281;269-433		TP=0;FP=2
+4egr_C	131-281;269-433		TP=0;FP=2
+4egr_D	131-281;269-433		TP=0;FP=2
+4egr_E	131-281;269-433		TP=0;FP=2
+4egr_F	131-281;269-433		TP=0;FP=2
+4eii_A	2-205;211-413		TP=0;FP=2
+4eiv_B	74-118;140-184		TP=2;FP=0
+4erq_A	15-134;184-308		TP=0;FP=2
+4erq_B	15-134;184-308		TP=0;FP=2
+4erq_C	15-134;184-308		TP=0;FP=2
+4ery_A	15-134;184-308		TP=0;FP=2
+4erz_A	15-134;184-308		TP=0;FP=2
+4erz_B	15-134;184-308		TP=0;FP=2
+4erz_C	15-134;184-308		TP=0;FP=2
+4es0_A	15-134;184-308		TP=0;FP=2
+4esg_A	15-134;184-308		TP=0;FP=2
+4esg_B	15-134;184-308		TP=0;FP=2
+4ev9_A	2-157;334-515		TP=0;FP=2
+4ew9_A	No repeats found		TP=0;FP=0
+4ew9_B	No repeats found		TP=0;FP=0
+4ewr_A	15-134;184-308		TP=0;FP=2
+4exv_A	No repeats found		TP=0;FP=0
+4ezg_A	53-104;146-197		TP=0;FP=2
+4ezg_B	53-104;146-197		TP=0;FP=2
+4f6r_D	21-101;87-167		TP=0;FP=2
+4fa9_F	No repeats found		TP=0;FP=0
+4fan_D	No repeats found		TP=0;FP=0
+4fan_F	No repeats found		TP=0;FP=0
+4fav_D	No repeats found		TP=0;FP=0
+4fav_F	No repeats found		TP=0;FP=0
+4fb1_D	No repeats found		TP=0;FP=0
+4fb1_F	No repeats found		TP=0;FP=0
+4fce_A	289-330;341-382		TP=0;FP=2
+4fcg_A	85-176;210-303		TP=0;FP=2
+4fd0_A	121-228;234-348		TP=0;FP=2
+4fdd_A	152-318;337-503		TP=0;FP=2
+4fdw_A	118-179;231-295		TP=0;FP=2
+4ffb_C	14-54;221-257		TP=1;FP=1
+4fhl_A	5-48;209-247		TP=2;FP=0
+4fhm_A	2-44;209-254		TP=2;FP=0
+4fhm_B	No repeats found		TP=0;FP=0
+4fhn_A	4-42;202-243		TP=2;FP=0
+4fhn_B	No repeats found		TP=0;FP=0
+4fhn_C	2-42;201-244		TP=2;FP=0
+4fhn_D	304-460;581-740		TP=0;FP=2
+4fho_B	15-99;147-231		TP=0;FP=2
+4fmz_A	12-168;189-346		TP=0;FP=2
+4fmz_B	12-168;189-346		TP=0;FP=2
+4fom_A	78-113;268-301		TP=0;FP=2
+4fp9_B	294-321;307-334		TP=2;FP=0
+4fp9_E	294-321;307-334		TP=2;FP=0
+4fp9_H	294-321;307-334		TP=2;FP=0
+4fq3_A	230-305;374-444		TP=2;FP=0
+4fqd_B	150-235;368-452		TP=2;FP=0
+4fs7_A	73-225;232-384		TP=0;FP=2
+4fum_A	1-75;128-203		TP=2;FP=0
+4fx6_M	No repeats found		TP=0;FP=0
+4fx6_N	No repeats found		TP=0;FP=0
+4fx8_A	No repeats found		TP=0;FP=0
+4fxr_A	No repeats found		TP=0;FP=0
+4fxr_B	No repeats found		TP=0;FP=0
+4fzf_A	No repeats found		TP=0;FP=0
+4g1e_A			TP=0;FP=0
+4g1m_A	363-480;766-881		TP=0;FP=2
+4g1t_B	No repeats found		TP=0;FP=0
+4g3p_A	213-325;318-436		TP=0;FP=2
+4g3s_A	213-325;318-436		TP=0;FP=2
+4g55_A	No repeats found		TP=0;FP=0
+4g56_B	72-207;208-337		TP=0;FP=2
+4g56_D	72-207;208-337		TP=0;FP=2
+4g8a_A	33-252;327-548		TP=0;FP=2
+4g8a_B	33-252;327-548		TP=0;FP=2
+4g8k_A	29-152;172-300		TP=0;FP=2
+4g8k_B	29-152;172-300		TP=0;FP=2
+4g8l_B	29-152;172-300		TP=0;FP=2
+4g8l_C	5-139;140-279		TP=0;FP=2
+4g8l_D	29-152;172-300		TP=0;FP=2
+4ga0_A			TP=0;FP=0
+4ga1_A	No repeats found		TP=0;FP=0
+4ga2_A			TP=0;FP=0
+4gc4_A	No repeats found		TP=0;FP=0
+4gcn_A	8-27;83-102		TP=0;FP=2
+4gcn_B	8-27;83-102		TP=2;FP=0
+4gez_F	No repeats found		TP=0;FP=0
+4gg4_A	4-254;243-492		TP=2;FP=0
+4gga_A	124-257;251-391		TP=0;FP=2
+4ggc_A	44-177;171-311		TP=0;FP=2
+4ggd_A	135-268;262-402		TP=0;FP=2
+4ggd_B	135-268;262-402		TP=0;FP=2
+4gh7_B	3-88;187-270		TP=0;FP=2
+4gh7_D	3-88;187-270		TP=0;FP=2
+4gm3_A	16-135;185-309		TP=0;FP=2
+4gm3_B	16-135;185-309		TP=0;FP=2
+4gm3_C	16-135;185-309		TP=0;FP=2
+4gm3_D	16-135;185-309		TP=0;FP=2
+4gm3_E	16-135;185-309		TP=0;FP=2
+4gm3_F	16-135;185-309		TP=0;FP=2
+4gm3_G	16-135;185-309		TP=0;FP=2
+4gm3_H	16-135;185-309		TP=0;FP=2
+4gm8_A	16-135;185-309		TP=0;FP=2
+4gm8_B	16-135;185-309		TP=0;FP=2
+4gm8_C	16-135;185-309		TP=0;FP=2
+4gm8_D	16-135;185-309		TP=0;FP=2
+4gmj_A	No repeats found		TP=0;FP=0
+4gmr_A	11-60;110-159		TP=2;FP=0
+4gmr_B	11-60;110-159		TP=2;FP=0
+4gn7_A	No repeats found		TP=0;FP=0
+4gn8_B	No repeats found		TP=0;FP=0
+4gn9_A	No repeats found		TP=0;FP=0
+4gnb_B	No repeats found		TP=0;FP=0
+4gpm_A	8-60;107-159		TP=2;FP=0
+4gpm_B	8-60;107-159		TP=2;FP=0
+4gq1_A	5-48;230-276		TP=2;FP=0
+4gqb_B	143-199;231-287		TP=2;FP=0
+4grg_A	21-68;87-134		TP=2;FP=0
+4gtm_A	106-177;209-285		TP=2;FP=0
+4gto_A	106-177;209-285		TP=2;FP=0
+4gtp_A	106-177;209-285		TP=2;FP=0
+4gtq_A	106-177;209-285		TP=2;FP=0
+4gtr_A	106-177;209-285		TP=2;FP=0
+4gyo_B	No repeats found		TP=0;FP=0
+4gyx_A	1-20;7-26		TP=0;FP=2
+4gyx_B	1-20;7-26		TP=0;FP=2
+4gyx_C	1-20;7-26		TP=0;FP=2
+4h09_E	49-198;197-348		TP=0;FP=2
+4h41_B	75-105;302-333		TP=2;FP=0
+4h5i_B	66-198;226-334		TP=0;FP=2
+4h5j_B	66-198;226-334		TP=0;FP=2
+4hb5_A	11-60;110-159		TP=2;FP=0
+4hb5_B	11-60;110-159		TP=2;FP=0
+4hbd_A	104-151;209-256		TP=0;FP=2
+4hl8_A	48-215;271-429		TP=0;FP=2
+4hmy_A	309-390;505-588		TP=2;FP=0
+4hmy_B	164-267;394-496		TP=0;FP=2
+4hna_D	21-101;87-167		TP=0;FP=2
+4hot_A	104-176;400-471		TP=2;FP=0
+4hpz_A	39-223;276-462		TP=0;FP=2
+4hqd_A	11-60;110-159		TP=2;FP=0
+4hqd_B	11-60;110-159		TP=2;FP=0
+4htv_A	59-198;276-414		TP=0;FP=2
+4hvt_A	38-93;426-479		TP=0;FP=2
+4hxt_A	4-116;130-242		TP=0;FP=2
+4hzk_A	271-377;799-913		TP=0;FP=2
+4i1a_A	No repeats found		TP=0;FP=0
+4i1a_B	No repeats found		TP=0;FP=0
+4i5l_A	8-222;361-577		TP=0;FP=2
+4i5l_D	8-222;361-577		TP=0;FP=2
+4i5n_A	8-222;361-577		TP=0;FP=2
+4i5n_D	8-222;361-577		TP=0;FP=2
+4i6j_B	No repeats found		TP=0;FP=0
+4i6k_A			TP=0;FP=0
+4i79_A	122-177;211-268		TP=2;FP=0
+4i79_B	No repeats found		TP=0;FP=0
+4ia9_A	15-134;184-308		TP=0;FP=2
+4igl_A	No repeats found		TP=0;FP=0
+4igl_B	No repeats found		TP=0;FP=0
+4igl_C	No repeats found		TP=0;FP=0
+4igl_D	No repeats found		TP=0;FP=0
+4in4_A	14-157;158-298		TP=0;FP=2
+4in4_B	14-157;158-298		TP=0;FP=2
+4in4_C	14-157;158-298		TP=0;FP=2
+4iqk_A	14-157;158-298		TP=0;FP=2
+4irt_A	36-90;141-195		TP=2;FP=0
+4iwt_A	3-66;66-130		TP=0;FP=2
+4iwt_B	3-66;66-130		TP=0;FP=2
+4j0m_A	58-352;407-733		TP=0;FP=2
+4j0m_B	58-352;407-733		TP=0;FP=2
+4j0u_A	104-176;400-471		TP=2;FP=0
+4j0w_A	2-95;181-272		TP=1;FP=1
+4j73_A	8-118;178-293		TP=0;FP=2
+4j77_A	8-118;178-293		TP=0;FP=2
+4j77_B	8-118;178-293		TP=0;FP=2
+4j78_A	8-118;178-293		TP=0;FP=2
+4j79_A	8-118;178-293		TP=0;FP=2
+4j7w_A	10-68;109-167		TP=2;FP=0
+4j7w_B	10-68;109-167		TP=2;FP=0
+4j81_A	8-118;178-293		TP=0;FP=2
+4j81_B	8-118;178-293		TP=0;FP=2
+4j82_A	8-118;178-293		TP=0;FP=2
+4j82_B	8-118;178-293		TP=0;FP=2
+4j84_A	8-118;178-293		TP=0;FP=2
+4j84_B	8-118;178-293		TP=0;FP=2
+4j86_A	8-118;178-293		TP=0;FP=2
+4j86_B	8-118;178-293		TP=0;FP=2
+4j87_A	49-166;208-326		TP=0;FP=2
+4j8b_A	49-166;208-326		TP=0;FP=2
+4j8g_A	49-166;208-326		TP=0;FP=2
+4j8g_B	49-166;208-326		TP=0;FP=2
+4j8y_A	21-101;87-167		TP=0;FP=2
+4jb8_P	21-66;120-165		TP=2;FP=0
+4jiw_A	4-40;36-72		TP=0;FP=2
+4jiw_B	4-40;36-72		TP=0;FP=2
+4jiw_C	4-40;36-72		TP=0;FP=2
+4jiw_E	4-40;36-72		TP=0;FP=2
+4jiw_F	4-40;36-72		TP=0;FP=2
+4jiw_G	1-37;33-69		TP=0;FP=2
+4jiw_I	4-40;36-72		TP=0;FP=2
+4jiw_J	4-40;36-72		TP=0;FP=2
+4jiw_K	1-37;33-69		TP=0;FP=2
+4jiw_M	4-40;36-72		TP=0;FP=2
+4jiw_N	4-40;36-72		TP=0;FP=2
+4jiw_O	4-40;36-72		TP=0;FP=2
+4jlq_A	361-483;631-754		TP=0;FP=2
+4jsn_C	15-130;143-265		TP=0;FP=2
+4jsn_D	15-130;143-265		TP=0;FP=2
+4jsp_C	15-130;143-265		TP=0;FP=2
+4jsp_D	15-130;143-265		TP=0;FP=2
+4jsv_C	15-130;143-265		TP=0;FP=2
+4jsv_D	15-130;143-265		TP=0;FP=2
+4jsx_C	15-130;143-265		TP=0;FP=2
+4jsx_D	15-130;143-265		TP=0;FP=2
+4jt5_C	15-130;143-265		TP=0;FP=2
+4jt5_D	15-130;143-265		TP=0;FP=2
+4jt6_C	15-130;143-265		TP=0;FP=2
+4jt6_D	15-130;143-265		TP=0;FP=2
+4jxm_A	42-128;220-305		TP=0;FP=2
+4k79_D	18-88;87-160		TP=0;FP=2
+4kzx_g	6-131;183-309		TP=0;FP=2
+4kzy_g	6-131;183-309		TP=0;FP=2
+4kzz_g	6-131;183-309		TP=0;FP=2
+4l3f_A	No repeats found		TP=0;FP=0
+4l3f_B	No repeats found		TP=0;FP=0
+4l3f_C	No repeats found		TP=0;FP=0
+4l3f_D	No repeats found		TP=0;FP=0
+4l7m_A	No repeats found		TP=0;FP=0
+4lc6_A	No repeats found		TP=0;FP=0
+4lc6_B	No repeats found		TP=0;FP=0
+4lc8_A	No repeats found		TP=0;FP=0
+4lc8_B	No repeats found		TP=0;FP=0
+4ld1_A	6-91;98-180		TP=0;FP=2
+4lg8_A	89-229;217-354		TP=1;FP=1
+4lui_B			TP=0;FP=0
+4luj_A			TP=0;FP=0
+4luj_B			TP=0;FP=0
+4mpz_A	27-114;102-197		TP=0;FP=2
+4nbx_A	7-50;98-143		TP=0;FP=2
+4nby_A	19-77;203-261		TP=0;FP=2
+4nbz_A	8-51;99-144		TP=0;FP=2
+4nbz_C	8-51;99-144		TP=0;FP=2
+4nc0_A	14-72;198-256		TP=0;FP=2
+4np4_A	2-134;136-266		TP=0;FP=2
+4q35_A	616-644;693-721		TP=0;FP=2
+4r36_B	34-82;124-171		TP=2;FP=0
+4r37_A	34-82;124-171		TP=2;FP=0
+4r37_B	34-82;124-171		TP=2;FP=0
+4r58_A	25-109;135-219		TP=0;FP=2
+4r58_B	25-109;135-219		TP=0;FP=2
+4r58_C	25-109;135-219		TP=0;FP=2
+4r58_D	25-109;135-219		TP=0;FP=2
+4r5c_A	23-166;164-302		TP=0;FP=2
+4r5d_A	75-217;282-440		TP=0;FP=2
+4r6a_A	36-299;455-750		TP=0;FP=2
+4r6a_B	36-299;455-750		TP=0;FP=2
+4r6f_A	25-145;203-329		TP=0;FP=2
+4r6g_A	23-226;244-464		TP=0;FP=2
+4r6j_A	39-147;137-251		TP=0;FP=2
+4r6j_B	39-147;137-251		TP=0;FP=2
+4r6j_C	39-147;137-251		TP=0;FP=2
+4r6j_D	39-147;137-251		TP=0;FP=2
+4r6o_A	1-65;70-131		TP=2;FP=0
+4r7a_B	123-270;272-419		TP=0;FP=2
+4r7o_F	No repeats found		TP=0;FP=0
+4r7s_A	50-134;152-236		TP=0;FP=2
+4r7u_A	16-187;219-394		TP=0;FP=2
+4r7u_B	16-187;219-394		TP=0;FP=2
+4r7u_C	16-187;219-394		TP=0;FP=2
+4r7u_D	16-187;219-394		TP=0;FP=2
+4r9x_B	No repeats found		TP=0;FP=0
+4rc1_A	48-76;111-138		TP=2;FP=0
+4rc1_D	48-76;111-138		TP=2;FP=0
+4rc1_G	48-76;111-138		TP=2;FP=0
+4rca_A	1-95;213-299		TP=2;FP=0
+4rca_B	19-102;92-173		TP=0;FP=2
+4rcw_A	34-95;106-166		TP=0;FP=2
+4rcw_B	34-95;106-166		TP=0;FP=2
+4rdt_A	No repeats found		TP=0;FP=0
+4rdt_B	No repeats found		TP=0;FP=0
+4re6_D	48-263;252-454		TP=0;FP=2
+4rg7_A	76-165;290-385		TP=0;FP=2
+4rg9_A	69-158;266-361		TP=0;FP=2
+4rg9_B	70-159;266-361		TP=0;FP=2
+4rhb_A	436-466;513-543		TP=2;FP=0
+4rhb_C	436-466;513-543		TP=2;FP=0
+4rl8_C	2-47;191-232		TP=2;FP=0
+4rl8_D	2-47;191-232		TP=2;FP=0
+4rlv_A	75-454;475-850		TP=0;FP=2
+4rly_A	59-151;228-320		TP=0;FP=2
+4rmx_B	240-292;469-524		TP=1;FP=1
+4rmx_C	240-292;469-524		TP=2;FP=0
+4rse_B	No repeats found		TP=0;FP=0
+4rtd_A	297-427;1019-1133		TP=0;FP=2
+4ru4_A	115-199;486-578		TP=1;FP=1
+4ru4_B	115-199;486-578		TP=1;FP=1
+4ru4_C	115-199;486-578		TP=1;FP=1
+4ru4_D	115-199;486-578		TP=1;FP=1
+4ru4_E	115-199;486-578		TP=1;FP=1
+4ru4_F	115-199;486-578		TP=1;FP=1
+4ru5_A	153-216;349-412		TP=0;FP=2
+4ru5_B	153-216;349-412		TP=0;FP=2
+4ru5_C	153-216;349-412		TP=0;FP=2
+4rus_E	6-88;119-203		TP=1;FP=1
+4rv1_A	4-200;214-410		TP=0;FP=2
+4rv1_B	4-200;214-410		TP=0;FP=2
+4rv1_C	4-200;214-410		TP=0;FP=2
+4rv1_D	4-200;214-410		TP=0;FP=2
+4rv1_E	4-200;214-410		TP=0;FP=2
+4rv1_F	4-200;214-410		TP=0;FP=2
+4rvw_A	No repeats found		TP=0;FP=0
+4rxh_B	24-192;194-360		TP=0;FP=2
+4tqk_A	17-184;239-406		TP=0;FP=2
+4tqk_B	17-184;239-406		TP=0;FP=2
+4tqo_B	131-232;446-535		TP=2;FP=0
+4tqo_D	131-232;446-535		TP=2;FP=0
+4tqo_E	131-232;446-535		TP=2;FP=0
+4tum_A	6-60;72-126		TP=0;FP=2
+4tum_B	6-60;72-126		TP=0;FP=2
+4tum_C	6-60;72-126		TP=0;FP=2
+4tum_D	6-60;72-126		TP=0;FP=2
+4tum_E	6-60;72-126		TP=0;FP=2
+4tz1_A	No repeats found		TP=0;FP=0
+4tz5_B	No repeats found		TP=0;FP=0
+4tzh_A	8-91;100-185		TP=0;FP=2
+4tzh_B	8-91;100-185		TP=0;FP=2
+4u06_A	9-169;173-330		TP=0;FP=2
+4u08_A	20-199;204-380		TP=0;FP=2
+4u08_B	20-199;204-380		TP=0;FP=2
+4u09_A	9-205;193-387		TP=0;FP=2
+4u09_B	9-205;193-387		TP=0;FP=2
+4u1e_I	48-109;153-212		TP=2;FP=0
+4u1f_A	325-393;385-454		TP=2;FP=0
+4u1f_B	325-393;385-454		TP=2;FP=0
+4u49_A	No repeats found		TP=0;FP=0
+4u49_B	No repeats found		TP=0;FP=0
+4u4b_A	No repeats found		TP=0;FP=0
+4u4j_A	No repeats found		TP=0;FP=0
+4u54_A	39-219;213-393		TP=0;FP=2
+4u58_A	41-221;215-395		TP=0;FP=2
+4u5l_A	41-221;215-395		TP=0;FP=2
+4u5n_A	41-221;215-395		TP=0;FP=2
+4u5o_A	41-221;215-395		TP=0;FP=2
+4u5s_A	41-221;215-395		TP=0;FP=2
+4u5u_A	41-221;215-395		TP=0;FP=2
+4u5v_A	41-221;215-395		TP=0;FP=2
+4u7a_A	613-674;742-813		TP=2;FP=0
+4u7l_A	29-207;220-402		TP=0;FP=2
+4u8v_D	21-101;87-167		TP=0;FP=2
+4u8v_E	21-101;87-167		TP=0;FP=2
+4u8y_D	21-101;87-167		TP=0;FP=2
+4u8y_E	21-101;87-167		TP=0;FP=2
+4u95_D	21-101;87-167		TP=0;FP=2
+4u95_E	21-101;87-167		TP=0;FP=2
+4u96_D	21-101;87-167		TP=0;FP=2
+4u96_E	21-101;87-167		TP=0;FP=2
+4u9p_B	48-76;111-138		TP=2;FP=0
+4uad_A	28-212;200-381		TP=0;FP=2
+4uae_A	68-143;279-355		TP=2;FP=0
+4uaf_B	15-154;232-370		TP=2;FP=0
+4uer_R	14-135;193-314		TP=0;FP=2
+4uf7_B	115-167;317-365		TP=1;FP=1
+4ufr_A	33-217;253-426		TP=0;FP=2
+4ufr_C	33-217;253-426		TP=0;FP=2
+4ufs_A	33-217;253-426		TP=0;FP=2
+4ui9_A	772-907;1006-1140		TP=0;FP=2
+4ui9_C	208-232;345-369		TP=2;FP=0
+4ui9_F	74-163;554-649		TP=0;FP=2
+4ui9_R	193-293;361-467		TP=0;FP=2
+4ui9_X	146-196;350-403		TP=2;FP=0
+4uip_B	12-96;99-192		TP=0;FP=2
+4uou_A	70-156;227-312		TP=2;FP=0
+4uou_B	70-156;227-312		TP=2;FP=0
+4uou_C	70-156;227-312		TP=2;FP=0
+4uou_D	70-156;227-312		TP=2;FP=0
+4urr_B	No repeats found		TP=0;FP=0
+4utw_D	No repeats found		TP=0;FP=0
+4uu4_A	No repeats found		TP=0;FP=0
+4uuc_A	6-94;104-191		TP=2;FP=0
+4v0m_H	No repeats found		TP=0;FP=0
+4v0n_H	No repeats found		TP=0;FP=0
+4v0o_H	No repeats found		TP=0;FP=0
+4v3g_A	73-163;159-248		TP=1;FP=1
+4v3h_A	73-163;159-248		TP=1;FP=1
+4w9t_A	65-111;180-229		TP=2;FP=0
+4wac_A	No repeats found		TP=0;FP=0
+4wjs_A	127-274;340-483		TP=0;FP=2
+4wju_A	159-304;374-513		TP=0;FP=2
+4wju_B	159-304;374-513		TP=0;FP=2
+4wjv_A	25-170;240-379		TP=2;FP=0
+4wjv_B	25-170;240-379		TP=2;FP=0
+4wjv_C	25-170;240-379		TP=2;FP=0
+4wjv_D	25-170;240-379		TP=2;FP=0
+4wk0_A	237-306;358-437		TP=2;FP=0
+4wk4_A	237-306;358-437		TP=2;FP=0
+4wn4_B	2-122;177-297		TP=1;FP=1
+4wnd_A	23-201;201-361		TP=0;FP=2
+4wne_A	20-138;188-308		TP=0;FP=2
+4wng_A	24-202;202-362		TP=0;FP=2
+4wog_A	24-89;93-155		TP=2;FP=0
+4wog_B	24-89;93-155		TP=2;FP=0
+4wog_C	24-89;93-155		TP=2;FP=0
+4wog_D	24-89;93-155		TP=2;FP=0
+4wrl_A	50-65;244-259		TP=0;FP=2
+4wrl_C	50-65;244-259		TP=0;FP=2
+4wrm_A	235-266;338-369		TP=0;FP=2
+4wsl_A	4-157;144-297		TP=0;FP=2
+4wui_A	No repeats found		TP=0;FP=0
+4wv6_A	20-159;237-375		TP=2;FP=0
+4wwp_A	113-177;170-227		TP=0;FP=2
+4wxz_A	15-77;163-234		TP=2;FP=0
+4wzr_A	35-97;220-282		TP=0;FP=2
+4wzr_B	35-97;220-282		TP=0;FP=2
+4wzs_C	No repeats found		TP=0;FP=0
+4wzw_A	30-92;215-277		TP=0;FP=2
+4x33_B	4-76;149-216		TP=2;FP=0
+4x36_A	157-219;241-304		TP=0;FP=2
+4x3e_A	132-152;177-197		TP=0;FP=2
+4x60_B	149-205;237-293		TP=2;FP=0
+4x61_B	149-205;237-293		TP=2;FP=0
+4x63_B	149-205;237-293		TP=2;FP=0
+4x6l_B	No repeats found		TP=0;FP=0
+4x6l_D	No repeats found		TP=0;FP=0
+4x7m_A	No repeats found		TP=0;FP=0
+4x7m_B	No repeats found		TP=0;FP=0
+4x83_A	11-90;317-379		TP=2;FP=0
+4x83_C	11-90;317-379		TP=2;FP=0
+4x8q_A	23-44;142-166		TP=2;FP=0
+4x9f_B	11-90;317-379		TP=2;FP=0
+4xa9_B	45-151;140-247		TP=0;FP=2
+4xa9_C	45-151;140-247		TP=0;FP=2
+4xa9_D	45-151;140-247		TP=0;FP=2
+4xa9_E	45-151;140-247		TP=0;FP=2
+4xa9_F	45-151;140-247		TP=0;FP=2
+4xa9_G	45-151;140-247		TP=0;FP=2
+4xap_A	No repeats found		TP=0;FP=0
+4xav_C	No repeats found		TP=0;FP=0
+4xav_D	No repeats found		TP=0;FP=0
+4xcz_A			TP=0;FP=0
+4xd0_A			TP=0;FP=0
+4xei_C	13-80;101-170		TP=2;FP=0
+4xf2_V	13-80;101-170		TP=2;FP=0
+4xfv_A	55-239;602-789		TP=0;FP=2
+4xgo_A	73-191;182-304		TP=0;FP=2
+4xgo_B	73-191;182-304		TP=0;FP=2
+4xi0_A	25-93;93-161		TP=2;FP=0
+4xi0_B	25-93;93-161		TP=2;FP=0
+4xi0_C	25-93;93-161		TP=2;FP=0
+4xi0_D	25-93;93-161		TP=2;FP=0
+4xi0_E	25-93;93-161		TP=2;FP=0
+4xi0_F	25-93;93-161		TP=2;FP=0
+4xl5_C	12-131;136-255		TP=0;FP=2
+4xle_A	No repeats found		TP=0;FP=0
+4xlf_A	79-184;305-410		TP=0;FP=2
+4xlh_A	79-184;305-410		TP=0;FP=2
+4xmb_A	4-147;148-288		TP=0;FP=2
+4xmm_A	21-138;170-291		TP=0;FP=2
+4xmm_C	7-155;210-349		TP=1;FP=1
+4xmn_A	21-138;170-291		TP=0;FP=2
+4xmy_A	79-184;305-410		TP=0;FP=2
+4xn3_A	No repeats found		TP=0;FP=0
+4xnf_A	79-184;305-410		TP=0;FP=2
+4xnk_A	No repeats found		TP=0;FP=0
+4xog_A	352-438;467-542		TP=1;FP=1
+4xot_A	77-182;303-408		TP=0;FP=2
+4xqf_A	No repeats found		TP=0;FP=0
+4xqh_A	No repeats found		TP=0;FP=0
+4xqi_A	No repeats found		TP=0;FP=0
+4xr6_A	77-182;303-408		TP=0;FP=2
+4xyh_A	130-262;280-409		TP=0;FP=2
+4xyi_A	130-262;280-409		TP=0;FP=2
+4xzr_B	38-158;249-371		TP=2;FP=0
+4y61_A	1-135;213-330		TP=2;FP=0
+4y61_B			TP=0;FP=0
+4y6w_A	5-98;131-224		TP=1;FP=1
+4y7e_B			TP=0;FP=0
+4y7r_A	16-135;185-309		TP=0;FP=2
+4ydw_A	21-68;120-167		TP=2;FP=0
+4ydw_B	21-68;120-167		TP=2;FP=0
+4ydy_A	21-68;120-167		TP=2;FP=0
+4ydy_B	21-68;120-167		TP=2;FP=0
+4yeb_A	13-80;194-264		TP=1;FP=1
+4yeb_B	41-142;182-283		TP=0;FP=2
+4ygu_A	No repeats found		TP=0;FP=0
+4ygu_B	No repeats found		TP=0;FP=0
+4ygu_D	No repeats found		TP=0;FP=0
+4yh7_A	284-433;567-711		TP=2;FP=0
+4yhc_A	No repeats found		TP=0;FP=0
+4yi0_C	9-148;226-364		TP=2;FP=0
+4yvd_A	55-206;223-369		TP=0;FP=2
+4yw1_A	421-489;524-599		TP=1;FP=1
+4yw1_B	421-489;524-599		TP=1;FP=1
+4yw3_A	422-440;526-544		TP=0;FP=2
+4yxg_A	No repeats found		TP=0;FP=0
+4yxx_A	1-110;106-215		TP=0;FP=2
+4yxz_A	3-131;158-286		TP=0;FP=2
+4z05_B	No repeats found		TP=0;FP=0
+4z0c_A	38-368;355-691		TP=0;FP=2
+4z0c_D	38-368;355-691		TP=0;FP=2
+4z0s_B	71-102;209-240		TP=2;FP=0
+4z68_A	39-89;105-154		TP=0;FP=2
+4z79_A	No repeats found		TP=0;FP=0
+4z7o_A	5-39;403-439		TP=0;FP=2
+4z7q_A	5-39;403-439		TP=2;FP=0
+4z8l_A	173-198;209-234		TP=0;FP=2
+4z8l_D	173-198;209-234		TP=0;FP=2
+4zdu_A	8-147;225-363		TP=2;FP=0
+4zfu_B	10-104;138-231		TP=0;FP=2
+4zfw_B	10-104;138-231		TP=0;FP=2
+4zfy_B	10-104;138-231		TP=0;FP=2
+4zgc_A	108-238;250-379		TP=0;FP=2
+4zgr_B	10-104;138-231		TP=0;FP=2
+4zlr_A	28-143;162-272		TP=0;FP=2
+4zlr_B	28-143;162-272		TP=0;FP=2
+4zn4_A	42-147;196-295		TP=2;FP=0
+4zn4_B	14-99;220-301		TP=2;FP=0
+4znd_A	131-281;269-433		TP=2;FP=0
+4zov_A			TP=0;FP=0
+4zov_B			TP=0;FP=0
+4zox_A	42-192;206-336		TP=0;FP=2
+4zoy_A	15-120;249-358		TP=2;FP=0
+4zoz_A	12-117;246-355		TP=2;FP=0
+4zoz_B	12-117;246-355		TP=2;FP=0
+5a2q_g	6-135;183-314		TP=0;FP=2
+5a31_O	No repeats found		TP=0;FP=0
+5a31_P	64-169;232-331		TP=0;FP=2
+5a42_A	263-393;985-1099		TP=0;FP=2
+5a5b_P	67-182;333-443		TP=0;FP=2
+5a5b_Q	No repeats found		TP=0;FP=0
+5a5b_Z	449-604;737-887		TP=0;FP=2
+5a5t_M	No repeats found		TP=0;FP=0
+5a5u_I	48-109;153-212		TP=2;FP=0
+5a6c_A	17-135;195-315		TP=0;FP=2
+5a7d_L	No repeats found		TP=0;FP=0
+5a9q_0	No repeats found		TP=0;FP=0
+5a9q_1	509-553;539-583		TP=0;FP=2
+5a9q_2	No repeats found		TP=0;FP=0
+5a9q_6	18-140;172-297		TP=0;FP=2
+5a9q_7	10-76;276-345		TP=2;FP=0
+5a9q_9	No repeats found		TP=0;FP=0
+5a9q_F	18-140;172-297		TP=0;FP=2
+5a9q_G	10-76;276-345		TP=2;FP=0
+5a9q_I	No repeats found		TP=0;FP=0
+5a9q_K	No repeats found		TP=0;FP=0
+5a9q_O	18-140;172-297		TP=0;FP=2
+5a9q_P	10-76;276-345		TP=2;FP=0
+5a9q_R	No repeats found		TP=0;FP=0
+5a9q_T	No repeats found		TP=0;FP=0
+5a9q_X	18-140;172-297		TP=0;FP=2
+5a9q_Y	10-76;276-345		TP=2;FP=0
+5aja_A			TP=0;FP=0
+5an9_I	142-179;182-217		TP=2;FP=0
+5anb_I	142-179;182-217		TP=2;FP=0
+5av7_A	No repeats found		TP=0;FP=0
+5av7_C	No repeats found		TP=0;FP=0
+5av7_D	No repeats found		TP=0;FP=0
+5awb_A	26-277;408-703		TP=0;FP=2
+5awd_A	36-299;455-750		TP=0;FP=2
+5awg_F	No repeats found		TP=0;FP=0
+5b10_O	No repeats found		TP=0;FP=0
+5b11_O	No repeats found		TP=0;FP=0
+5b26_A	10-76;120-185		TP=0;FP=2
+5b26_B	10-76;120-185		TP=0;FP=2
+5b26_C	10-76;120-185		TP=0;FP=2
+5b26_D	10-76;120-185		TP=0;FP=2
+5b2a_O	No repeats found		TP=0;FP=0
+5b2h_A	21-109;157-244		TP=0;FP=2
+5b56_A	9-148;226-364		TP=2;FP=0
+5b56_B	9-148;226-364		TP=2;FP=0
+5bn6_F	5-70;74-136		TP=2;FP=0
+5bq2_A	209-284;349-424		TP=2;FP=0
+5bq2_B	209-284;349-424		TP=0;FP=2
+5bq2_C	209-284;349-424		TP=0;FP=2
+5bq2_D	209-284;349-424		TP=0;FP=2
+5bvl_A	2-93;94-185		TP=0;FP=2
+5bym_A	13-173;168-336		TP=0;FP=2
+5byo_A	3-193;189-379		TP=0;FP=2
+5byo_B	3-193;189-379		TP=0;FP=2
+5bz1_A	14-106;169-261		TP=1;FP=1
+5bzu_A	14-106;169-261		TP=1;FP=1
+5bzv_A	14-106;169-261		TP=1;FP=1
+5c9s_B	243-390;422-565		TP=0;FP=2
+5cea_A	25-117;126-218		TP=0;FP=2
+5cea_B	25-117;126-218		TP=0;FP=2
+5cea_C	25-117;126-218		TP=0;FP=2
+5cea_D	25-117;126-218		TP=0;FP=2
+5cea_E	25-117;126-218		TP=0;FP=2
+5cec_B	25-117;126-218		TP=0;FP=2
+5ced_B	25-117;126-218		TP=0;FP=2
+5cer_B	10-90;111-191		TP=2;FP=0
+5cer_D	10-90;111-191		TP=2;FP=0
+5cer_F	10-90;111-191		TP=2;FP=0
+5cer_H	10-90;111-191		TP=2;FP=0
+5cer_J	10-90;111-191		TP=2;FP=0
+5cer_L	10-90;111-191		TP=2;FP=0
+5cgj_A	36-179;180-320		TP=0;FP=2
+5cmn_A	39-147;180-283		TP=0;FP=2
+5cmn_B	39-147;180-283		TP=0;FP=2
+5cmn_C	39-147;180-283		TP=0;FP=2
+5cmn_D	39-147;180-283		TP=0;FP=2
+5cmn_F	No repeats found		TP=0;FP=0
+5cmn_G	No repeats found		TP=0;FP=0
+5cmn_H	No repeats found		TP=0;FP=0
+5cmp_A	39-147;180-283		TP=0;FP=2
+5cmp_B	39-147;180-283		TP=0;FP=2
+5cmp_C	39-147;180-283		TP=0;FP=2
+5cmp_D	39-147;180-283		TP=0;FP=2
+5ctt_A	28-167;245-383		TP=0;FP=2
+5cwk_A	2-90;88-176		TP=0;FP=2
+5cxb_B	17-86;264-346		TP=0;FP=2
+5cxc_B	17-86;281-363		TP=0;FP=2
+5d0q_H	36-102;179-244		TP=2;FP=0
+5d5d_A	No repeats found		TP=0;FP=0
+5d5k_C	15-154;232-370		TP=2;FP=0
+5d66_A	10-93;109-197		TP=2;FP=0
+5d66_B	10-93;109-197		TP=2;FP=0
+5d9b_A	1-146;133-296		TP=0;FP=2
+5d9c_A	1-146;133-296		TP=0;FP=2
+5d9d_A	1-146;133-296		TP=0;FP=2
+5dn7_A	197-227;252-282		TP=0;FP=2
+5duy_E	37-75;130-167		TP=0;FP=2
+5e6q_B	59-198;276-414		TP=0;FP=2
+5eal_A	15-134;184-308		TP=0;FP=2
+5eal_B	15-134;184-308		TP=0;FP=2
+5eam_A	15-134;184-308		TP=0;FP=2
+5eam_B	15-134;184-308		TP=0;FP=2
+5eap_A	15-134;184-308		TP=0;FP=2
+5ear_A	15-134;184-308		TP=0;FP=2
+5ear_B	15-134;184-308		TP=0;FP=2
+5ec5_B	28-117;121-201		TP=0;FP=2
+5ec5_E	50-131;135-215		TP=0;FP=2
+5ec5_G	50-131;135-215		TP=0;FP=2
+5ec5_J	50-131;135-215		TP=0;FP=2
+5ec5_L	50-131;135-215		TP=0;FP=2
+5ec5_M	41-122;126-206		TP=0;FP=2
+5ec5_N	50-131;135-215		TP=0;FP=2
+5ec5_O	50-131;135-215		TP=0;FP=2
+5ec5_P	50-131;135-215		TP=0;FP=2
+5ec5_R	50-131;135-215		TP=0;FP=2
+5ec5_S	50-131;135-215		TP=0;FP=2
+5ekg_A	59-198;276-414		TP=0;FP=2
+5ex7_A	32-147;166-276		TP=0;FP=2
+5f8w_A	6-44;99-136		TP=2;FP=0
+5f90_B	6-44;99-136		TP=2;FP=0
+5flc_D	15-130;143-265		TP=0;FP=2
+5flc_H	15-130;143-265		TP=0;FP=2
+5flx_g	6-135;183-314		TP=0;FP=2
+5hhg_E	42-222;216-396		TP=0;FP=2
+5huy_C	77-216;294-432		TP=0;FP=2
+5hyw_A	361-437;516-593		TP=0;FP=2
+5i9g_C	3-219;213-429		TP=0;FP=2
+5iv9_A	587-617;663-693		TP=0;FP=2
+5klr_B	59-198;276-414		TP=0;FP=2
+5klt_B	59-198;276-414		TP=0;FP=2
+6prn_A	No repeats found		TP=0;FP=0
+7prn_A	No repeats found		TP=0;FP=0
