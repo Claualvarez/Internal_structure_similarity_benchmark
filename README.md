@@ -4,7 +4,7 @@ We constructed a database of proteins without internal sequence and structure si
 To this end, we used three sequential filters on a subset of the PDB composed of 28337 non-redundant chains, as determined by BLASTClust
 at 30% sequence identity:
 
-1) structural symmetry filter: SymD Z-score < 4;
+1) structural symmetry filter: SymD [1] Z-score < 4;
 2) conserved internal sequence similarity filter: InterPro sequence signatures; and
 3) sequence and structure evaluation using FiRES, HHrepID, lalign, RADAR, CE-symm, ReUPred and Swelfe with default parameter.
 
@@ -20,3 +20,5 @@ Some structures considered Asymmetric in the Internal symmetry dataset (https://
 ![Structures with internal similarity in the domain_symm benchmark](images/Dom_symm_bench.jpg)
 
 ## References
+
+1. Jha A, Flurchick KM, Bikdash M, Kc DB. Parallel-SymD : A Parallel Approach to Detect Internal Symmetry in Protein Domains. 2016;2016.
