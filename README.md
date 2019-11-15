@@ -1,7 +1,7 @@
 # Internal_structure_similarity_benchmark
 
 
-# Other benchmark tabases 
+# Other benchmark databases 
 
 ![Structures with internal similarity in the database of no-tandem-repeats](images/No-tandem-repeats.png)
 
