@@ -8,7 +8,7 @@ at 30% sequence identity:
 2) conserved internal sequence similarity filter: InterPro sequence signatures; and
 3) sequence and structure evaluation using FiRES, HHrepID, lalign, RADAR, CE-symm, ReUPred and Swelfe with default parameter.
 
-# Other benchmark databases 
+## Other benchmark databases 
 
 The Dataset-non-TR (https://doi.org/10.1016/j.febslet.2015.08.025) contains duplicated domains.
 
