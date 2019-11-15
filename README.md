@@ -1,9 +1,12 @@
 # Internal_structure_similarity_benchmark
 
 We constructed a database of proteins without internal sequence and structure similarity. 
-To this end, we used three sequential filters ON A a subset of the PDB composed of 28337 non-redundant chains, as determined by BLASTClust
+To this end, we used three sequential filters on a subset of the PDB composed of 28337 non-redundant chains, as determined by BLASTClust
 at 30% sequence identity:
 
+1) Structural symmetry filter: SymD Z-score < 4
+2) Conserved internal sequence similarity filter: InterPro sequence signatures 
+3) Sequence and structure evaluation using FiRES, HHrepID, lalign, RADAR, CE-symm, ReUPred and Swelfe 
 
 # Other benchmark databases 
 
