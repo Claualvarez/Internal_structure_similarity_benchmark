@@ -3,5 +3,5 @@
 
 Database of no repeats
 
-Other databases of no repeats
-![Internal similarity](images/No-tandem-repeats.png)
+![](images/No-tandem-repeats.png)
+![]{(images/Dom_symm_bench.jpg)
