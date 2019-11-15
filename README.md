@@ -18,3 +18,5 @@ Some structures considered Asymmetric in the Internal symmetry dataset (https://
 
 
 ![Structures with internal similarity in the domain_symm benchmark](images/Dom_symm_bench.jpg)
+
+## References
