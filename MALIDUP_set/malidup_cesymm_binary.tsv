@@ -1,11 +1,10 @@
-Structure	PredictedUnits	TMscore	Evaluation	Ignored
 19hc_A	No repeats found			
 1a4p_A	7-41;47-82	0.61066;0.61066	TP	
 1a4s_A	No repeats found			
 1a6d_A	No repeats found			
 1a8l_A	No repeats found			
 1af2_A	No repeats found			
-1afw_B	26-278;294-407	0.69832;0.69832	TP	
+1afw_B	26-278;294-407	;		
 1ahj_A	No repeats found			
 1ai3_A	No repeats found			
 1aj8_A	No repeats found			
@@ -119,7 +118,7 @@ Structure	PredictedUnits	TMscore	Evaluation	Ignored
 1sum_B	8-109;112-209	0.82195;0.82195	TP	
 1t0t_Y	9-112;137-240	0.72609;0.72609	TP	
 1tbr_R	No repeats found			
-1toc_R	1A-52;60-115	0.54514;0.54514	TP	
+1toc_R	1-52;60-115	0.54514;0.54514	TP	
 1v9m_A	No repeats found			
 1vjl_A	No repeats found			
 1vkw_A	22-104;129-205	0.72034;0.72034	TP	
