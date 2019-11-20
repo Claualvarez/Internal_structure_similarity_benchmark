@@ -1,5 +1,9 @@
 # Internal_structure_similarity_benchmark
 
+### RepeatsDB
+
+### MALIDUP
+
 ### The Database of no-repeats
 We constructed a database of proteins without internal sequence and structure similarity from a subset of the PDB composed of 28337 non-redundant chains, as determined by BLASTClust at 30% sequence identity.
 We applied three sequential filters:
