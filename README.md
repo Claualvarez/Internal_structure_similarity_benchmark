@@ -1,4 +1,4 @@
-# Internal_structure_similarity_benchmark
+## Internal_structure_similarity_benchmark
 
 ### [RepeatsDB](https://github.com/Claualvarez/Internal_structure_similarity_benchmark/blob/master/RepeatsDB/RepeatsDB_reference_units.tsv)
 
