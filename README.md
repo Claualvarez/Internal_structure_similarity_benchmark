@@ -1,7 +1,6 @@
 ## Internal_structure_similarity_benchmark
 
 ### [RepeatsDB](https://github.com/Claualvarez/Internal_structure_similarity_benchmark/blob/master/RepeatsDB/RepeatsDB_reference_units.tsv)
-The performance of FiRES was assessed using two datasets extracted from: 
 >Paladin L, Hirsh L, Piovesan D, et al. RepeatsDB 2.0: improved annotation,
 classification , search and visualization of repeat protein structures.
 Nucleic Acids Res. 2017;(D1):D308-D312. doi:10.1093/nar/gkw1136
