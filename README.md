@@ -34,7 +34,6 @@ We applied three sequential filters:
 > Do Viet P, Roche DB, Kajava A V. TAPO: A combined method for the
 identification of tandem repeats in protein structures. FEBS Lett. 2015;589(19):2611-2619. doi:10.1016/j.febslet.2015.08.025
 
-contains duplicated domains.
 ![Structures with internal similarity in the database of no-tandem-repeats](images/No-tandem-repeats.png)
 
 Some structures considered Asymmetric in the Internal symmetry dataset (https://doi.org/10.1371/journal.pcbi.1006842) have internal structure similarity.
