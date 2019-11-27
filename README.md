@@ -16,10 +16,16 @@ structure alignments for duplicated domain pairs. Proteins Struct Funct Bioinfor
 We constructed a database of proteins without internal sequence and structure similarity from a subset of the PDB composed of 28337 non-redundant chains, as determined by BLASTClust at 30% sequence identity.
 We applied three sequential filters:
 
-1) structural symmetry filter: SymD [1] Z-score < 4;
-2) conserved internal sequence similarity filter: InterPro [2] sequence signatures; and
-3) sequence and structure evaluation using FiRES, HHrepID [3], lalign [4], RADAR [5], CE-symm [6], ReUPred [7] and Swelfe [8] with default parameter.
-
+1. structural symmetry filter: SymD [1] Z-score < 4;
+2. conserved internal sequence similarity filter: InterPro [2] sequence signatures; and
+3. sequence and structure evaluation using the followhing algorithms with default parameters:
+   - FiRES, 
+   - HHrepID [3], 
+   - lalign [4], 
+   - RADAR [5], 
+   - CE-symm [6], 
+   - ReUPred [7] 
+   - Swelfe [8] 
 
 
 ### Other benchmark databases 
