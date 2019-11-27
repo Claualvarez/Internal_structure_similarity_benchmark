@@ -1,8 +1,16 @@
 ## Internal_structure_similarity_benchmark
 
 ### [RepeatsDB](https://github.com/Claualvarez/Internal_structure_similarity_benchmark/blob/master/RepeatsDB/RepeatsDB_reference_units.tsv)
+The performance of FiRES was assessed using two datasets extracted from: 
+>Paladin L, Hirsh L, Piovesan D, et al. RepeatsDB 2.0: improved annotation,
+classification , search and visualization of repeat protein structures.
+Nucleic Acids Res. 2017;(D1):D308-D312. doi:10.1093/nar/gkw1136
 
 ### [MALIDUP](https://github.com/Claualvarez/Internal_structure_similarity_benchmark/blob/master/MALIDUP_set/MALIDUP_reference_units.tsv)
+>Cheng H, Kim B, Grishin N V. MALIDUP: a database of manually constructed
+structure alignments for duplicated domain pairs. Proteins Struct Funct Bioinforma.
+2007;70(4):1162-1166. doi:10.1002/prot.21783
+
 
 ### The Database of no-repeats
 We constructed a database of proteins without internal sequence and structure similarity from a subset of the PDB composed of 28337 non-redundant chains, as determined by BLASTClust at 30% sequence identity.
