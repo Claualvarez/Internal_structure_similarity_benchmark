@@ -20,6 +20,7 @@ We applied three sequential filters:
 3. sequence and structure evaluation using the followhing algorithms with default parameters:
    - FiRES, 
    - HHrepID [3], 
+   > Biegert A, Söding J. De novo identification of highly diverged protein repeats by probabilistic consistency. Bioinformatics. 2008;24(6):807-814. doi:10.1093/bioinformatics/btn039.
    - lalign [4], 
    - RADAR [5], 
    - CE-symm [6], 
