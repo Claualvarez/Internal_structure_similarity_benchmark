@@ -17,7 +17,7 @@ We applied three sequential filters:
 
 1. structural symmetry filter: **SymD** Z-score < 4;
 > Jha A, Flurchick KM, Bikdash M, Kc DB. Parallel-SymD : A Parallel Approach to Detect Internal Symmetry in Protein Domains. 2016;2016.
-2. conserved internal sequence similarity filter: **InterPro** sequence signatures; and
+2. conserved internal sequence similarity filter: **InterPro** sequence signatures;
 > Mitchell AL, Attwood TK, Babbitt PC, et al. InterPro in 2019 : improving coverage , classification and access to protein sequence annotations. Nucleic Acids Res.
 3. sequence and structure evaluation using the followhing algorithms with default parameters:
    - **FiRES
