@@ -1,11 +1,9 @@
 ## Internal_structure_similarity_benchmark
 
-||Accuracy at the protein level|
-|----|
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Benchmark set      | FiRES | ReUPred | Swelfe | CE-symm | HHrepiID | lalign | RADAR |
+| :----------------- | :---: | :-----: | :----: | :-----: | :------: | :----: | :---: |
+| Duplicated domains |  0.86 |  0.50   |  0.59  |  0.72   |   0.61   |  0.57  |  0.28 |
+| Protein repeats    |  0.93 |  0.49   |  0.65  |  0.80   |   0.67   |  0.59  |  0.46 |
 
 ### [RepeatsDB](https://github.com/Claualvarez/Internal_structure_similarity_benchmark/blob/master/RepeatsDB/RepeatsDB_reference_units.tsv)
 >Paladin L, Hirsh L, Piovesan D, et al. RepeatsDB 2.0: improved annotation,
