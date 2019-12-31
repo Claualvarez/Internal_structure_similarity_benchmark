@@ -1,6 +1,7 @@
 ## Internal_structure_similarity_benchmark
 
 **Accuracy of the detection at the protein level**
+
 | Benchmark set      | FiRES | ReUPred | Swelfe | CE-symm | HHrepiID | lalign | RADAR |
 | :----------------- | :---: | :-----: | :----: | :-----: | :------: | :----: | :---: |
 | Duplicated domains |  0.86 |  0.50   |  0.59  |  0.72   |   0.61   |  0.57  |  0.28 |
