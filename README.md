@@ -1,6 +1,6 @@
 ## Internal_structure_similarity_benchmark
 
-|Accuracy at the protein level|
+||Accuracy at the protein level|
 |----|
 | First Header  | Second Header |
 | ------------- | ------------- |
