@@ -1,5 +1,7 @@
 ## Internal_structure_similarity_benchmark
 
+|Accuracy at the protein level|
+|----|
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
