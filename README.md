@@ -1,5 +1,10 @@
 ## Internal_structure_similarity_benchmark
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### [RepeatsDB](https://github.com/Claualvarez/Internal_structure_similarity_benchmark/blob/master/RepeatsDB/RepeatsDB_reference_units.tsv)
 >Paladin L, Hirsh L, Piovesan D, et al. RepeatsDB 2.0: improved annotation,
 classification , search and visualization of repeat protein structures.
