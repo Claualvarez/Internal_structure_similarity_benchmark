@@ -28,6 +28,7 @@ We applied three sequential filters:
 > Mitchell AL, Attwood TK, Babbitt PC, et al. InterPro in 2019 : improving coverage , classification and access to protein sequence annotations. Nucleic Acids Res.
 3. sequence and structure evaluation using the followhing algorithms with default parameters:
    - **FiRES**
+   >Alvarez‐Carreño C., Coello G., Arciniega M. FiRES: A Computational Method for the De Novo Identification of Internal Structure Similarity in Proteins. Proteins. 2020. https://doi.org/10.1002/prot.25886
    - **HHrepID** 
    > Biegert A, Söding J. De novo identification of highly diverged protein repeats by probabilistic consistency. Bioinformatics. 2008;24(6):807-814. doi:10.1093/bioinformatics/btn039.
    - **lalign**
